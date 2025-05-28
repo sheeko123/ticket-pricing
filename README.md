@@ -109,6 +109,6 @@ streamlit run app.py
 
 ## Contact
 
-Dara Sheehan - 
+Dara Sheehan - DaraSheehan101@gmail.com
 
 
