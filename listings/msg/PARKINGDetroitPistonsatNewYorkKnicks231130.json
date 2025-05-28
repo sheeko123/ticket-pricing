@@ -1,0 +1,74 @@
+[
+	{
+		"timestamp": "11-30-23 / 12:40 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "les",
+		"row": "",
+		"quantity": 3,
+		"price": 20.7
+	},
+	{
+		"timestamp": "11-26-23 / 10:34 PM",
+		"zone": "Quik Park",
+		"section": "Truffles 319 W. 33rd St - 0.1 mi from venue",
+		"row": "PARKI",
+		"quantity": 4,
+		"price": 47.09
+	},
+	{
+		"timestamp": "11-24-23 / 03:38 PM",
+		"zone": "Select Garages",
+		"section": "Select Garages",
+		"row": "",
+		"quantity": 1,
+		"price": 123.75
+	},
+	{
+		"timestamp": "11-24-23 / 03:38 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "355 W. 34th St. - 0.2 mi from venue",
+		"row": "",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "11-24-23 / 08:00 AM",
+		"zone": "Quik Park",
+		"section": "Truffles 319 W. 33rd St - 0.1 mi from venue",
+		"row": "",
+		"quantity": 1,
+		"price": 57.42
+	},
+	{
+		"timestamp": "11-10-23 / 10:21 PM",
+		"zone": "",
+		"section": "59 W 36TH ST. - 0.5 MILES FROM VENUE",
+		"row": "PARKI",
+		"quantity": 1,
+		"price": 62.26
+	},
+	{
+		"timestamp": "11-10-23 / 10:21 PM",
+		"zone": "",
+		"section": "150 W 38TH ST - 0.4 MILES FROM VENUE",
+		"row": "PARKI",
+		"quantity": 1,
+		"price": 71.84
+	},
+	{
+		"timestamp": "11-09-23 / 07:54 PM",
+		"zone": "",
+		"section": "INDOOR GARAGE",
+		"row": "GA",
+		"quantity": 3,
+		"price": 86.33
+	},
+	{
+		"timestamp": "11-09-23 / 07:54 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "One Penn Plaza - 0.1 mi from venue",
+		"row": "",
+		"quantity": 3,
+		"price": 63.05
+	}
+]

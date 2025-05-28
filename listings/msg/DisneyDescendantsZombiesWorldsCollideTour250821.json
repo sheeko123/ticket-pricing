@@ -1,0 +1,466 @@
+[
+	{
+		"timestamp": "04-21-25 / 07:52 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "20",
+		"quantity": 2,
+		"price": 119
+	},
+	{
+		"timestamp": "04-20-25 / 10:58 AM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "14",
+		"quantity": 2,
+		"price": 129
+	},
+	{
+		"timestamp": "04-17-25 / 07:22 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "18",
+		"quantity": 0,
+		"price": 99
+	},
+	{
+		"timestamp": "04-16-25 / 01:00 PM",
+		"zone": "Floor",
+		"section": "E",
+		"row": "2",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "04-08-25 / 05:42 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "19",
+		"quantity": 2,
+		"price": 146
+	},
+	{
+		"timestamp": "04-08-25 / 12:16 PM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "5",
+		"quantity": 0,
+		"price": 212
+	},
+	{
+		"timestamp": "04-07-25 / 07:50 AM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "10",
+		"quantity": 0,
+		"price": 201
+	},
+	{
+		"timestamp": "04-03-25 / 10:14 AM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "13",
+		"quantity": 0,
+		"price": 121
+	},
+	{
+		"timestamp": "04-01-25 / 05:50 PM",
+		"zone": "Lounge",
+		"section": "305",
+		"row": "2",
+		"quantity": 6,
+		"price": 77
+	},
+	{
+		"timestamp": "03-31-25 / 01:47 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "11",
+		"quantity": 2,
+		"price": 73
+	},
+	{
+		"timestamp": "03-26-25 / 01:16 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "23",
+		"quantity": 0,
+		"price": 63
+	},
+	{
+		"timestamp": "03-26-25 / 08:35 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "25",
+		"quantity": 1,
+		"price": 276
+	},
+	{
+		"timestamp": "03-25-25 / 09:33 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "21",
+		"quantity": 0,
+		"price": 146
+	},
+	{
+		"timestamp": "03-24-25 / 12:11 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "11",
+		"quantity": 0,
+		"price": 199
+	},
+	{
+		"timestamp": "03-21-25 / 10:14 PM",
+		"zone": "Lounge",
+		"section": "301",
+		"row": "1",
+		"quantity": 0,
+		"price": 89
+	},
+	{
+		"timestamp": "03-21-25 / 06:52 PM",
+		"zone": "100 Level",
+		"section": "101",
+		"row": "19",
+		"quantity": 2,
+		"price": 103
+	},
+	{
+		"timestamp": "03-19-25 / 01:37 PM",
+		"zone": "200 Level",
+		"section": "210",
+		"row": "22",
+		"quantity": 0,
+		"price": 64.46
+	},
+	{
+		"timestamp": "03-16-25 / 10:31 AM",
+		"zone": "200 Level",
+		"section": "225",
+		"row": "23",
+		"quantity": 0,
+		"price": 60.07
+	},
+	{
+		"timestamp": "03-01-25 / 05:01 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "25",
+		"quantity": 2,
+		"price": 209.38
+	},
+	{
+		"timestamp": "03-01-25 / 10:43 AM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "20",
+		"quantity": 5,
+		"price": 128.71
+	},
+	{
+		"timestamp": "02-19-25 / 11:46 AM",
+		"zone": "Chase Bridges",
+		"section": "311",
+		"row": "1",
+		"quantity": 0,
+		"price": 85.51
+	},
+	{
+		"timestamp": "02-18-25 / 08:45 AM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "3",
+		"quantity": 0,
+		"price": 116.33
+	},
+	{
+		"timestamp": "02-17-25 / 07:25 AM",
+		"zone": "100 Level",
+		"section": "107",
+		"row": "22",
+		"quantity": 0,
+		"price": 164.59
+	},
+	{
+		"timestamp": "02-16-25 / 11:10 AM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "12",
+		"quantity": 0,
+		"price": 195.09
+	},
+	{
+		"timestamp": "02-16-25 / 07:18 AM",
+		"zone": "100 Level",
+		"section": "107",
+		"row": "22",
+		"quantity": 0,
+		"price": 166.25
+	},
+	{
+		"timestamp": "02-13-25 / 09:44 PM",
+		"zone": "Lounge Barstools",
+		"section": "301",
+		"row": "BS3",
+		"quantity": 0,
+		"price": 69.96
+	},
+	{
+		"timestamp": "01-21-25 / 02:18 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "7",
+		"quantity": 0,
+		"price": 243.4
+	},
+	{
+		"timestamp": "01-19-25 / 07:04 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "11",
+		"quantity": 4,
+		"price": 254.88
+	},
+	{
+		"timestamp": "01-19-25 / 05:35 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "11",
+		"quantity": 4,
+		"price": 231.83
+	},
+	{
+		"timestamp": "01-18-25 / 07:07 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "7",
+		"quantity": 4,
+		"price": 266.7
+	},
+	{
+		"timestamp": "01-18-25 / 07:07 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "7",
+		"quantity": 4,
+		"price": 264.79
+	},
+	{
+		"timestamp": "01-18-25 / 07:07 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "8",
+		"quantity": 6,
+		"price": 140.43
+	},
+	{
+		"timestamp": "01-18-25 / 07:07 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "4",
+		"quantity": 2,
+		"price": 148.39
+	},
+	{
+		"timestamp": "01-18-25 / 07:07 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "10",
+		"quantity": 2,
+		"price": 108.9
+	},
+	{
+		"timestamp": "01-18-25 / 03:07 PM",
+		"zone": "Floor",
+		"section": "E",
+		"row": "1",
+		"quantity": 2,
+		"price": 230.43
+	},
+	{
+		"timestamp": "01-12-25 / 05:48 AM",
+		"zone": "200 Level",
+		"section": "210",
+		"row": "2",
+		"quantity": 1,
+		"price": 160.63
+	},
+	{
+		"timestamp": "01-09-25 / 08:37 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "12",
+		"quantity": 4,
+		"price": 95.92
+	},
+	{
+		"timestamp": "01-08-25 / 08:25 AM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "3",
+		"quantity": 4,
+		"price": 127.98
+	},
+	{
+		"timestamp": "01-07-25 / 04:09 AM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "17",
+		"quantity": 2,
+		"price": 213.01
+	},
+	{
+		"timestamp": "01-06-25 / 09:09 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "24",
+		"quantity": 0,
+		"price": 248.5
+	},
+	{
+		"timestamp": "01-06-25 / 08:33 AM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "7",
+		"quantity": 2,
+		"price": 252.76
+	},
+	{
+		"timestamp": "12-22-24 / 09:44 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "9",
+		"quantity": 4,
+		"price": 239.09
+	},
+	{
+		"timestamp": "12-21-24 / 01:48 PM",
+		"zone": "Chase Bridges",
+		"section": "328",
+		"row": "1",
+		"quantity": 4,
+		"price": 111.08
+	},
+	{
+		"timestamp": "12-21-24 / 01:48 PM",
+		"zone": "Lounge",
+		"section": "306",
+		"row": "1",
+		"quantity": 2,
+		"price": 111.08
+	},
+	{
+		"timestamp": "12-20-24 / 05:30 PM",
+		"zone": "100 Level",
+		"section": "106",
+		"row": "15",
+		"quantity": 2,
+		"price": 233.27
+	},
+	{
+		"timestamp": "12-20-24 / 04:45 AM",
+		"zone": "100 Level",
+		"section": "101",
+		"row": "8",
+		"quantity": 2,
+		"price": 261.84
+	},
+	{
+		"timestamp": "12-17-24 / 04:44 AM",
+		"zone": "200 Level",
+		"section": "206",
+		"row": "4",
+		"quantity": 0,
+		"price": 125.31
+	},
+	{
+		"timestamp": "12-11-24 / 12:42 PM",
+		"zone": "100 Level",
+		"section": "107",
+		"row": "22",
+		"quantity": 1,
+		"price": 209.15
+	},
+	{
+		"timestamp": "12-05-24 / 03:03 PM",
+		"zone": "100 Level",
+		"section": "117",
+		"row": "10",
+		"quantity": 4,
+		"price": 320.03
+	},
+	{
+		"timestamp": "12-05-24 / 12:01 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "9",
+		"quantity": 1,
+		"price": 116.11
+	},
+	{
+		"timestamp": "12-03-24 / 03:40 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "22",
+		"quantity": 1,
+		"price": 82.93
+	},
+	{
+		"timestamp": "12-02-24 / 11:25 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "18",
+		"quantity": 5,
+		"price": 134.8
+	},
+	{
+		"timestamp": "12-02-24 / 11:25 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "18",
+		"quantity": 5,
+		"price": 134.8
+	},
+	{
+		"timestamp": "11-25-24 / 12:52 PM",
+		"zone": "200 Level",
+		"section": "202",
+		"row": "3",
+		"quantity": 4,
+		"price": 127.46
+	},
+	{
+		"timestamp": "11-12-24 / 01:49 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "16",
+		"quantity": 2,
+		"price": 518.36
+	},
+	{
+		"timestamp": "11-12-24 / 12:59 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "4",
+		"quantity": 4,
+		"price": 271.5
+	},
+	{
+		"timestamp": "11-12-24 / 12:47 PM",
+		"zone": "Chase Bridges",
+		"section": "311",
+		"row": "1",
+		"quantity": 2,
+		"price": 92.29
+	},
+	{
+		"timestamp": "11-12-24 / 11:55 AM",
+		"zone": "200 Level",
+		"section": "210",
+		"row": "24",
+		"quantity": 4,
+		"price": 229.5
+	}
+]

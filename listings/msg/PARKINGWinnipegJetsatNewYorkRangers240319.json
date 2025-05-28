@@ -1,0 +1,106 @@
+[
+	{
+		"timestamp": "03-19-24 / 05:36 AM",
+		"zone": "Parking within .75 mi",
+		"section": "38 W. 43rd St. - 0.6 mi from venue",
+		"row": "",
+		"quantity": 3,
+		"price": 49.5
+	},
+	{
+		"timestamp": "03-15-24 / 04:53 PM",
+		"zone": "Parking within 1.0 mi",
+		"section": "450 W. 38th St. - 1 mi from venue",
+		"row": "",
+		"quantity": 3,
+		"price": 40.5
+	},
+	{
+		"timestamp": "03-11-24 / 08:20 PM",
+		"zone": "Parking Management",
+		"section": "124 W 31 St",
+		"row": "",
+		"quantity": 1,
+		"price": 108
+	},
+	{
+		"timestamp": "02-07-24 / 03:02 PM",
+		"zone": "Quik Park",
+		"section": "Truffles 319 W. 33rd St - 0.1 mi from venue",
+		"row": "PARKI",
+		"quantity": 1,
+		"price": 52.38
+	},
+	{
+		"timestamp": "01-19-24 / 01:03 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "les",
+		"row": "1",
+		"quantity": 3,
+		"price": 63.05
+	},
+	{
+		"timestamp": "01-10-24 / 04:58 AM",
+		"zone": "Quik Park",
+		"section": "Truffles 319 W. 33rd St - 0.1 mi from venue",
+		"row": "",
+		"quantity": 1,
+		"price": 53.1
+	},
+	{
+		"timestamp": "01-08-24 / 07:18 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "355 W. 34th St. - 0.2 mi from venue",
+		"row": "",
+		"quantity": 1,
+		"price": 90
+	},
+	{
+		"timestamp": "01-08-24 / 07:18 PM",
+		"zone": "Select Garages",
+		"section": "Select Garages",
+		"row": "",
+		"quantity": 1,
+		"price": 112.5
+	},
+	{
+		"timestamp": "12-06-23 / 04:40 PM",
+		"zone": "Within 0.25 mi",
+		"section": "272 West 34th St. - 0.1 mi from venue",
+		"row": "",
+		"quantity": 3,
+		"price": 58.5
+	},
+	{
+		"timestamp": "11-09-23 / 07:06 PM",
+		"zone": "",
+		"section": "126 W 32ND ST",
+		"row": "GA",
+		"quantity": 3,
+		"price": 47.53
+	},
+	{
+		"timestamp": "11-09-23 / 07:06 PM",
+		"zone": "Within 0.25 mi",
+		"section": "272 West 34th St. - 0.1 mi from venue",
+		"row": "GA",
+		"quantity": 3,
+		"price": 53.35
+	},
+	{
+		"timestamp": "11-09-23 / 07:06 PM",
+		"zone": "",
+		"section": "38 W.26TH ST",
+		"row": "GA",
+		"quantity": 3,
+		"price": 43.65
+	},
+	{
+		"timestamp": "10-25-23 / 11:38 PM",
+		"zone": "Parking within 0.5 mi",
+		"section": "220 W. 26th St. - 0.3 mi from venue",
+		"row": "PARKI",
+		"quantity": 2,
+		"price": 99
+	}
+]

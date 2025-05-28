@@ -1,0 +1,58 @@
+[
+	{
+		"timestamp": "07-22-22 / 12:55 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 150.5
+	},
+	{
+		"timestamp": "07-20-22 / 09:02 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 143
+	},
+	{
+		"timestamp": "07-19-22 / 05:11 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "07-17-22 / 03:31 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 148.15
+	},
+	{
+		"timestamp": "07-08-22 / 06:01 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 140
+	},
+	{
+		"timestamp": "06-21-22 / 04:30 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 102.9
+	},
+	{
+		"timestamp": "06-21-22 / 12:44 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "1",
+		"quantity": 4,
+		"price": 111.11
+	}
+]

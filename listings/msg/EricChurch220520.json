@@ -1,0 +1,6050 @@
+[
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "13",
+		"quantity": 2,
+		"price": 121.01
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "15",
+		"quantity": 2,
+		"price": 126.46
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "20",
+		"quantity": 1,
+		"price": 61.71
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "8",
+		"quantity": 2,
+		"price": 58.49
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "10",
+		"quantity": 2,
+		"price": 129
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "7",
+		"quantity": 4,
+		"price": 200
+	},
+	{
+		"timestamp": "05-20-22 / 08:04 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "05-20-22 / 07:44 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "05-20-22 / 07:19 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "3",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "05-20-22 / 07:19 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "05-20-22 / 06:54 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "18",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "05-20-22 / 06:54 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "3",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "05-20-22 / 06:54 PM",
+		"zone": "The Lounges",
+		"section": "304",
+		"row": "1",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-20-22 / 06:28 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "13",
+		"quantity": 4,
+		"price": 215
+	},
+	{
+		"timestamp": "05-20-22 / 06:28 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "4",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-20-22 / 06:28 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "3",
+		"quantity": 3,
+		"price": 49
+	},
+	{
+		"timestamp": "05-20-22 / 06:28 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "8",
+		"quantity": 2,
+		"price": 58.49
+	},
+	{
+		"timestamp": "05-20-22 / 06:28 PM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "1",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-20-22 / 06:01 PM",
+		"zone": "200 Level",
+		"section": "- 225",
+		"row": "22",
+		"quantity": 1,
+		"price": 109
+	},
+	{
+		"timestamp": "05-20-22 / 06:01 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "23",
+		"quantity": 2,
+		"price": 109
+	},
+	{
+		"timestamp": "05-20-22 / 06:01 PM",
+		"zone": "400 Level",
+		"section": "- 420",
+		"row": "6",
+		"quantity": 1,
+		"price": 28.48
+	},
+	{
+		"timestamp": "05-20-22 / 06:01 PM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "1",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-20-22 / 05:39 PM",
+		"zone": "400 Level",
+		"section": "- 420",
+		"row": "6",
+		"quantity": 4,
+		"price": 26.5
+	},
+	{
+		"timestamp": "05-20-22 / 05:39 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "6",
+		"quantity": 2,
+		"price": 19.8
+	},
+	{
+		"timestamp": "05-20-22 / 05:39 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "6",
+		"quantity": 4,
+		"price": 14.5
+	},
+	{
+		"timestamp": "05-20-22 / 05:39 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA7",
+		"quantity": 1,
+		"price": 119
+	},
+	{
+		"timestamp": "05-20-22 / 05:08 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "10",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "05-20-22 / 05:08 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "8",
+		"quantity": 2,
+		"price": 31.49
+	},
+	{
+		"timestamp": "05-20-22 / 04:43 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "20",
+		"quantity": 3,
+		"price": 61.71
+	},
+	{
+		"timestamp": "05-20-22 / 04:43 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 5,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-20-22 / 04:12 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "4",
+		"quantity": 2,
+		"price": 12.21
+	},
+	{
+		"timestamp": "05-20-22 / 04:12 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 4,
+		"price": 69.99
+	},
+	{
+		"timestamp": "05-20-22 / 03:49 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "12",
+		"quantity": 2,
+		"price": 19.49
+	},
+	{
+		"timestamp": "05-20-22 / 03:49 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "18",
+		"quantity": 2,
+		"price": 23.69
+	},
+	{
+		"timestamp": "05-20-22 / 03:49 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "5",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-20-22 / 03:49 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "6",
+		"quantity": 4,
+		"price": 220
+	},
+	{
+		"timestamp": "05-20-22 / 03:17 PM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "7",
+		"quantity": 3,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 03:17 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 2,
+		"price": 17.49
+	},
+	{
+		"timestamp": "05-20-22 / 03:17 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "6",
+		"quantity": 2,
+		"price": 9.8
+	},
+	{
+		"timestamp": "05-20-22 / 03:17 PM",
+		"zone": "Chase Bridges",
+		"section": "314",
+		"row": "1",
+		"quantity": 2,
+		"price": 34
+	},
+	{
+		"timestamp": "05-20-22 / 02:52 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 4,
+		"price": 150
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "20",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "16",
+		"quantity": 4,
+		"price": 48.5
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "18",
+		"quantity": 4,
+		"price": 73.68
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "12",
+		"quantity": 4,
+		"price": 75
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "9",
+		"quantity": 1,
+		"price": 81.18
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "4",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 89
+	},
+	{
+		"timestamp": "05-20-22 / 02:26 PM",
+		"zone": "The Lounges",
+		"section": "301",
+		"row": "1",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-20-22 / 02:00 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "15",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-20-22 / 02:00 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 1,
+		"price": 20.68
+	},
+	{
+		"timestamp": "05-20-22 / 02:00 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "20",
+		"quantity": 2,
+		"price": 36
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "9",
+		"quantity": 2,
+		"price": 44
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "10",
+		"quantity": 4,
+		"price": 90
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "18",
+		"quantity": 1,
+		"price": 45
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "400 Level",
+		"section": "- 420",
+		"row": "4",
+		"quantity": 2,
+		"price": 15.55
+	},
+	{
+		"timestamp": "05-20-22 / 01:33 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 84.75
+	},
+	{
+		"timestamp": "05-20-22 / 01:03 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "9",
+		"quantity": 5,
+		"price": 20.9
+	},
+	{
+		"timestamp": "05-20-22 / 01:03 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "16",
+		"quantity": 3,
+		"price": 30
+	},
+	{
+		"timestamp": "05-20-22 / 01:03 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 1,
+		"price": 24.49
+	},
+	{
+		"timestamp": "05-20-22 / 01:03 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "4",
+		"quantity": 1,
+		"price": 18.39
+	},
+	{
+		"timestamp": "05-20-22 / 01:03 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "16",
+		"quantity": 2,
+		"price": 233
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "10",
+		"quantity": 3,
+		"price": 38.72
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "4",
+		"quantity": 1,
+		"price": 59
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "9",
+		"quantity": 7,
+		"price": 20.9
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "18",
+		"quantity": 2,
+		"price": 25.75
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 225",
+		"row": "B25",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 75.92
+	},
+	{
+		"timestamp": "05-20-22 / 12:43 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 72.5
+	},
+	{
+		"timestamp": "05-20-22 / 12:16 PM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "6",
+		"quantity": 1,
+		"price": 96
+	},
+	{
+		"timestamp": "05-20-22 / 12:16 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "5",
+		"quantity": 2,
+		"price": 12
+	},
+	{
+		"timestamp": "05-20-22 / 11:50 AM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "4",
+		"quantity": 1,
+		"price": 206
+	},
+	{
+		"timestamp": "05-20-22 / 11:50 AM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-20-22 / 11:50 AM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "18",
+		"quantity": 3,
+		"price": 25
+	},
+	{
+		"timestamp": "05-20-22 / 11:50 AM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "5",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "05-20-22 / 11:25 AM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "17",
+		"quantity": 1,
+		"price": 22
+	},
+	{
+		"timestamp": "05-20-22 / 11:25 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 98.22
+	},
+	{
+		"timestamp": "05-20-22 / 11:25 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 125
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "100 Level",
+		"section": "- 116",
+		"row": "18",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "12",
+		"quantity": 4,
+		"price": 39
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "2",
+		"quantity": 1,
+		"price": 35
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "17",
+		"quantity": 2,
+		"price": 18
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "05-20-22 / 10:59 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 68
+	},
+	{
+		"timestamp": "05-20-22 / 10:37 AM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "22",
+		"quantity": 1,
+		"price": 59
+	},
+	{
+		"timestamp": "05-20-22 / 10:37 AM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "19",
+		"quantity": 2,
+		"price": 48.29
+	},
+	{
+		"timestamp": "05-20-22 / 10:37 AM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "18",
+		"quantity": 1,
+		"price": 75
+	},
+	{
+		"timestamp": "05-20-22 / 10:37 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 69.69
+	},
+	{
+		"timestamp": "05-20-22 / 09:45 AM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "17",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 09:45 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "17",
+		"quantity": 2,
+		"price": 27.5
+	},
+	{
+		"timestamp": "05-20-22 / 09:45 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 5,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 09:22 AM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-20-22 / 09:22 AM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "16",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "05-20-22 / 09:00 AM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "9",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-20-22 / 09:00 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "16",
+		"quantity": 1,
+		"price": 60
+	},
+	{
+		"timestamp": "05-20-22 / 09:00 AM",
+		"zone": "200 Level",
+		"section": "- 202",
+		"row": "4",
+		"quantity": 3,
+		"price": 30
+	},
+	{
+		"timestamp": "05-20-22 / 09:00 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 75
+	},
+	{
+		"timestamp": "05-20-22 / 08:13 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 89
+	},
+	{
+		"timestamp": "05-20-22 / 07:52 AM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "4",
+		"quantity": 2,
+		"price": 89.9
+	},
+	{
+		"timestamp": "05-20-22 / 07:52 AM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "6",
+		"quantity": 4,
+		"price": 17.6
+	},
+	{
+		"timestamp": "05-20-22 / 07:35 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 70
+	},
+	{
+		"timestamp": "05-20-22 / 01:26 AM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "3",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "05-20-22 / 12:18 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "23",
+		"quantity": 2,
+		"price": 18
+	},
+	{
+		"timestamp": "05-20-22 / 12:18 AM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "20",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-20-22 / 12:18 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 69
+	},
+	{
+		"timestamp": "05-20-22 / 12:18 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "05-19-22 / 11:55 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "22",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-19-22 / 11:55 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "6",
+		"quantity": 1,
+		"price": 19.8
+	},
+	{
+		"timestamp": "05-19-22 / 11:55 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "05-19-22 / 11:55 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 11:55 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "05-19-22 / 11:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 6,
+		"price": 72
+	},
+	{
+		"timestamp": "05-19-22 / 11:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 6,
+		"price": 54.49
+	},
+	{
+		"timestamp": "05-19-22 / 11:36 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 70
+	},
+	{
+		"timestamp": "05-19-22 / 11:11 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "14",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 11:11 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "7",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "14",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "13",
+		"quantity": 2,
+		"price": 150.29
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "13",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "14",
+		"quantity": 4,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "400 Level",
+		"section": "- 421",
+		"row": "7",
+		"quantity": 4,
+		"price": 16.2
+	},
+	{
+		"timestamp": "05-19-22 / 10:48 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-19-22 / 10:23 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "23",
+		"quantity": 2,
+		"price": 18
+	},
+	{
+		"timestamp": "05-19-22 / 09:57 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "9",
+		"quantity": 3,
+		"price": 29.7
+	},
+	{
+		"timestamp": "05-19-22 / 09:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 09:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 48
+	},
+	{
+		"timestamp": "05-19-22 / 09:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA9.",
+		"quantity": 1,
+		"price": 49.88
+	},
+	{
+		"timestamp": "05-19-22 / 09:36 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 54.62
+	},
+	{
+		"timestamp": "05-19-22 / 09:06 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "14",
+		"quantity": 2,
+		"price": 56
+	},
+	{
+		"timestamp": "05-19-22 / 09:06 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "13",
+		"quantity": 2,
+		"price": 54.99
+	},
+	{
+		"timestamp": "05-19-22 / 09:06 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "6",
+		"quantity": 2,
+		"price": 17.99
+	},
+	{
+		"timestamp": "05-19-22 / 09:06 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 225",
+		"row": "B25",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "05-19-22 / 09:06 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "5",
+		"quantity": 1,
+		"price": 15
+	},
+	{
+		"timestamp": "05-19-22 / 08:12 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 3,
+		"price": 45
+	},
+	{
+		"timestamp": "05-19-22 / 08:12 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 34.34
+	},
+	{
+		"timestamp": "05-19-22 / 08:12 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA9.",
+		"quantity": 1,
+		"price": 49.88
+	},
+	{
+		"timestamp": "05-19-22 / 07:20 PM",
+		"zone": "100 Level",
+		"section": "- 116",
+		"row": "17",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "05-19-22 / 07:20 PM",
+		"zone": "200 Level",
+		"section": "- 206",
+		"row": "6",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-19-22 / 07:20 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "3",
+		"quantity": 2,
+		"price": 18.99
+	},
+	{
+		"timestamp": "05-19-22 / 07:20 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 3,
+		"price": 46.56
+	},
+	{
+		"timestamp": "05-19-22 / 07:20 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA7",
+		"quantity": 4,
+		"price": 49
+	},
+	{
+		"timestamp": "05-19-22 / 06:33 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "05-19-22 / 06:06 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "11",
+		"quantity": 4,
+		"price": 10
+	},
+	{
+		"timestamp": "05-19-22 / 06:06 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "3",
+		"quantity": 4,
+		"price": 18.99
+	},
+	{
+		"timestamp": "05-19-22 / 06:06 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "3",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "05-19-22 / 06:06 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 05:12 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "3",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "05-19-22 / 04:49 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "11",
+		"quantity": 3,
+		"price": 60
+	},
+	{
+		"timestamp": "05-19-22 / 04:49 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 2,
+		"price": 12.25
+	},
+	{
+		"timestamp": "05-19-22 / 04:49 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 6,
+		"price": 54.49
+	},
+	{
+		"timestamp": "05-19-22 / 04:49 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 47.5
+	},
+	{
+		"timestamp": "05-19-22 / 04:49 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA9.",
+		"quantity": 2,
+		"price": 49.88
+	},
+	{
+		"timestamp": "05-19-22 / 04:25 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 1,
+		"price": 29.49
+	},
+	{
+		"timestamp": "05-19-22 / 04:25 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 3,
+		"price": 12.25
+	},
+	{
+		"timestamp": "05-19-22 / 04:00 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "8",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "05-19-22 / 04:00 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "7",
+		"quantity": 4,
+		"price": 8
+	},
+	{
+		"timestamp": "05-19-22 / 03:36 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "14",
+		"quantity": 2,
+		"price": 27.49
+	},
+	{
+		"timestamp": "05-19-22 / 03:06 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "9",
+		"quantity": 4,
+		"price": 29.7
+	},
+	{
+		"timestamp": "05-19-22 / 03:06 PM",
+		"zone": "Chase Bridges",
+		"section": "314",
+		"row": "1",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-19-22 / 02:15 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "2",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-19-22 / 01:48 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 1,
+		"price": 12.25
+	},
+	{
+		"timestamp": "05-19-22 / 12:55 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "7",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "05-19-22 / 12:55 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 3,
+		"price": 29.49
+	},
+	{
+		"timestamp": "05-19-22 / 12:35 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "6",
+		"quantity": 1,
+		"price": 22
+	},
+	{
+		"timestamp": "05-19-22 / 12:35 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 53.99
+	},
+	{
+		"timestamp": "05-19-22 / 11:17 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "19",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-19-22 / 11:17 AM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "6",
+		"quantity": 2,
+		"price": 24.5
+	},
+	{
+		"timestamp": "05-19-22 / 11:17 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 53.99
+	},
+	{
+		"timestamp": "05-19-22 / 10:57 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "7",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 10:57 AM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "17",
+		"quantity": 4,
+		"price": 45
+	},
+	{
+		"timestamp": "05-19-22 / 10:57 AM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "17",
+		"quantity": 1,
+		"price": 35
+	},
+	{
+		"timestamp": "05-19-22 / 10:57 AM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "6",
+		"quantity": 2,
+		"price": 19.8
+	},
+	{
+		"timestamp": "05-19-22 / 10:34 AM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "6",
+		"quantity": 4,
+		"price": 24.5
+	},
+	{
+		"timestamp": "05-19-22 / 10:06 AM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "14",
+		"quantity": 2,
+		"price": 27.49
+	},
+	{
+		"timestamp": "05-19-22 / 10:06 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 10:06 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "05-19-22 / 09:24 AM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "13",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "05-19-22 / 08:16 AM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "15",
+		"quantity": 2,
+		"price": 170
+	},
+	{
+		"timestamp": "05-19-22 / 07:55 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-19-22 / 07:55 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "05-19-22 / 07:35 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 50
+	},
+	{
+		"timestamp": "05-18-22 / 11:22 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "18",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "05-18-22 / 11:22 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "9",
+		"quantity": 3,
+		"price": 29.7
+	},
+	{
+		"timestamp": "05-18-22 / 10:57 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "3",
+		"quantity": 2,
+		"price": 899.99
+	},
+	{
+		"timestamp": "05-18-22 / 10:36 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "5",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-18-22 / 10:09 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 58.86
+	},
+	{
+		"timestamp": "05-18-22 / 09:50 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "6",
+		"quantity": 2,
+		"price": 450
+	},
+	{
+		"timestamp": "05-18-22 / 09:50 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA7",
+		"quantity": 3,
+		"price": 85
+	},
+	{
+		"timestamp": "05-18-22 / 09:21 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "17",
+		"quantity": 1,
+		"price": 30
+	},
+	{
+		"timestamp": "05-18-22 / 09:21 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "9",
+		"quantity": 4,
+		"price": 29.7
+	},
+	{
+		"timestamp": "05-18-22 / 09:21 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 63.4
+	},
+	{
+		"timestamp": "05-18-22 / 08:56 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "8",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "05-18-22 / 08:56 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "6",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "05-18-22 / 08:56 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 3,
+		"price": 58.91
+	},
+	{
+		"timestamp": "05-18-22 / 08:32 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "7",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-18-22 / 08:32 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "05-18-22 / 08:06 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "8",
+		"quantity": 2,
+		"price": 415
+	},
+	{
+		"timestamp": "05-18-22 / 08:06 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "7",
+		"quantity": 4,
+		"price": 19.8
+	},
+	{
+		"timestamp": "05-18-22 / 07:12 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "22",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-18-22 / 06:49 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "6",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "05-18-22 / 04:46 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "5",
+		"quantity": 3,
+		"price": 13.49
+	},
+	{
+		"timestamp": "05-18-22 / 03:56 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "05-18-22 / 03:34 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "4",
+		"quantity": 2,
+		"price": 146
+	},
+	{
+		"timestamp": "05-18-22 / 03:04 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 64.93
+	},
+	{
+		"timestamp": "05-18-22 / 02:44 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 72.28
+	},
+	{
+		"timestamp": "05-18-22 / 02:15 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "6",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "05-18-22 / 02:15 PM",
+		"zone": "200 Level",
+		"section": "- 223",
+		"row": "18",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-18-22 / 02:15 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA9",
+		"quantity": 5,
+		"price": 79
+	},
+	{
+		"timestamp": "05-18-22 / 01:50 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "7",
+		"quantity": 2,
+		"price": 324
+	},
+	{
+		"timestamp": "05-18-22 / 01:50 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "6",
+		"quantity": 3,
+		"price": 17.6
+	},
+	{
+		"timestamp": "05-18-22 / 01:50 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "5",
+		"quantity": 2,
+		"price": 13.49
+	},
+	{
+		"timestamp": "05-18-22 / 12:36 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "9",
+		"quantity": 2,
+		"price": 37
+	},
+	{
+		"timestamp": "05-18-22 / 12:05 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "5",
+		"quantity": 3,
+		"price": 13.49
+	},
+	{
+		"timestamp": "05-18-22 / 12:05 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "1",
+		"quantity": 2,
+		"price": 1150
+	},
+	{
+		"timestamp": "05-18-22 / 11:43 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "10",
+		"quantity": 3,
+		"price": 50
+	},
+	{
+		"timestamp": "05-18-22 / 11:43 AM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "18",
+		"quantity": 3,
+		"price": 32.5
+	},
+	{
+		"timestamp": "05-18-22 / 11:43 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 75
+	},
+	{
+		"timestamp": "05-18-22 / 11:43 AM",
+		"zone": "West Balcony",
+		"section": "321",
+		"row": "2",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-18-22 / 11:18 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 89
+	},
+	{
+		"timestamp": "05-18-22 / 10:54 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "05-18-22 / 10:26 AM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "4",
+		"quantity": 2,
+		"price": 314.38
+	},
+	{
+		"timestamp": "05-18-22 / 09:39 AM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "19",
+		"quantity": 4,
+		"price": 52.49
+	},
+	{
+		"timestamp": "05-18-22 / 09:15 AM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "20",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "05-18-22 / 08:54 AM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "14",
+		"quantity": 1,
+		"price": 200
+	},
+	{
+		"timestamp": "05-18-22 / 12:52 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 89
+	},
+	{
+		"timestamp": "05-18-22 / 12:29 AM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "5",
+		"quantity": 2,
+		"price": 15.49
+	},
+	{
+		"timestamp": "05-18-22 / 12:04 AM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "5",
+		"quantity": 2,
+		"price": 143.26
+	},
+	{
+		"timestamp": "05-17-22 / 10:56 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "2",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-17-22 / 10:56 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "11",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-17-22 / 10:35 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-17-22 / 10:35 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "05-17-22 / 10:05 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "16",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-17-22 / 10:05 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "6",
+		"quantity": 1,
+		"price": 17.6
+	},
+	{
+		"timestamp": "05-17-22 / 10:05 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 87
+	},
+	{
+		"timestamp": "05-17-22 / 09:15 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "6",
+		"quantity": 4,
+		"price": 29.49
+	},
+	{
+		"timestamp": "05-17-22 / 08:54 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "9",
+		"quantity": 3,
+		"price": 29.7
+	},
+	{
+		"timestamp": "05-17-22 / 08:28 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "19",
+		"quantity": 2,
+		"price": 60.69
+	},
+	{
+		"timestamp": "05-17-22 / 08:28 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "17",
+		"quantity": 2,
+		"price": 223.49
+	},
+	{
+		"timestamp": "05-17-22 / 06:46 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "17",
+		"quantity": 1,
+		"price": 275
+	},
+	{
+		"timestamp": "05-17-22 / 05:28 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "20",
+		"quantity": 2,
+		"price": 59.74
+	},
+	{
+		"timestamp": "05-17-22 / 05:00 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "20",
+		"quantity": 2,
+		"price": 67.12
+	},
+	{
+		"timestamp": "05-17-22 / 04:39 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "11",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "05-17-22 / 04:39 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "5",
+		"quantity": 3,
+		"price": 16.55
+	},
+	{
+		"timestamp": "05-17-22 / 04:08 PM",
+		"zone": "West Balcony",
+		"section": "320",
+		"row": "1",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-17-22 / 03:21 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "14",
+		"quantity": 4,
+		"price": 95
+	},
+	{
+		"timestamp": "05-17-22 / 02:32 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "6",
+		"quantity": 2,
+		"price": 18.31
+	},
+	{
+		"timestamp": "05-17-22 / 02:05 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "20",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-17-22 / 01:40 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "6",
+		"quantity": 1,
+		"price": 100
+	},
+	{
+		"timestamp": "05-17-22 / 01:40 PM",
+		"zone": "200 Level",
+		"section": "- 202",
+		"row": "4",
+		"quantity": 3,
+		"price": 26.4
+	},
+	{
+		"timestamp": "05-17-22 / 01:40 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 3,
+		"price": 105
+	},
+	{
+		"timestamp": "05-17-22 / 01:11 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "22",
+		"quantity": 2,
+		"price": 20
+	},
+	{
+		"timestamp": "05-17-22 / 12:50 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "14",
+		"quantity": 2,
+		"price": 58
+	},
+	{
+		"timestamp": "05-17-22 / 11:25 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "6",
+		"quantity": 2,
+		"price": 68
+	},
+	{
+		"timestamp": "05-17-22 / 11:25 AM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "4",
+		"quantity": 2,
+		"price": 18.56
+	},
+	{
+		"timestamp": "05-17-22 / 11:01 AM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "18",
+		"quantity": 2,
+		"price": 60.58
+	},
+	{
+		"timestamp": "05-17-22 / 10:38 AM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "22",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-17-22 / 10:38 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "17",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "05-17-22 / 09:49 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "10",
+		"quantity": 3,
+		"price": 60
+	},
+	{
+		"timestamp": "05-17-22 / 09:49 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "17",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "05-17-22 / 09:28 AM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "14",
+		"quantity": 1,
+		"price": 25
+	},
+	{
+		"timestamp": "05-17-22 / 08:14 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 95
+	},
+	{
+		"timestamp": "05-17-22 / 12:03 AM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "13",
+		"quantity": 3,
+		"price": 29.49
+	},
+	{
+		"timestamp": "05-16-22 / 10:38 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "5",
+		"quantity": 2,
+		"price": 221
+	},
+	{
+		"timestamp": "05-16-22 / 10:12 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "9",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "05-16-22 / 09:50 PM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "13",
+		"quantity": 2,
+		"price": 30.13
+	},
+	{
+		"timestamp": "05-16-22 / 09:50 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "14",
+		"quantity": 6,
+		"price": 36.49
+	},
+	{
+		"timestamp": "05-16-22 / 09:50 PM",
+		"zone": "Chase Bridges",
+		"section": "326",
+		"row": "1",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "05-16-22 / 09:50 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 98
+	},
+	{
+		"timestamp": "05-16-22 / 09:21 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "19",
+		"quantity": 5,
+		"price": 32
+	},
+	{
+		"timestamp": "05-16-22 / 09:21 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "2",
+		"quantity": 2,
+		"price": 560
+	},
+	{
+		"timestamp": "05-16-22 / 08:32 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "9",
+		"quantity": 2,
+		"price": 33
+	},
+	{
+		"timestamp": "05-16-22 / 08:32 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA2",
+		"quantity": 1,
+		"price": 90
+	},
+	{
+		"timestamp": "05-16-22 / 08:05 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "6",
+		"quantity": 2,
+		"price": 155
+	},
+	{
+		"timestamp": "05-16-22 / 08:05 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "19",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "05-16-22 / 08:05 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA2",
+		"quantity": 3,
+		"price": 90
+	},
+	{
+		"timestamp": "05-16-22 / 08:05 PM",
+		"zone": "West Balcony Bar Stools",
+		"section": "323",
+		"row": "BS3",
+		"quantity": 3,
+		"price": 40
+	},
+	{
+		"timestamp": "05-16-22 / 07:41 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "16",
+		"quantity": 2,
+		"price": 89
+	},
+	{
+		"timestamp": "05-16-22 / 07:11 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 89.5
+	},
+	{
+		"timestamp": "05-16-22 / 06:27 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "20",
+		"quantity": 5,
+		"price": 60
+	},
+	{
+		"timestamp": "05-16-22 / 05:39 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-16-22 / 04:49 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "6",
+		"quantity": 2,
+		"price": 189
+	},
+	{
+		"timestamp": "05-16-22 / 04:22 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "21",
+		"quantity": 2,
+		"price": 65.1
+	},
+	{
+		"timestamp": "05-16-22 / 03:56 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "5",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "05-16-22 / 03:34 PM",
+		"zone": "200 Level",
+		"section": "- 223",
+		"row": "18",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-16-22 / 03:34 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 103.26
+	},
+	{
+		"timestamp": "05-16-22 / 03:05 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "21",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "05-16-22 / 03:05 PM",
+		"zone": "200 Level",
+		"section": "- 202",
+		"row": "4",
+		"quantity": 3,
+		"price": 37.4
+	},
+	{
+		"timestamp": "05-16-22 / 03:05 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA1",
+		"quantity": 4,
+		"price": 115
+	},
+	{
+		"timestamp": "05-16-22 / 01:29 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "4",
+		"quantity": 2,
+		"price": 21.3
+	},
+	{
+		"timestamp": "05-16-22 / 01:02 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "8",
+		"quantity": 4,
+		"price": 75
+	},
+	{
+		"timestamp": "05-16-22 / 01:02 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "11",
+		"quantity": 3,
+		"price": 91.99
+	},
+	{
+		"timestamp": "05-16-22 / 01:02 PM",
+		"zone": "West Balcony",
+		"section": "317",
+		"row": "BS3",
+		"quantity": 4,
+		"price": 23.1
+	},
+	{
+		"timestamp": "05-16-22 / 12:15 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 98
+	},
+	{
+		"timestamp": "05-16-22 / 11:07 AM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 2,
+		"price": 141
+	},
+	{
+		"timestamp": "05-16-22 / 09:31 AM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "16",
+		"quantity": 4,
+		"price": 163
+	},
+	{
+		"timestamp": "05-16-22 / 08:13 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 97
+	},
+	{
+		"timestamp": "05-16-22 / 07:52 AM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "22",
+		"quantity": 2,
+		"price": 167
+	},
+	{
+		"timestamp": "05-15-22 / 11:29 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "11",
+		"quantity": 2,
+		"price": 57.23
+	},
+	{
+		"timestamp": "05-15-22 / 11:04 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "10",
+		"quantity": 1,
+		"price": 90
+	},
+	{
+		"timestamp": "05-15-22 / 09:55 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "8",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "05-15-22 / 09:55 PM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "13",
+		"quantity": 4,
+		"price": 46.8
+	},
+	{
+		"timestamp": "05-15-22 / 08:15 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "6",
+		"quantity": 2,
+		"price": 220
+	},
+	{
+		"timestamp": "05-15-22 / 07:53 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "6",
+		"quantity": 4,
+		"price": 85
+	},
+	{
+		"timestamp": "05-15-22 / 07:35 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "22",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "05-15-22 / 05:40 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "15",
+		"quantity": 4,
+		"price": 79.99
+	},
+	{
+		"timestamp": "05-15-22 / 03:41 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "22",
+		"quantity": 2,
+		"price": 29
+	},
+	{
+		"timestamp": "05-15-22 / 03:41 PM",
+		"zone": "200 Level",
+		"section": "- 202",
+		"row": "4",
+		"quantity": 4,
+		"price": 37.4
+	},
+	{
+		"timestamp": "05-15-22 / 03:12 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-15-22 / 01:54 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA1",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "05-15-22 / 12:50 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 4,
+		"price": 103.99
+	},
+	{
+		"timestamp": "05-15-22 / 11:53 AM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "13",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "05-15-22 / 10:19 AM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "11",
+		"quantity": 2,
+		"price": 77
+	},
+	{
+		"timestamp": "05-15-22 / 10:19 AM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "19",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-15-22 / 01:53 AM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "16",
+		"quantity": 2,
+		"price": 89
+	},
+	{
+		"timestamp": "05-14-22 / 11:47 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "13",
+		"quantity": 2,
+		"price": 77.28
+	},
+	{
+		"timestamp": "05-14-22 / 08:51 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "19",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-14-22 / 08:51 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "4",
+		"quantity": 1,
+		"price": 20.87
+	},
+	{
+		"timestamp": "05-14-22 / 06:45 PM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "15",
+		"quantity": 2,
+		"price": 153
+	},
+	{
+		"timestamp": "05-14-22 / 06:14 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-14-22 / 04:38 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "6",
+		"quantity": 5,
+		"price": 33
+	},
+	{
+		"timestamp": "05-14-22 / 04:05 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 4,
+		"price": 61.6
+	},
+	{
+		"timestamp": "05-14-22 / 04:05 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-14-22 / 03:40 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "4",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "05-14-22 / 03:14 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "4",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-14-22 / 02:49 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "13",
+		"quantity": 2,
+		"price": 57
+	},
+	{
+		"timestamp": "05-14-22 / 02:49 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "5",
+		"quantity": 4,
+		"price": 31.9
+	},
+	{
+		"timestamp": "05-14-22 / 11:52 AM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "5",
+		"quantity": 2,
+		"price": 12.48
+	},
+	{
+		"timestamp": "05-14-22 / 09:55 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 103.25
+	},
+	{
+		"timestamp": "05-14-22 / 09:11 AM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "15",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "05-14-22 / 09:11 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "6",
+		"quantity": 2,
+		"price": 248.6
+	},
+	{
+		"timestamp": "05-14-22 / 09:11 AM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "5",
+		"quantity": 4,
+		"price": 31.9
+	},
+	{
+		"timestamp": "05-13-22 / 11:48 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "10",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "05-13-22 / 11:48 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "5",
+		"quantity": 3,
+		"price": 16.59
+	},
+	{
+		"timestamp": "05-13-22 / 10:33 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "8",
+		"quantity": 2,
+		"price": 71
+	},
+	{
+		"timestamp": "05-13-22 / 10:06 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "19",
+		"quantity": 6,
+		"price": 30
+	},
+	{
+		"timestamp": "05-13-22 / 09:15 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "18",
+		"quantity": 2,
+		"price": 51.2
+	},
+	{
+		"timestamp": "05-13-22 / 09:15 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 4,
+		"price": 111.25
+	},
+	{
+		"timestamp": "05-13-22 / 07:56 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "9",
+		"quantity": 1,
+		"price": 97.21
+	},
+	{
+		"timestamp": "05-13-22 / 06:05 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "22",
+		"quantity": 2,
+		"price": 51
+	},
+	{
+		"timestamp": "05-13-22 / 05:37 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "05-13-22 / 05:05 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "3",
+		"quantity": 4,
+		"price": 64
+	},
+	{
+		"timestamp": "05-13-22 / 03:09 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA8",
+		"quantity": 4,
+		"price": 128
+	},
+	{
+		"timestamp": "05-13-22 / 02:13 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "16",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "05-13-22 / 02:13 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "11",
+		"quantity": 1,
+		"price": 27.22
+	},
+	{
+		"timestamp": "05-13-22 / 01:21 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-13-22 / 12:55 PM",
+		"zone": "200 Level",
+		"section": "- 217",
+		"row": "3",
+		"quantity": 8,
+		"price": 34.14
+	},
+	{
+		"timestamp": "05-13-22 / 12:55 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "9",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "05-13-22 / 12:26 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "22",
+		"quantity": 6,
+		"price": 163
+	},
+	{
+		"timestamp": "05-13-22 / 12:26 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "13",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "05-13-22 / 11:33 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "2",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "05-13-22 / 10:36 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 3,
+		"price": 103.26
+	},
+	{
+		"timestamp": "05-13-22 / 08:58 AM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "3",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "05-13-22 / 08:39 AM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 210",
+		"row": "B25",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "05-13-22 / 07:04 AM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "17",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "05-13-22 / 12:13 AM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "16",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-12-22 / 11:45 PM",
+		"zone": "200 Level",
+		"section": "- 223",
+		"row": "18",
+		"quantity": 4,
+		"price": 32.5
+	},
+	{
+		"timestamp": "05-12-22 / 07:35 PM",
+		"zone": "200 Level",
+		"section": "- 217",
+		"row": "3",
+		"quantity": 2,
+		"price": 39.48
+	},
+	{
+		"timestamp": "05-12-22 / 07:05 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "5",
+		"quantity": 4,
+		"price": 45
+	},
+	{
+		"timestamp": "05-12-22 / 03:51 PM",
+		"zone": "200 Level",
+		"section": "- 217",
+		"row": "3",
+		"quantity": 2,
+		"price": 39.48
+	},
+	{
+		"timestamp": "05-12-22 / 03:00 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "5",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "05-12-22 / 02:05 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "5",
+		"quantity": 2,
+		"price": 48.4
+	},
+	{
+		"timestamp": "05-12-22 / 12:40 PM",
+		"zone": "200 Level",
+		"section": "- 215",
+		"row": "5",
+		"quantity": 2,
+		"price": 35
+	},
+	{
+		"timestamp": "05-12-22 / 11:42 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 3,
+		"price": 112
+	},
+	{
+		"timestamp": "05-12-22 / 10:49 AM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "6",
+		"quantity": 2,
+		"price": 299
+	},
+	{
+		"timestamp": "05-12-22 / 07:52 AM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "7",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "05-12-22 / 04:51 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA1",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "05-11-22 / 11:07 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "13",
+		"quantity": 6,
+		"price": 26.25
+	},
+	{
+		"timestamp": "05-11-22 / 10:43 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "3",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "05-11-22 / 09:49 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "11",
+		"quantity": 4,
+		"price": 37.28
+	},
+	{
+		"timestamp": "05-11-22 / 06:14 PM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "19",
+		"quantity": 2,
+		"price": 33.6
+	},
+	{
+		"timestamp": "05-11-22 / 05:17 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "14",
+		"quantity": 2,
+		"price": 48.49
+	},
+	{
+		"timestamp": "05-11-22 / 03:58 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "11",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "05-11-22 / 03:58 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "13",
+		"quantity": 4,
+		"price": 99.99
+	},
+	{
+		"timestamp": "05-11-22 / 03:34 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "20",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-11-22 / 02:36 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "7",
+		"quantity": 2,
+		"price": 37.4
+	},
+	{
+		"timestamp": "05-11-22 / 02:36 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "4",
+		"quantity": 2,
+		"price": 21.18
+	},
+	{
+		"timestamp": "05-11-22 / 02:02 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "20",
+		"quantity": 4,
+		"price": 35.5
+	},
+	{
+		"timestamp": "05-11-22 / 01:01 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "6",
+		"quantity": 2,
+		"price": 36.99
+	},
+	{
+		"timestamp": "05-11-22 / 12:37 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA8",
+		"quantity": 6,
+		"price": 149.73
+	},
+	{
+		"timestamp": "05-11-22 / 11:43 AM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "7",
+		"quantity": 4,
+		"price": 23.32
+	},
+	{
+		"timestamp": "05-11-22 / 10:48 AM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "4",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "05-11-22 / 10:05 AM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "4",
+		"quantity": 4,
+		"price": 28.33
+	},
+	{
+		"timestamp": "05-11-22 / 09:14 AM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "10",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "05-11-22 / 09:14 AM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "1",
+		"quantity": 2,
+		"price": 74
+	},
+	{
+		"timestamp": "05-11-22 / 08:53 AM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "BS3",
+		"quantity": 2,
+		"price": 18.53
+	},
+	{
+		"timestamp": "05-10-22 / 11:30 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "17",
+		"quantity": 2,
+		"price": 299
+	},
+	{
+		"timestamp": "05-10-22 / 11:02 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "5",
+		"quantity": 4,
+		"price": 46.78
+	},
+	{
+		"timestamp": "05-10-22 / 11:02 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 135
+	},
+	{
+		"timestamp": "05-10-22 / 10:39 PM",
+		"zone": "West Balcony",
+		"section": "319",
+		"row": "BS3",
+		"quantity": 2,
+		"price": 18.53
+	},
+	{
+		"timestamp": "05-10-22 / 10:10 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "19",
+		"quantity": 2,
+		"price": 66.2
+	},
+	{
+		"timestamp": "05-10-22 / 09:48 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "16",
+		"quantity": 3,
+		"price": 34
+	},
+	{
+		"timestamp": "05-10-22 / 04:54 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "17",
+		"quantity": 2,
+		"price": 275
+	},
+	{
+		"timestamp": "05-10-22 / 04:29 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "17",
+		"quantity": 1,
+		"price": 86
+	},
+	{
+		"timestamp": "05-10-22 / 02:29 PM",
+		"zone": "200 Level",
+		"section": "- 220",
+		"row": "5",
+		"quantity": 3,
+		"price": 53.9
+	},
+	{
+		"timestamp": "05-10-22 / 01:31 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "16",
+		"quantity": 4,
+		"price": 74.54
+	},
+	{
+		"timestamp": "05-10-22 / 12:09 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "3",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "05-10-22 / 11:16 AM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "20",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-10-22 / 05:06 AM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "12",
+		"quantity": 1,
+		"price": 48.49
+	},
+	{
+		"timestamp": "05-10-22 / 04:41 AM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 2,
+		"price": 249
+	},
+	{
+		"timestamp": "05-09-22 / 11:51 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "3",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "05-09-22 / 10:17 PM",
+		"zone": "West Balcony",
+		"section": "318",
+		"row": "BS3",
+		"quantity": 4,
+		"price": 20.99
+	},
+	{
+		"timestamp": "05-09-22 / 09:49 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "22",
+		"quantity": 2,
+		"price": 68.87
+	},
+	{
+		"timestamp": "05-09-22 / 08:20 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "7",
+		"quantity": 4,
+		"price": 37.4
+	},
+	{
+		"timestamp": "05-09-22 / 07:52 PM",
+		"zone": "200 Level",
+		"section": "- 216",
+		"row": "3",
+		"quantity": 4,
+		"price": 30
+	},
+	{
+		"timestamp": "05-09-22 / 02:47 PM",
+		"zone": "200 Level",
+		"section": "- 215",
+		"row": "5",
+		"quantity": 3,
+		"price": 37
+	},
+	{
+		"timestamp": "05-09-22 / 02:16 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "05-09-22 / 01:47 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 100
+	},
+	{
+		"timestamp": "05-09-22 / 10:42 AM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "6",
+		"quantity": 2,
+		"price": 37.8
+	},
+	{
+		"timestamp": "05-08-22 / 11:23 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "5",
+		"quantity": 2,
+		"price": 40.09
+	},
+	{
+		"timestamp": "05-08-22 / 09:19 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "7",
+		"quantity": 3,
+		"price": 80
+	},
+	{
+		"timestamp": "05-08-22 / 08:54 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "11",
+		"quantity": 4,
+		"price": 85.36
+	},
+	{
+		"timestamp": "05-08-22 / 05:48 PM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "22",
+		"quantity": 4,
+		"price": 35
+	},
+	{
+		"timestamp": "05-08-22 / 12:58 PM",
+		"zone": "200 Level",
+		"section": "- 222",
+		"row": "13",
+		"quantity": 3,
+		"price": 47.49
+	},
+	{
+		"timestamp": "05-08-22 / 08:44 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "7",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "05-08-22 / 05:46 AM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "14",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "05-07-22 / 10:52 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "22",
+		"quantity": 2,
+		"price": 68.43
+	},
+	{
+		"timestamp": "05-07-22 / 10:29 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "6",
+		"quantity": 2,
+		"price": 246.38
+	},
+	{
+		"timestamp": "05-07-22 / 08:29 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "4",
+		"quantity": 3,
+		"price": 47
+	},
+	{
+		"timestamp": "05-07-22 / 07:36 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "6",
+		"quantity": 2,
+		"price": 195.12
+	},
+	{
+		"timestamp": "05-07-22 / 01:11 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "20",
+		"quantity": 7,
+		"price": 94
+	},
+	{
+		"timestamp": "05-07-22 / 11:47 AM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "19",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "05-07-22 / 07:31 AM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "20",
+		"quantity": 2,
+		"price": 166
+	},
+	{
+		"timestamp": "05-06-22 / 10:05 PM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "21",
+		"quantity": 3,
+		"price": 31
+	},
+	{
+		"timestamp": "05-06-22 / 09:02 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "17",
+		"quantity": 3,
+		"price": 95
+	},
+	{
+		"timestamp": "05-06-22 / 08:03 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "5",
+		"quantity": 6,
+		"price": 37.42
+	},
+	{
+		"timestamp": "05-06-22 / 02:01 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "6",
+		"quantity": 2,
+		"price": 295
+	},
+	{
+		"timestamp": "05-06-22 / 11:55 AM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "17",
+		"quantity": 7,
+		"price": 90
+	},
+	{
+		"timestamp": "05-06-22 / 11:55 AM",
+		"zone": "200 Level",
+		"section": "- 216",
+		"row": "3",
+		"quantity": 2,
+		"price": 32.75
+	},
+	{
+		"timestamp": "05-06-22 / 11:55 AM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "22",
+		"quantity": 4,
+		"price": 35
+	},
+	{
+		"timestamp": "05-06-22 / 01:00 AM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "17",
+		"quantity": 2,
+		"price": 91
+	},
+	{
+		"timestamp": "05-05-22 / 10:57 PM",
+		"zone": "200 Level",
+		"section": "- 216",
+		"row": "3",
+		"quantity": 2,
+		"price": 33
+	},
+	{
+		"timestamp": "05-05-22 / 09:59 PM",
+		"zone": "200 Level",
+		"section": "- 207",
+		"row": "4",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "05-05-22 / 08:07 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "20",
+		"quantity": 2,
+		"price": 145
+	},
+	{
+		"timestamp": "05-05-22 / 04:00 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "1",
+		"quantity": 2,
+		"price": 113
+	},
+	{
+		"timestamp": "05-05-22 / 03:08 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "3",
+		"quantity": 2,
+		"price": 155.15
+	},
+	{
+		"timestamp": "05-05-22 / 09:48 AM",
+		"zone": "200 Level",
+		"section": "- 218",
+		"row": "1",
+		"quantity": 2,
+		"price": 32.06
+	},
+	{
+		"timestamp": "05-04-22 / 11:42 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 156.72
+	},
+	{
+		"timestamp": "05-04-22 / 07:51 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "11",
+		"quantity": 4,
+		"price": 104.24
+	},
+	{
+		"timestamp": "05-04-22 / 04:11 PM",
+		"zone": "200 Level",
+		"section": "- 218",
+		"row": "1",
+		"quantity": 2,
+		"price": 32.06
+	},
+	{
+		"timestamp": "05-04-22 / 12:52 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "19",
+		"quantity": 1,
+		"price": 97
+	},
+	{
+		"timestamp": "05-04-22 / 12:00 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "7",
+		"quantity": 4,
+		"price": 100
+	},
+	{
+		"timestamp": "05-03-22 / 10:55 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "5",
+		"quantity": 2,
+		"price": 57.2
+	},
+	{
+		"timestamp": "05-03-22 / 09:54 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "5",
+		"quantity": 2,
+		"price": 242.55
+	},
+	{
+		"timestamp": "05-03-22 / 09:54 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "9",
+		"quantity": 4,
+		"price": 73.49
+	},
+	{
+		"timestamp": "05-03-22 / 09:54 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "4",
+		"quantity": 4,
+		"price": 375
+	},
+	{
+		"timestamp": "05-03-22 / 09:03 PM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "22",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "05-03-22 / 02:40 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "7",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "05-03-22 / 08:47 AM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "18",
+		"quantity": 4,
+		"price": 85.04
+	},
+	{
+		"timestamp": "05-02-22 / 06:44 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "4",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "05-02-22 / 06:44 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "05-02-22 / 06:44 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 165.22
+	},
+	{
+		"timestamp": "05-02-22 / 10:52 AM",
+		"zone": "200 Level",
+		"section": "- 225",
+		"row": "7",
+		"quantity": 2,
+		"price": 73.47
+	},
+	{
+		"timestamp": "05-02-22 / 10:52 AM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "11",
+		"quantity": 3,
+		"price": 71.27
+	},
+	{
+		"timestamp": "05-01-22 / 08:15 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "5",
+		"quantity": 2,
+		"price": 425
+	},
+	{
+		"timestamp": "05-01-22 / 06:40 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 162.63
+	},
+	{
+		"timestamp": "05-01-22 / 05:48 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "1",
+		"quantity": 2,
+		"price": 347
+	},
+	{
+		"timestamp": "05-01-22 / 10:45 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 162.74
+	},
+	{
+		"timestamp": "04-30-22 / 09:55 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 154.99
+	},
+	{
+		"timestamp": "04-30-22 / 07:40 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "1",
+		"quantity": 4,
+		"price": 154.99
+	},
+	{
+		"timestamp": "04-30-22 / 05:11 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "19",
+		"quantity": 2,
+		"price": 89.09
+	},
+	{
+		"timestamp": "04-29-22 / 04:21 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "17",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "04-29-22 / 03:38 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "8",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "04-29-22 / 09:48 AM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "5",
+		"quantity": 6,
+		"price": 57.2
+	},
+	{
+		"timestamp": "04-29-22 / 01:00 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 175
+	},
+	{
+		"timestamp": "04-28-22 / 09:52 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "6",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "04-28-22 / 05:44 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "2",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "04-28-22 / 04:52 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "2",
+		"quantity": 2,
+		"price": 750
+	},
+	{
+		"timestamp": "04-28-22 / 09:49 AM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "16",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "04-28-22 / 09:49 AM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "4",
+		"quantity": 2,
+		"price": 87.41
+	},
+	{
+		"timestamp": "04-28-22 / 12:12 AM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "20",
+		"quantity": 3,
+		"price": 94.88
+	},
+	{
+		"timestamp": "04-27-22 / 08:55 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "7",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "04-26-22 / 10:40 PM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "19",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "04-26-22 / 06:41 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "8",
+		"quantity": 4,
+		"price": 263.2
+	},
+	{
+		"timestamp": "04-26-22 / 05:54 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "20",
+		"quantity": 4,
+		"price": 110
+	},
+	{
+		"timestamp": "04-26-22 / 02:05 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "21",
+		"quantity": 2,
+		"price": 194.89
+	},
+	{
+		"timestamp": "04-25-22 / 12:31 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "8",
+		"quantity": 2,
+		"price": 164
+	},
+	{
+		"timestamp": "04-24-22 / 10:40 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "7",
+		"quantity": 4,
+		"price": 185
+	},
+	{
+		"timestamp": "04-23-22 / 09:52 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "6",
+		"quantity": 2,
+		"price": 299
+	},
+	{
+		"timestamp": "04-22-22 / 11:52 PM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "BS3",
+		"quantity": 2,
+		"price": 63.29
+	},
+	{
+		"timestamp": "04-22-22 / 03:06 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "6",
+		"quantity": 2,
+		"price": 217.8
+	},
+	{
+		"timestamp": "04-22-22 / 08:48 AM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "24",
+		"quantity": 2,
+		"price": 85.5
+	},
+	{
+		"timestamp": "04-21-22 / 10:12 PM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "13",
+		"quantity": 5,
+		"price": 85.5
+	},
+	{
+		"timestamp": "04-21-22 / 08:44 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "16",
+		"quantity": 2,
+		"price": 129.86
+	},
+	{
+		"timestamp": "04-21-22 / 03:00 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "21",
+		"quantity": 2,
+		"price": 99.89
+	},
+	{
+		"timestamp": "04-21-22 / 11:12 AM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "6",
+		"quantity": 1,
+		"price": 73.7
+	},
+	{
+		"timestamp": "04-20-22 / 11:29 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "4",
+		"quantity": 9,
+		"price": 82.01
+	},
+	{
+		"timestamp": "04-20-22 / 07:53 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "1",
+		"quantity": 2,
+		"price": 113
+	},
+	{
+		"timestamp": "04-20-22 / 04:00 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 179
+	},
+	{
+		"timestamp": "04-19-22 / 10:13 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 209
+	},
+	{
+		"timestamp": "04-19-22 / 08:56 AM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "10",
+		"quantity": 4,
+		"price": 294.03
+	},
+	{
+		"timestamp": "04-18-22 / 08:27 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "13",
+		"quantity": 2,
+		"price": 98.89
+	},
+	{
+		"timestamp": "04-17-22 / 09:49 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 209
+	},
+	{
+		"timestamp": "04-17-22 / 01:50 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "04-16-22 / 10:14 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 4,
+		"price": 282.15
+	},
+	{
+		"timestamp": "04-16-22 / 09:30 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "04-16-22 / 12:38 PM",
+		"zone": "200 Level",
+		"section": "- 225",
+		"row": "24",
+		"quantity": 4,
+		"price": 110.28
+	},
+	{
+		"timestamp": "04-16-22 / 11:49 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 180
+	},
+	{
+		"timestamp": "04-16-22 / 11:08 AM",
+		"zone": "200 Level",
+		"section": "- 218",
+		"row": "2",
+		"quantity": 2,
+		"price": 98
+	},
+	{
+		"timestamp": "04-15-22 / 11:24 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "19",
+		"quantity": 2,
+		"price": 85.6
+	},
+	{
+		"timestamp": "04-15-22 / 11:24 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "1",
+		"quantity": 2,
+		"price": 179.99
+	},
+	{
+		"timestamp": "04-15-22 / 05:24 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 179.98
+	},
+	{
+		"timestamp": "04-14-22 / 11:24 AM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "12",
+		"quantity": 2,
+		"price": 300
+	},
+	{
+		"timestamp": "04-14-22 / 09:08 AM",
+		"zone": "200 Level",
+		"section": "- 207",
+		"row": "2",
+		"quantity": 2,
+		"price": 71.86
+	},
+	{
+		"timestamp": "04-12-22 / 11:07 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "6",
+		"quantity": 1,
+		"price": 69.49
+	},
+	{
+		"timestamp": "04-12-22 / 07:20 PM",
+		"zone": "200 Level",
+		"section": "- 217",
+		"row": "2",
+		"quantity": 4,
+		"price": 71.86
+	},
+	{
+		"timestamp": "04-11-22 / 04:37 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "12",
+		"quantity": 4,
+		"price": 282.15
+	},
+	{
+		"timestamp": "04-11-22 / 04:37 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "10",
+		"quantity": 4,
+		"price": 367.29
+	},
+	{
+		"timestamp": "04-11-22 / 02:57 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "04-11-22 / 02:05 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 180
+	},
+	{
+		"timestamp": "04-11-22 / 10:23 AM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "19",
+		"quantity": 2,
+		"price": 109.76
+	},
+	{
+		"timestamp": "04-11-22 / 03:08 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "04-10-22 / 06:49 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA8",
+		"quantity": 2,
+		"price": 179
+	},
+	{
+		"timestamp": "04-10-22 / 10:42 AM",
+		"zone": "200 Level",
+		"section": "- 218",
+		"row": "1",
+		"quantity": 4,
+		"price": 87.22
+	},
+	{
+		"timestamp": "04-10-22 / 01:09 AM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "24",
+		"quantity": 2,
+		"price": 72
+	},
+	{
+		"timestamp": "04-09-22 / 11:46 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 179.89
+	},
+	{
+		"timestamp": "04-09-22 / 03:28 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 179.89
+	},
+	{
+		"timestamp": "04-08-22 / 03:05 AM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "18",
+		"quantity": 2,
+		"price": 126.44
+	},
+	{
+		"timestamp": "04-07-22 / 02:58 PM",
+		"zone": "West Balcony",
+		"section": "321",
+		"row": "1",
+		"quantity": 2,
+		"price": 60.89
+	},
+	{
+		"timestamp": "04-07-22 / 10:23 AM",
+		"zone": "200 Level",
+		"section": "- 225",
+		"row": "12",
+		"quantity": 1,
+		"price": 80
+	},
+	{
+		"timestamp": "04-05-22 / 08:34 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "6",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "04-05-22 / 08:48 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 173.89
+	},
+	{
+		"timestamp": "04-04-22 / 11:33 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 173.89
+	},
+	{
+		"timestamp": "04-03-22 / 09:43 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "21",
+		"quantity": 2,
+		"price": 210
+	},
+	{
+		"timestamp": "04-03-22 / 04:30 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "7",
+		"quantity": 2,
+		"price": 325
+	},
+	{
+		"timestamp": "04-02-22 / 07:27 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA9",
+		"quantity": 6,
+		"price": 182
+	},
+	{
+		"timestamp": "04-02-22 / 12:10 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "22",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "04-01-22 / 11:26 AM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "15",
+		"quantity": 4,
+		"price": 117.48
+	},
+	{
+		"timestamp": "04-01-22 / 09:51 AM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "1",
+		"quantity": 2,
+		"price": 122
+	},
+	{
+		"timestamp": "03-31-22 / 06:44 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "22",
+		"quantity": 2,
+		"price": 289.95
+	},
+	{
+		"timestamp": "03-31-22 / 03:42 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "03-31-22 / 12:02 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "11",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "03-29-22 / 11:27 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "03-27-22 / 11:24 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "7",
+		"quantity": 4,
+		"price": 66
+	},
+	{
+		"timestamp": "03-27-22 / 05:14 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "19",
+		"quantity": 6,
+		"price": 105.99
+	},
+	{
+		"timestamp": "03-23-22 / 09:30 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 179.47
+	},
+	{
+		"timestamp": "03-23-22 / 01:42 AM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "1",
+		"quantity": 2,
+		"price": 454.89
+	},
+	{
+		"timestamp": "03-21-22 / 04:55 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "5",
+		"quantity": 2,
+		"price": 166.51
+	},
+	{
+		"timestamp": "03-21-22 / 03:31 PM",
+		"zone": "100 Level",
+		"section": "- 116",
+		"row": "16",
+		"quantity": 2,
+		"price": 275
+	},
+	{
+		"timestamp": "03-20-22 / 04:08 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "22",
+		"quantity": 4,
+		"price": 92
+	},
+	{
+		"timestamp": "03-20-22 / 01:48 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 179
+	},
+	{
+		"timestamp": "03-20-22 / 12:38 AM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "21",
+		"quantity": 2,
+		"price": 124.64
+	},
+	{
+		"timestamp": "03-19-22 / 06:13 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "12",
+		"quantity": 2,
+		"price": 129.74
+	},
+	{
+		"timestamp": "03-19-22 / 04:41 AM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "20",
+		"quantity": 4,
+		"price": 225
+	},
+	{
+		"timestamp": "03-18-22 / 02:58 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "22",
+		"quantity": 2,
+		"price": 94
+	},
+	{
+		"timestamp": "03-16-22 / 07:45 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "15",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "03-16-22 / 12:50 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "10",
+		"quantity": 2,
+		"price": 138
+	},
+	{
+		"timestamp": "03-16-22 / 11:34 AM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "6",
+		"quantity": 2,
+		"price": 350
+	},
+	{
+		"timestamp": "03-16-22 / 09:06 AM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "19",
+		"quantity": 2,
+		"price": 122.79
+	},
+	{
+		"timestamp": "03-15-22 / 11:49 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "14",
+		"quantity": 6,
+		"price": 129.74
+	},
+	{
+		"timestamp": "03-15-22 / 11:49 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "5",
+		"quantity": 2,
+		"price": 56
+	},
+	{
+		"timestamp": "03-15-22 / 12:59 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 165.01
+	},
+	{
+		"timestamp": "03-13-22 / 10:13 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "20",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "03-13-22 / 03:38 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "16",
+		"quantity": 2,
+		"price": 199
+	},
+	{
+		"timestamp": "03-13-22 / 11:10 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA9",
+		"quantity": 2,
+		"price": 165.01
+	},
+	{
+		"timestamp": "03-12-22 / 09:03 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "15",
+		"quantity": 2,
+		"price": 169.89
+	},
+	{
+		"timestamp": "03-12-22 / 07:29 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "1",
+		"quantity": 2,
+		"price": 1200
+	},
+	{
+		"timestamp": "03-12-22 / 01:52 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "9",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "03-12-22 / 01:52 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA9",
+		"quantity": 3,
+		"price": 165.01
+	},
+	{
+		"timestamp": "03-12-22 / 12:24 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "11",
+		"quantity": 4,
+		"price": 153
+	},
+	{
+		"timestamp": "03-11-22 / 09:48 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 193.8
+	},
+	{
+		"timestamp": "03-11-22 / 03:51 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "14",
+		"quantity": 4,
+		"price": 165
+	},
+	{
+		"timestamp": "03-10-22 / 09:14 AM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "21",
+		"quantity": 8,
+		"price": 102.23
+	},
+	{
+		"timestamp": "03-10-22 / 04:14 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "11",
+		"quantity": 2,
+		"price": 139
+	},
+	{
+		"timestamp": "03-09-22 / 11:33 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "10",
+		"quantity": 2,
+		"price": 138
+	},
+	{
+		"timestamp": "03-09-22 / 10:00 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA9",
+		"quantity": 3,
+		"price": 164.18
+	},
+	{
+		"timestamp": "03-09-22 / 08:39 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "16",
+		"quantity": 7,
+		"price": 126.27
+	},
+	{
+		"timestamp": "03-09-22 / 05:14 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 170
+	},
+	{
+		"timestamp": "03-09-22 / 03:51 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "13",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "03-09-22 / 03:51 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "11",
+		"quantity": 4,
+		"price": 167.88
+	},
+	{
+		"timestamp": "03-09-22 / 01:07 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "20",
+		"quantity": 4,
+		"price": 122.79
+	},
+	{
+		"timestamp": "03-09-22 / 09:49 AM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "3",
+		"quantity": 2,
+		"price": 325
+	},
+	{
+		"timestamp": "03-08-22 / 10:22 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "1",
+		"quantity": 4,
+		"price": 189.89
+	},
+	{
+		"timestamp": "03-08-22 / 07:36 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "5",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "03-08-22 / 11:20 AM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "6",
+		"quantity": 2,
+		"price": 300
+	},
+	{
+		"timestamp": "03-07-22 / 09:04 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "12",
+		"quantity": 2,
+		"price": 136.69
+	},
+	{
+		"timestamp": "03-07-22 / 07:42 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 171.6
+	},
+	{
+		"timestamp": "03-06-22 / 10:55 PM",
+		"zone": "200 Level",
+		"section": "- 218",
+		"row": "2",
+		"quantity": 2,
+		"price": 92.17
+	},
+	{
+		"timestamp": "03-06-22 / 09:35 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "21",
+		"quantity": 2,
+		"price": 124.94
+	},
+	{
+		"timestamp": "03-06-22 / 08:01 PM",
+		"zone": "200 Level",
+		"section": "- 214",
+		"row": "3",
+		"quantity": 3,
+		"price": 122.4
+	},
+	{
+		"timestamp": "03-06-22 / 12:13 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "16",
+		"quantity": 4,
+		"price": 199
+	},
+	{
+		"timestamp": "03-06-22 / 10:49 AM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "18",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "03-05-22 / 09:52 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "16",
+		"quantity": 2,
+		"price": 111.1
+	},
+	{
+		"timestamp": "03-05-22 / 11:47 AM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "12",
+		"quantity": 4,
+		"price": 119.99
+	},
+	{
+		"timestamp": "03-04-22 / 02:56 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "03-03-22 / 02:38 PM",
+		"zone": "The Lounges",
+		"section": "301",
+		"row": "1",
+		"quantity": 3,
+		"price": 175
+	},
+	{
+		"timestamp": "03-03-22 / 10:13 AM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "19",
+		"quantity": 1,
+		"price": 151.95
+	},
+	{
+		"timestamp": "03-02-22 / 08:51 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "03-01-22 / 06:44 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 165
+	},
+	{
+		"timestamp": "03-01-22 / 04:43 PM",
+		"zone": "200 Level",
+		"section": "- 208",
+		"row": "3",
+		"quantity": 4,
+		"price": 97.85
+	},
+	{
+		"timestamp": "02-28-22 / 10:46 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "10",
+		"quantity": 2,
+		"price": 132.12
+	},
+	{
+		"timestamp": "02-28-22 / 03:01 PM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "2",
+		"quantity": 2,
+		"price": 93
+	},
+	{
+		"timestamp": "02-23-22 / 12:23 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "16",
+		"quantity": 5,
+		"price": 160.31
+	},
+	{
+		"timestamp": "02-20-22 / 10:21 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "7",
+		"quantity": 6,
+		"price": 63.41
+	},
+	{
+		"timestamp": "02-18-22 / 03:40 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "11",
+		"quantity": 2,
+		"price": 147.66
+	},
+	{
+		"timestamp": "02-17-22 / 10:39 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "18",
+		"quantity": 2,
+		"price": 99.49
+	},
+	{
+		"timestamp": "02-17-22 / 04:02 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "21",
+		"quantity": 4,
+		"price": 264.89
+	},
+	{
+		"timestamp": "02-15-22 / 09:33 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA9",
+		"quantity": 2,
+		"price": 170.38
+	},
+	{
+		"timestamp": "02-15-22 / 03:43 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "18",
+		"quantity": 2,
+		"price": 105.63
+	},
+	{
+		"timestamp": "02-14-22 / 07:13 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 170
+	},
+	{
+		"timestamp": "02-14-22 / 06:30 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "16",
+		"quantity": 2,
+		"price": 135.25
+	},
+	{
+		"timestamp": "02-13-22 / 05:46 PM",
+		"zone": "100 Level",
+		"section": "- 117",
+		"row": "8",
+		"quantity": 2,
+		"price": 449
+	},
+	{
+		"timestamp": "02-13-22 / 12:51 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "18",
+		"quantity": 2,
+		"price": 109.18
+	},
+	{
+		"timestamp": "02-13-22 / 03:27 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 151.49
+	},
+	{
+		"timestamp": "02-12-22 / 12:20 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 156.51
+	},
+	{
+		"timestamp": "02-11-22 / 09:26 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "9",
+		"quantity": 4,
+		"price": 145
+	},
+	{
+		"timestamp": "02-11-22 / 03:34 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "8",
+		"quantity": 2,
+		"price": 198.71
+	},
+	{
+		"timestamp": "02-10-22 / 10:18 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "5",
+		"quantity": 2,
+		"price": 145
+	},
+	{
+		"timestamp": "02-10-22 / 08:07 PM",
+		"zone": "100 Level",
+		"section": "- 103",
+		"row": "8",
+		"quantity": 1,
+		"price": 144.45
+	},
+	{
+		"timestamp": "02-09-22 / 10:12 AM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 151.49
+	},
+	{
+		"timestamp": "02-06-22 / 10:19 PM",
+		"zone": "200 Level",
+		"section": "- 213",
+		"row": "2",
+		"quantity": 8,
+		"price": 110.49
+	},
+	{
+		"timestamp": "02-04-22 / 10:39 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "3",
+		"quantity": 2,
+		"price": 362.24
+	},
+	{
+		"timestamp": "02-04-22 / 07:12 PM",
+		"zone": "General Admission Floor",
+		"section": "Heart Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 148
+	},
+	{
+		"timestamp": "02-03-22 / 11:44 AM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "20",
+		"quantity": 2,
+		"price": 147.77
+	},
+	{
+		"timestamp": "02-02-22 / 12:41 AM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "01-29-22 / 08:43 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "7",
+		"quantity": 2,
+		"price": 72.6
+	},
+	{
+		"timestamp": "01-29-22 / 01:48 AM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "5",
+		"quantity": 2,
+		"price": 60.88
+	},
+	{
+		"timestamp": "01-29-22 / 01:04 AM",
+		"zone": "West Balcony",
+		"section": "319",
+		"row": "BS3",
+		"quantity": 6,
+		"price": 77
+	},
+	{
+		"timestamp": "01-28-22 / 06:00 PM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 169
+	},
+	{
+		"timestamp": "01-28-22 / 03:52 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "18",
+		"quantity": 2,
+		"price": 109.18
+	},
+	{
+		"timestamp": "01-28-22 / 02:32 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "21",
+		"quantity": 4,
+		"price": 139.4
+	},
+	{
+		"timestamp": "01-27-22 / 06:59 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "11",
+		"quantity": 2,
+		"price": 147.66
+	},
+	{
+		"timestamp": "01-26-22 / 11:08 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "8",
+		"quantity": 2,
+		"price": 539
+	},
+	{
+		"timestamp": "01-26-22 / 04:33 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 153.72
+	},
+	{
+		"timestamp": "01-26-22 / 11:56 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "9",
+		"quantity": 2,
+		"price": 144
+	},
+	{
+		"timestamp": "01-25-22 / 01:11 AM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "4",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "01-23-22 / 12:08 AM",
+		"zone": "General Admission Floor",
+		"section": "Soul Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 158.39
+	},
+	{
+		"timestamp": "01-21-22 / 08:07 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "5",
+		"quantity": 2,
+		"price": 60.88
+	},
+	{
+		"timestamp": "01-20-22 / 02:10 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "01-15-22 / 03:56 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "7",
+		"quantity": 4,
+		"price": 161.7
+	},
+	{
+		"timestamp": "01-15-22 / 02:21 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "10",
+		"quantity": 2,
+		"price": 139
+	},
+	{
+		"timestamp": "01-13-22 / 08:58 PM",
+		"zone": "Chase Bridges",
+		"section": "315",
+		"row": "1",
+		"quantity": 2,
+		"price": 124.2
+	},
+	{
+		"timestamp": "01-11-22 / 09:21 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 136.35
+	},
+	{
+		"timestamp": "01-06-22 / 05:39 PM",
+		"zone": "200 Level",
+		"section": "- 224",
+		"row": "22",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "01-05-22 / 09:42 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "10",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "01-04-22 / 05:50 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "10",
+		"quantity": 4,
+		"price": 148
+	},
+	{
+		"timestamp": "01-03-22 / 07:46 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "4",
+		"quantity": 4,
+		"price": 60.88
+	},
+	{
+		"timestamp": "12-31-21 / 10:41 PM",
+		"zone": "Chase Bridges",
+		"section": "313",
+		"row": "1",
+		"quantity": 2,
+		"price": 134.15
+	},
+	{
+		"timestamp": "12-31-21 / 01:27 PM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "10",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "12-31-21 / 10:47 AM",
+		"zone": "400 Level",
+		"section": "- 420",
+		"row": "6",
+		"quantity": 2,
+		"price": 61.91
+	},
+	{
+		"timestamp": "12-29-21 / 05:06 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "20",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "12-29-21 / 02:24 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "13",
+		"quantity": 6,
+		"price": 133.9
+	},
+	{
+		"timestamp": "12-28-21 / 10:15 PM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "1",
+		"quantity": 2,
+		"price": 192.78
+	},
+	{
+		"timestamp": "12-28-21 / 07:02 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "1",
+		"quantity": 2,
+		"price": 286
+	},
+	{
+		"timestamp": "12-28-21 / 07:02 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 296
+	},
+	{
+		"timestamp": "12-25-21 / 05:44 PM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "7",
+		"quantity": 2,
+		"price": 60.88
+	},
+	{
+		"timestamp": "12-25-21 / 07:11 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "17",
+		"quantity": 2,
+		"price": 132.43
+	},
+	{
+		"timestamp": "12-25-21 / 01:49 AM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "21",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-24-21 / 11:26 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "12",
+		"quantity": 4,
+		"price": 333
+	},
+	{
+		"timestamp": "12-24-21 / 08:46 PM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "BS3",
+		"quantity": 2,
+		"price": 58.68
+	},
+	{
+		"timestamp": "12-24-21 / 07:01 PM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "21",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-24-21 / 06:11 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "6",
+		"quantity": 2,
+		"price": 59.88
+	},
+	{
+		"timestamp": "12-24-21 / 04:35 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-24-21 / 03:39 PM",
+		"zone": "100 Level",
+		"section": "- 111",
+		"row": "7",
+		"quantity": 2,
+		"price": 144
+	},
+	{
+		"timestamp": "12-24-21 / 02:46 PM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "BS3",
+		"quantity": 2,
+		"price": 58.68
+	},
+	{
+		"timestamp": "12-24-21 / 01:52 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "6",
+		"quantity": 2,
+		"price": 225.88
+	},
+	{
+		"timestamp": "12-24-21 / 12:51 AM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "10",
+		"quantity": 2,
+		"price": 152
+	},
+	{
+		"timestamp": "12-23-21 / 07:18 PM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "21",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-22-21 / 11:32 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 4,
+		"price": 159.85
+	},
+	{
+		"timestamp": "12-22-21 / 09:50 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "20",
+		"quantity": 2,
+		"price": 96
+	},
+	{
+		"timestamp": "12-22-21 / 05:46 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 220
+	},
+	{
+		"timestamp": "12-22-21 / 01:48 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "19",
+		"quantity": 2,
+		"price": 107
+	},
+	{
+		"timestamp": "12-21-21 / 10:53 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 150.09
+	},
+	{
+		"timestamp": "12-21-21 / 12:58 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "13",
+		"quantity": 3,
+		"price": 162
+	},
+	{
+		"timestamp": "12-20-21 / 11:25 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "7",
+		"quantity": 2,
+		"price": 66
+	},
+	{
+		"timestamp": "12-20-21 / 08:14 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "5",
+		"quantity": 2,
+		"price": 75.7
+	},
+	{
+		"timestamp": "12-20-21 / 06:41 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "14",
+		"quantity": 2,
+		"price": 197
+	},
+	{
+		"timestamp": "12-19-21 / 01:29 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "3",
+		"quantity": 4,
+		"price": 69.95
+	},
+	{
+		"timestamp": "12-18-21 / 09:43 AM",
+		"zone": "400 Level",
+		"section": "- 416",
+		"row": "1",
+		"quantity": 2,
+		"price": 86.9
+	},
+	{
+		"timestamp": "12-17-21 / 10:47 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "4",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "12-17-21 / 02:48 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "10",
+		"quantity": 2,
+		"price": 154
+	},
+	{
+		"timestamp": "12-17-21 / 09:59 AM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "6",
+		"quantity": 2,
+		"price": 329.89
+	},
+	{
+		"timestamp": "12-16-21 / 09:45 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "6",
+		"quantity": 4,
+		"price": 500
+	},
+	{
+		"timestamp": "12-15-21 / 11:41 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "6",
+		"quantity": 2,
+		"price": 99.95
+	},
+	{
+		"timestamp": "12-15-21 / 05:02 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "20",
+		"quantity": 2,
+		"price": 112
+	},
+	{
+		"timestamp": "12-15-21 / 03:24 PM",
+		"zone": "100 Level",
+		"section": "- 118",
+		"row": "7",
+		"quantity": 2,
+		"price": 280.56
+	},
+	{
+		"timestamp": "12-15-21 / 09:59 AM",
+		"zone": "100 Level",
+		"section": "- 113",
+		"row": "10",
+		"quantity": 2,
+		"price": 161
+	},
+	{
+		"timestamp": "12-13-21 / 04:51 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 157.63
+	},
+	{
+		"timestamp": "12-12-21 / 10:58 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "5",
+		"quantity": 4,
+		"price": 59
+	},
+	{
+		"timestamp": "12-12-21 / 07:36 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "7",
+		"quantity": 2,
+		"price": 61.6
+	},
+	{
+		"timestamp": "12-12-21 / 12:07 PM",
+		"zone": "100 Level",
+		"section": "- 104",
+		"row": "13",
+		"quantity": 4,
+		"price": 212.43
+	},
+	{
+		"timestamp": "12-11-21 / 01:00 AM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "21",
+		"quantity": 2,
+		"price": 251.95
+	},
+	{
+		"timestamp": "12-10-21 / 07:56 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 8,
+		"price": 159.85
+	},
+	{
+		"timestamp": "12-10-21 / 08:37 AM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "3",
+		"quantity": 2,
+		"price": 65
+	},
+	{
+		"timestamp": "12-09-21 / 04:35 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "15",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "12-09-21 / 03:42 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "21",
+		"quantity": 2,
+		"price": 243
+	},
+	{
+		"timestamp": "12-09-21 / 02:49 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "3",
+		"quantity": 2,
+		"price": 65
+	},
+	{
+		"timestamp": "12-08-21 / 10:12 PM",
+		"zone": "400 Level",
+		"section": "- 420",
+		"row": "7",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "12-08-21 / 03:24 PM",
+		"zone": "100 Level",
+		"section": "- 120",
+		"row": "15",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "12-08-21 / 11:19 AM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "4",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "12-07-21 / 04:50 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "7",
+		"quantity": 2,
+		"price": 62.44
+	},
+	{
+		"timestamp": "12-07-21 / 10:50 AM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "17",
+		"quantity": 2,
+		"price": 191.19
+	},
+	{
+		"timestamp": "12-06-21 / 01:19 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "20",
+		"quantity": 4,
+		"price": 127
+	},
+	{
+		"timestamp": "12-06-21 / 01:19 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "1",
+		"quantity": 2,
+		"price": 75.9
+	},
+	{
+		"timestamp": "12-06-21 / 01:19 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 159.85
+	},
+	{
+		"timestamp": "12-05-21 / 09:56 PM",
+		"zone": "100 Level",
+		"section": "- 114",
+		"row": "6",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "12-05-21 / 04:50 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "3",
+		"quantity": 2,
+		"price": 52.5
+	},
+	{
+		"timestamp": "12-05-21 / 04:05 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 159.85
+	},
+	{
+		"timestamp": "12-04-21 / 06:23 PM",
+		"zone": "100 Level",
+		"section": "- 119",
+		"row": "17",
+		"quantity": 2,
+		"price": 197
+	},
+	{
+		"timestamp": "12-04-21 / 02:24 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "4",
+		"quantity": 2,
+		"price": 609
+	},
+	{
+		"timestamp": "12-04-21 / 01:00 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "7",
+		"quantity": 2,
+		"price": 61.6
+	},
+	{
+		"timestamp": "11-27-21 / 05:36 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "1",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "11-27-21 / 01:04 AM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "19",
+		"quantity": 2,
+		"price": 107.99
+	},
+	{
+		"timestamp": "11-26-21 / 06:08 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "3",
+		"quantity": 2,
+		"price": 53.5
+	},
+	{
+		"timestamp": "11-25-21 / 10:42 AM",
+		"zone": "The Lounges",
+		"section": "306",
+		"row": "1",
+		"quantity": 4,
+		"price": 140
+	},
+	{
+		"timestamp": "11-23-21 / 04:24 PM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "16",
+		"quantity": 2,
+		"price": 197.99
+	},
+	{
+		"timestamp": "11-19-21 / 04:52 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "20",
+		"quantity": 3,
+		"price": 219.99
+	},
+	{
+		"timestamp": "11-15-21 / 10:49 PM",
+		"zone": "200 Level",
+		"section": "- 209",
+		"row": "23",
+		"quantity": 8,
+		"price": 91.58
+	},
+	{
+		"timestamp": "11-15-21 / 07:05 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "7",
+		"quantity": 2,
+		"price": 49.94
+	},
+	{
+		"timestamp": "11-13-21 / 01:42 PM",
+		"zone": "400 Level",
+		"section": "- 413",
+		"row": "2",
+		"quantity": 3,
+		"price": 53.1
+	},
+	{
+		"timestamp": "11-12-21 / 10:30 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "13",
+		"quantity": 4,
+		"price": 230
+	},
+	{
+		"timestamp": "11-10-21 / 04:06 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "11-06-21 / 01:13 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "4",
+		"quantity": 2,
+		"price": 302
+	},
+	{
+		"timestamp": "11-04-21 / 05:11 AM",
+		"zone": "100 Level",
+		"section": "- 105",
+		"row": "16",
+		"quantity": 2,
+		"price": 199.39
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "100 Level",
+		"section": "- 112",
+		"row": "17",
+		"quantity": 12,
+		"price": 201.4
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "100 Level",
+		"section": "- 102",
+		"row": "17",
+		"quantity": 12,
+		"price": 201.4
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "100 Level",
+		"section": "- 110",
+		"row": "21",
+		"quantity": 12,
+		"price": 222.05
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "19",
+		"quantity": 12,
+		"price": 242.59
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "100 Level",
+		"section": "- 107",
+		"row": "17",
+		"quantity": 12,
+		"price": 244.7
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "200 Level",
+		"section": "- 221",
+		"row": "6",
+		"quantity": 12,
+		"price": 184.44
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "200 Level",
+		"section": "- 227",
+		"row": "5",
+		"quantity": 12,
+		"price": 184.44
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "200 Level",
+		"section": "- 212",
+		"row": "6",
+		"quantity": 12,
+		"price": 192.13
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "200 Level",
+		"section": "- 211",
+		"row": "6",
+		"quantity": 12,
+		"price": 192.13
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "200 Level",
+		"section": "- 210",
+		"row": "5",
+		"quantity": 12,
+		"price": 192.13
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 16,
+		"price": 206.44
+	},
+	{
+		"timestamp": "11-03-21 / 08:00 PM",
+		"zone": "General Admission Pit",
+		"section": "Heart Pit General Admission",
+		"row": "GA",
+		"quantity": 16,
+		"price": 206.44
+	},
+	{
+		"timestamp": "11-02-21 / 01:38 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "13",
+		"quantity": 4,
+		"price": 180
+	},
+	{
+		"timestamp": "11-02-21 / 11:01 AM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "7",
+		"quantity": 2,
+		"price": 231.99
+	},
+	{
+		"timestamp": "11-01-21 / 12:55 PM",
+		"zone": "100 Level",
+		"section": "- 106",
+		"row": "6",
+		"quantity": 2,
+		"price": 199
+	},
+	{
+		"timestamp": "10-29-21 / 07:52 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "6",
+		"quantity": 4,
+		"price": 232
+	},
+	{
+		"timestamp": "10-25-21 / 05:26 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "5",
+		"quantity": 2,
+		"price": 239
+	},
+	{
+		"timestamp": "10-25-21 / 12:41 AM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 2,
+		"price": 51.94
+	},
+	{
+		"timestamp": "10-20-21 / 10:34 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "3",
+		"quantity": 3,
+		"price": 309.3
+	},
+	{
+		"timestamp": "10-18-21 / 02:56 PM",
+		"zone": "400 Level",
+		"section": "- 418",
+		"row": "3",
+		"quantity": 2,
+		"price": 56.98
+	},
+	{
+		"timestamp": "10-17-21 / 08:02 AM",
+		"zone": "100 Level",
+		"section": "- 101",
+		"row": "7",
+		"quantity": 2,
+		"price": 185.77
+	},
+	{
+		"timestamp": "10-16-21 / 01:32 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "3",
+		"quantity": 2,
+		"price": 309.3
+	},
+	{
+		"timestamp": "10-15-21 / 10:10 AM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "13",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "10-10-21 / 11:08 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "4",
+		"quantity": 2,
+		"price": 249
+	},
+	{
+		"timestamp": "10-08-21 / 06:45 PM",
+		"zone": "Floor",
+		"section": "D",
+		"row": "3",
+		"quantity": 1,
+		"price": 309.3
+	},
+	{
+		"timestamp": "10-08-21 / 11:40 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 304.7
+	},
+	{
+		"timestamp": "10-08-21 / 11:40 AM",
+		"zone": "General Admission Pit",
+		"section": "Soul Pit General Admission",
+		"row": "GA",
+		"quantity": 6,
+		"price": 228.9
+	},
+	{
+		"timestamp": "09-30-21 / 04:09 PM",
+		"zone": "100 Level",
+		"section": "- 109",
+		"row": "13",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "09-22-21 / 02:30 PM",
+		"zone": "100 Level",
+		"section": "- 108",
+		"row": "15",
+		"quantity": 4,
+		"price": 213.95
+	},
+	{
+		"timestamp": "09-15-21 / 04:53 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "7",
+		"quantity": 2,
+		"price": 60.5
+	},
+	{
+		"timestamp": "09-03-21 / 09:45 PM",
+		"zone": "200 Level",
+		"section": "- 226",
+		"row": "22",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "08-30-21 / 08:56 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "5",
+		"quantity": 2,
+		"price": 204.99
+	},
+	{
+		"timestamp": "08-26-21 / 08:56 PM",
+		"zone": "400 Level",
+		"section": "- 419",
+		"row": "3",
+		"quantity": 4,
+		"price": 50.58
+	},
+	{
+		"timestamp": "08-15-21 / 09:59 AM",
+		"zone": "100 Level",
+		"section": "- 115",
+		"row": "13",
+		"quantity": 1,
+		"price": 223.98
+	},
+	{
+		"timestamp": "05-30-21 / 03:32 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "3",
+		"quantity": 2,
+		"price": 285
+	},
+	{
+		"timestamp": "05-12-21 / 02:36 PM",
+		"zone": "400 Level",
+		"section": "- 417",
+		"row": "7",
+		"quantity": 2,
+		"price": 86.9
+	},
+	{
+		"timestamp": "05-09-21 / 05:48 PM",
+		"zone": "400 Level",
+		"section": "- 415",
+		"row": "4",
+		"quantity": 2,
+		"price": 74
+	},
+	{
+		"timestamp": "05-08-21 / 05:39 AM",
+		"zone": "400 Level",
+		"section": "- 414",
+		"row": "4",
+		"quantity": 1,
+		"price": 87.49
+	},
+	{
+		"timestamp": "05-07-21 / 11:52 PM",
+		"zone": "200 Level",
+		"section": "- 225",
+		"row": "19",
+		"quantity": 2,
+		"price": 219.52
+	}
+]

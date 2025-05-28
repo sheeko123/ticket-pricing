@@ -1,0 +1,538 @@
+[
+	{
+		"timestamp": "06-04-22 / 03:26 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 48.97
+	},
+	{
+		"timestamp": "06-03-22 / 11:39 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 3,
+		"price": 189.98
+	},
+	{
+		"timestamp": "06-03-22 / 06:12 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 48.97
+	},
+	{
+		"timestamp": "06-03-22 / 05:13 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA33",
+		"quantity": 2,
+		"price": 53.95
+	},
+	{
+		"timestamp": "06-03-22 / 12:01 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "06-02-22 / 07:46 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 48.97
+	},
+	{
+		"timestamp": "06-02-22 / 07:14 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 3,
+		"price": 189.98
+	},
+	{
+		"timestamp": "06-02-22 / 12:01 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 47.11
+	},
+	{
+		"timestamp": "06-01-22 / 09:29 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 3,
+		"price": 48.06
+	},
+	{
+		"timestamp": "06-01-22 / 03:26 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 4,
+		"price": 51
+	},
+	{
+		"timestamp": "06-01-22 / 09:10 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "05-31-22 / 04:12 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 47
+	},
+	{
+		"timestamp": "05-31-22 / 07:21 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 49
+	},
+	{
+		"timestamp": "05-29-22 / 06:45 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 51
+	},
+	{
+		"timestamp": "05-29-22 / 06:06 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 51
+	},
+	{
+		"timestamp": "05-28-22 / 10:57 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 59
+	},
+	{
+		"timestamp": "05-28-22 / 10:57 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "05-27-22 / 12:52 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 4,
+		"price": 52.97
+	},
+	{
+		"timestamp": "05-22-22 / 05:55 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 4,
+		"price": 59.95
+	},
+	{
+		"timestamp": "05-22-22 / 12:02 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 6,
+		"price": 59.45
+	},
+	{
+		"timestamp": "05-21-22 / 06:43 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 1,
+		"price": 52.85
+	},
+	{
+		"timestamp": "05-21-22 / 04:46 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 60.5
+	},
+	{
+		"timestamp": "05-21-22 / 02:49 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 3,
+		"price": 192.5
+	},
+	{
+		"timestamp": "05-21-22 / 01:08 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 52.97
+	},
+	{
+		"timestamp": "05-19-22 / 11:43 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 192.5
+	},
+	{
+		"timestamp": "05-18-22 / 11:53 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 54.74
+	},
+	{
+		"timestamp": "05-17-22 / 03:58 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 3,
+		"price": 55
+	},
+	{
+		"timestamp": "05-14-22 / 02:22 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA0",
+		"quantity": 3,
+		"price": 159.5
+	},
+	{
+		"timestamp": "05-14-22 / 02:13 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 54.9
+	},
+	{
+		"timestamp": "05-13-22 / 11:47 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "05-12-22 / 09:35 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 60.5
+	},
+	{
+		"timestamp": "05-07-22 / 10:55 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 55.55
+	},
+	{
+		"timestamp": "05-07-22 / 10:55 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 1,
+		"price": 50.88
+	},
+	{
+		"timestamp": "05-07-22 / 03:16 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 52
+	},
+	{
+		"timestamp": "05-07-22 / 03:16 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 51.88
+	},
+	{
+		"timestamp": "05-07-22 / 01:11 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 51.88
+	},
+	{
+		"timestamp": "05-04-22 / 12:22 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "05-03-22 / 07:15 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 204.98
+	},
+	{
+		"timestamp": "04-12-22 / 12:22 AM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "04-09-22 / 09:07 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "04-05-22 / 11:03 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 63.99
+	},
+	{
+		"timestamp": "04-02-22 / 12:24 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "04-01-22 / 12:47 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 3,
+		"price": 59
+	},
+	{
+		"timestamp": "03-29-22 / 06:42 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 57
+	},
+	{
+		"timestamp": "03-25-22 / 04:53 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 57
+	},
+	{
+		"timestamp": "03-24-22 / 09:43 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "03-22-22 / 10:00 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "03-21-22 / 06:10 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 62
+	},
+	{
+		"timestamp": "03-21-22 / 04:13 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "03-20-22 / 02:01 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 4,
+		"price": 60
+	},
+	{
+		"timestamp": "03-19-22 / 01:18 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA",
+		"quantity": 4,
+		"price": 197.98
+	},
+	{
+		"timestamp": "03-17-22 / 11:54 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "03-14-22 / 10:03 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA0",
+		"quantity": 2,
+		"price": 203.5
+	},
+	{
+		"timestamp": "03-13-22 / 10:51 AM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 176
+	},
+	{
+		"timestamp": "03-11-22 / 12:20 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA1",
+		"quantity": 3,
+		"price": 176
+	},
+	{
+		"timestamp": "03-07-22 / 07:58 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 176
+	},
+	{
+		"timestamp": "03-04-22 / 01:38 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 59.4
+	},
+	{
+		"timestamp": "03-04-22 / 02:54 AM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 54
+	},
+	{
+		"timestamp": "03-02-22 / 03:32 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 53
+	},
+	{
+		"timestamp": "02-25-22 / 01:36 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "02-17-22 / 09:24 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "FLOOR",
+		"quantity": 2,
+		"price": 47.96
+	},
+	{
+		"timestamp": "02-04-22 / 05:26 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 154
+	},
+	{
+		"timestamp": "01-21-22 / 12:32 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 149.89
+	},
+	{
+		"timestamp": "01-17-22 / 10:13 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA0",
+		"quantity": 4,
+		"price": 205.97
+	},
+	{
+		"timestamp": "01-17-22 / 06:56 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 4,
+		"price": 149.89
+	},
+	{
+		"timestamp": "12-23-21 / 07:08 PM",
+		"zone": "GA",
+		"section": "Floor General Admission",
+		"row": "GA3",
+		"quantity": 2,
+		"price": 115.5
+	},
+	{
+		"timestamp": "12-21-21 / 07:23 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "GA2",
+		"quantity": 2,
+		"price": 149.89
+	}
+]

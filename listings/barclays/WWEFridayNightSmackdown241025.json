@@ -1,0 +1,3546 @@
+[
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "9",
+		"quantity": 1,
+		"price": 201.52
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Middle",
+		"section": "124",
+		"row": "5",
+		"quantity": 1,
+		"price": 244.67
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "9",
+		"quantity": 4,
+		"price": 192.72
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "6",
+		"quantity": 2,
+		"price": 161.98
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "9",
+		"quantity": 1,
+		"price": 108.16
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "2",
+		"quantity": 1,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "1",
+		"quantity": 1,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "8",
+		"quantity": 2,
+		"price": 88.81
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "1",
+		"quantity": 1,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "1",
+		"quantity": 1,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "5",
+		"quantity": 1,
+		"price": 244.67
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "7",
+		"quantity": 1,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 1,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "4",
+		"quantity": 1,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 07:04 PM",
+		"zone": "Middle",
+		"section": "109",
+		"row": "4",
+		"quantity": 4,
+		"price": 244.67
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "15",
+		"quantity": 2,
+		"price": 188.06
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "20",
+		"quantity": 4,
+		"price": 62.85
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "12",
+		"quantity": 1,
+		"price": 193.01
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 1,
+		"price": 151.2
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "22",
+		"quantity": 2,
+		"price": 79.1
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Lower",
+		"section": "LUXURY SUITE",
+		"row": "2",
+		"quantity": 4,
+		"price": 115.77
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "16",
+		"quantity": 3,
+		"price": 82.45
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "4",
+		"quantity": 2,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "5",
+		"quantity": 1,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "3",
+		"quantity": 2,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "2",
+		"quantity": 3,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "2",
+		"quantity": 2,
+		"price": 139.93
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "6",
+		"quantity": 2,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "10",
+		"quantity": 2,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 01:19 PM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "5",
+		"quantity": 2,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "18",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "22",
+		"quantity": 3,
+		"price": 100.21
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "6",
+		"quantity": 1,
+		"price": 71.78
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "4",
+		"quantity": 2,
+		"price": 244.67
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "20",
+		"quantity": 1,
+		"price": 66.62
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "21",
+		"quantity": 3,
+		"price": 79.1
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "A-Suite",
+		"section": "A42",
+		"row": "SRO",
+		"quantity": 3,
+		"price": 112.55
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "5",
+		"quantity": 1,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 08:12 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "5",
+		"quantity": 2,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Middle",
+		"section": "124",
+		"row": "6",
+		"quantity": 3,
+		"price": 244.67
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "2",
+		"quantity": 1,
+		"price": 417.08
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Lower",
+		"section": "LUXURY SUITE",
+		"row": "1",
+		"quantity": 4,
+		"price": 145.46
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "B-Suite",
+		"section": "B7",
+		"row": "A",
+		"quantity": 2,
+		"price": 233.1
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "8",
+		"quantity": 2,
+		"price": 222.71
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "12",
+		"quantity": 3,
+		"price": 108.16
+	},
+	{
+		"timestamp": "10-25-24 / 01:37 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "6",
+		"quantity": 1,
+		"price": 392.62
+	},
+	{
+		"timestamp": "10-24-24 / 07:29 PM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "13",
+		"quantity": 3,
+		"price": 116.4
+	},
+	{
+		"timestamp": "10-24-24 / 07:29 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "15",
+		"quantity": 1,
+		"price": 71.78
+	},
+	{
+		"timestamp": "10-24-24 / 07:29 PM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "9",
+		"quantity": 5,
+		"price": 140.14
+	},
+	{
+		"timestamp": "10-24-24 / 07:29 PM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "6",
+		"quantity": 2,
+		"price": 463.97
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "9",
+		"quantity": 3,
+		"price": 90.05
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "8",
+		"quantity": 1,
+		"price": 144.53
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "7",
+		"quantity": 4,
+		"price": 145.53
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Floor",
+		"section": "FLOOR 4",
+		"row": "5",
+		"quantity": 1,
+		"price": 593.04
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Middle",
+		"section": "106",
+		"row": "9",
+		"quantity": 2,
+		"price": 140.14
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "8",
+		"quantity": 2,
+		"price": 108.16
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "20",
+		"quantity": 1,
+		"price": 94.92
+	},
+	{
+		"timestamp": "10-24-24 / 02:08 PM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "12",
+		"quantity": 2,
+		"price": 115.43
+	},
+	{
+		"timestamp": "10-24-24 / 08:44 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "2",
+		"quantity": 1,
+		"price": 417.08
+	},
+	{
+		"timestamp": "10-24-24 / 08:44 AM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "9",
+		"quantity": 1,
+		"price": 90.05
+	},
+	{
+		"timestamp": "10-24-24 / 08:44 AM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "14",
+		"quantity": 2,
+		"price": 98.41
+	},
+	{
+		"timestamp": "10-24-24 / 02:50 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "16",
+		"quantity": 2,
+		"price": 88.36
+	},
+	{
+		"timestamp": "10-24-24 / 02:50 AM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "16",
+		"quantity": 2,
+		"price": 189.92
+	},
+	{
+		"timestamp": "10-24-24 / 02:50 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "14",
+		"quantity": 2,
+		"price": 183.11
+	},
+	{
+		"timestamp": "10-23-24 / 02:54 PM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "13",
+		"quantity": 1,
+		"price": 197.8
+	},
+	{
+		"timestamp": "10-23-24 / 02:54 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "15",
+		"quantity": 2,
+		"price": 158.43
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Middle",
+		"section": "126",
+		"row": "1",
+		"quantity": 1,
+		"price": 150.35
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "8",
+		"quantity": 2,
+		"price": 319.06
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "8",
+		"quantity": 4,
+		"price": 183.33
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "6",
+		"quantity": 1,
+		"price": 161.98
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "6",
+		"quantity": 2,
+		"price": 146.7
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "13",
+		"quantity": 2,
+		"price": 192.83
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "8",
+		"quantity": 3,
+		"price": 197.96
+	},
+	{
+		"timestamp": "10-23-24 / 04:26 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "",
+		"quantity": 2,
+		"price": 253
+	},
+	{
+		"timestamp": "10-22-24 / 09:23 PM",
+		"zone": "Lower",
+		"section": "Level",
+		"row": "BS",
+		"quantity": 4,
+		"price": 200.97
+	},
+	{
+		"timestamp": "10-22-24 / 09:23 PM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "6",
+		"quantity": 3,
+		"price": 146.7
+	},
+	{
+		"timestamp": "10-22-24 / 09:23 PM",
+		"zone": "Middle",
+		"section": "122",
+		"row": "2",
+		"quantity": 3,
+		"price": 148.5
+	},
+	{
+		"timestamp": "10-22-24 / 09:23 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "19",
+		"quantity": 2,
+		"price": 196.82
+	},
+	{
+		"timestamp": "10-22-24 / 09:23 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "13",
+		"quantity": 1,
+		"price": 205.56
+	},
+	{
+		"timestamp": "10-22-24 / 02:26 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "6",
+		"quantity": 2,
+		"price": 161.98
+	},
+	{
+		"timestamp": "10-22-24 / 02:26 AM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "18",
+		"quantity": 2,
+		"price": 150.23
+	},
+	{
+		"timestamp": "10-22-24 / 02:26 AM",
+		"zone": "Middle",
+		"section": "106",
+		"row": "9",
+		"quantity": 2,
+		"price": 164.93
+	},
+	{
+		"timestamp": "10-22-24 / 02:26 AM",
+		"zone": "A-Suite",
+		"section": "A38",
+		"row": "",
+		"quantity": 1,
+		"price": 134.46
+	},
+	{
+		"timestamp": "10-21-24 / 07:23 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "6",
+		"quantity": 2,
+		"price": 97
+	},
+	{
+		"timestamp": "10-21-24 / 07:23 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "16",
+		"quantity": 1,
+		"price": 132.27
+	},
+	{
+		"timestamp": "10-21-24 / 07:23 PM",
+		"zone": "Lower",
+		"section": "Level",
+		"row": "",
+		"quantity": 3,
+		"price": 142.62
+	},
+	{
+		"timestamp": "10-21-24 / 01:50 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "12",
+		"quantity": 1,
+		"price": 73.8
+	},
+	{
+		"timestamp": "10-21-24 / 01:50 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "9",
+		"quantity": 1,
+		"price": 390.32
+	},
+	{
+		"timestamp": "10-21-24 / 01:50 PM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "9",
+		"quantity": 1,
+		"price": 152
+	},
+	{
+		"timestamp": "10-21-24 / 01:50 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 173.21
+	},
+	{
+		"timestamp": "10-20-24 / 10:42 PM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "9",
+		"quantity": 1,
+		"price": 358.31
+	},
+	{
+		"timestamp": "10-20-24 / 10:42 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "9",
+		"quantity": 4,
+		"price": 151.03
+	},
+	{
+		"timestamp": "10-20-24 / 10:42 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "3",
+		"quantity": 2,
+		"price": 296.94
+	},
+	{
+		"timestamp": "10-20-24 / 10:42 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "16",
+		"quantity": 2,
+		"price": 299
+	},
+	{
+		"timestamp": "10-20-24 / 05:42 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "9",
+		"quantity": 2,
+		"price": 76.82
+	},
+	{
+		"timestamp": "10-20-24 / 05:42 PM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "12",
+		"quantity": 2,
+		"price": 184
+	},
+	{
+		"timestamp": "10-20-24 / 01:12 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "6",
+		"quantity": 4,
+		"price": 230
+	},
+	{
+		"timestamp": "10-20-24 / 04:31 AM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "9",
+		"quantity": 3,
+		"price": 155.2
+	},
+	{
+		"timestamp": "10-19-24 / 11:08 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "8",
+		"quantity": 2,
+		"price": 335.19
+	},
+	{
+		"timestamp": "10-19-24 / 01:06 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "6",
+		"quantity": 2,
+		"price": 447.17
+	},
+	{
+		"timestamp": "10-19-24 / 08:34 AM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "8",
+		"quantity": 2,
+		"price": 158.37
+	},
+	{
+		"timestamp": "10-19-24 / 08:34 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "C",
+		"quantity": 1,
+		"price": 197.96
+	},
+	{
+		"timestamp": "10-19-24 / 08:34 AM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "9",
+		"quantity": 1,
+		"price": 111.55
+	},
+	{
+		"timestamp": "10-19-24 / 02:21 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "16",
+		"quantity": 2,
+		"price": 92.15
+	},
+	{
+		"timestamp": "10-19-24 / 02:21 AM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "9",
+		"quantity": 1,
+		"price": 148.47
+	},
+	{
+		"timestamp": "10-19-24 / 02:21 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 173.21
+	},
+	{
+		"timestamp": "10-18-24 / 07:47 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "C",
+		"quantity": 1,
+		"price": 197.96
+	},
+	{
+		"timestamp": "10-18-24 / 07:47 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "3",
+		"quantity": 2,
+		"price": 296.94
+	},
+	{
+		"timestamp": "10-18-24 / 08:48 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "14",
+		"quantity": 2,
+		"price": 207
+	},
+	{
+		"timestamp": "10-18-24 / 02:23 AM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "9",
+		"quantity": 4,
+		"price": 159.08
+	},
+	{
+		"timestamp": "10-18-24 / 02:23 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "5",
+		"quantity": 2,
+		"price": 447.17
+	},
+	{
+		"timestamp": "10-17-24 / 02:20 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 2,
+		"price": 165.01
+	},
+	{
+		"timestamp": "10-17-24 / 02:20 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "16",
+		"quantity": 2,
+		"price": 207.51
+	},
+	{
+		"timestamp": "10-17-24 / 02:20 PM",
+		"zone": "Middle",
+		"section": "122",
+		"row": "5",
+		"quantity": 1,
+		"price": 157.5
+	},
+	{
+		"timestamp": "10-17-24 / 02:20 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 3,
+		"price": 83.7
+	},
+	{
+		"timestamp": "10-17-24 / 03:43 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 2,
+		"price": 165.01
+	},
+	{
+		"timestamp": "10-17-24 / 03:43 AM",
+		"zone": "Middle",
+		"section": "126",
+		"row": "4",
+		"quantity": 2,
+		"price": 267.1
+	},
+	{
+		"timestamp": "10-17-24 / 03:43 AM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "19",
+		"quantity": 2,
+		"price": 151.2
+	},
+	{
+		"timestamp": "10-17-24 / 03:43 AM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "B",
+		"quantity": 4,
+		"price": 145.5
+	},
+	{
+		"timestamp": "10-17-24 / 03:43 AM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "6",
+		"quantity": 2,
+		"price": 120.9
+	},
+	{
+		"timestamp": "10-16-24 / 09:19 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "",
+		"quantity": 2,
+		"price": 247.45
+	},
+	{
+		"timestamp": "10-16-24 / 04:47 AM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "18",
+		"quantity": 2,
+		"price": 161.1
+	},
+	{
+		"timestamp": "10-16-24 / 04:47 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "10",
+		"quantity": 2,
+		"price": 203.7
+	},
+	{
+		"timestamp": "10-16-24 / 04:47 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "13",
+		"quantity": 2,
+		"price": 90.21
+	},
+	{
+		"timestamp": "10-15-24 / 04:26 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "10",
+		"quantity": 2,
+		"price": 162.8
+	},
+	{
+		"timestamp": "10-15-24 / 05:23 AM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "10",
+		"quantity": 1,
+		"price": 310.4
+	},
+	{
+		"timestamp": "10-15-24 / 05:23 AM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "10",
+		"quantity": 1,
+		"price": 572.36
+	},
+	{
+		"timestamp": "10-14-24 / 11:08 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "17",
+		"quantity": 4,
+		"price": 197.8
+	},
+	{
+		"timestamp": "10-14-24 / 11:36 AM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "12",
+		"quantity": 4,
+		"price": 400.17
+	},
+	{
+		"timestamp": "10-14-24 / 11:36 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "17",
+		"quantity": 3,
+		"price": 325.35
+	},
+	{
+		"timestamp": "10-14-24 / 07:09 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "8",
+		"quantity": 1,
+		"price": 112.25
+	},
+	{
+		"timestamp": "10-14-24 / 07:08 AM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "7",
+		"quantity": 4,
+		"price": 112.25
+	},
+	{
+		"timestamp": "10-14-24 / 07:08 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "2",
+		"quantity": 2,
+		"price": 117
+	},
+	{
+		"timestamp": "10-14-24 / 07:08 AM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "15",
+		"quantity": 3,
+		"price": 188.55
+	},
+	{
+		"timestamp": "10-14-24 / 07:08 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "12",
+		"quantity": 1,
+		"price": 161.48
+	},
+	{
+		"timestamp": "10-14-24 / 02:10 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "14",
+		"quantity": 4,
+		"price": 230.29
+	},
+	{
+		"timestamp": "10-14-24 / 02:10 AM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "16",
+		"quantity": 2,
+		"price": 187.53
+	},
+	{
+		"timestamp": "10-14-24 / 02:10 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "2",
+		"quantity": 2,
+		"price": 144.38
+	},
+	{
+		"timestamp": "10-14-24 / 02:10 AM",
+		"zone": "The Key",
+		"section": "K7",
+		"row": "B",
+		"quantity": 2,
+		"price": 212.81
+	},
+	{
+		"timestamp": "10-14-24 / 02:09 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "14",
+		"quantity": 2,
+		"price": 227.66
+	},
+	{
+		"timestamp": "10-14-24 / 02:09 AM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "17",
+		"quantity": 4,
+		"price": 166.5
+	},
+	{
+		"timestamp": "10-13-24 / 09:02 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "10",
+		"quantity": 2,
+		"price": 174.47
+	},
+	{
+		"timestamp": "10-13-24 / 09:02 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 2,
+		"price": 320.1
+	},
+	{
+		"timestamp": "10-13-24 / 04:18 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "6",
+		"quantity": 1,
+		"price": 280.62
+	},
+	{
+		"timestamp": "10-13-24 / 04:18 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "8",
+		"quantity": 1,
+		"price": 176.77
+	},
+	{
+		"timestamp": "10-13-24 / 04:18 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "6",
+		"quantity": 1,
+		"price": 151.32
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "8",
+		"quantity": 6,
+		"price": 96.51
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "9",
+		"quantity": 2,
+		"price": 62.86
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "5",
+		"quantity": 4,
+		"price": 224.59
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Middle",
+		"section": "126",
+		"row": "3",
+		"quantity": 2,
+		"price": 139.07
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "13",
+		"quantity": 3,
+		"price": 222.73
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "10",
+		"quantity": 6,
+		"price": 97.23
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "16",
+		"quantity": 2,
+		"price": 355.68
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "15",
+		"quantity": 5,
+		"price": 188.55
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "10",
+		"quantity": 2,
+		"price": 351.98
+	},
+	{
+		"timestamp": "10-13-24 / 04:17 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "8",
+		"quantity": 2,
+		"price": 91.18
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "8",
+		"quantity": 4,
+		"price": 87.61
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "9",
+		"quantity": 2,
+		"price": 122.35
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Middle",
+		"section": "106",
+		"row": "3",
+		"quantity": 2,
+		"price": 269.04
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "20",
+		"quantity": 2,
+		"price": 285.98
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "2",
+		"quantity": 2,
+		"price": 195.31
+	},
+	{
+		"timestamp": "10-13-24 / 12:08 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "20",
+		"quantity": 2,
+		"price": 225.93
+	},
+	{
+		"timestamp": "10-13-24 / 08:44 AM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "9",
+		"quantity": 4,
+		"price": 298.8
+	},
+	{
+		"timestamp": "10-13-24 / 04:06 AM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "8",
+		"quantity": 1,
+		"price": 87.61
+	},
+	{
+		"timestamp": "10-13-24 / 04:06 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 3,
+		"price": 95.55
+	},
+	{
+		"timestamp": "10-13-24 / 04:06 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "19",
+		"quantity": 1,
+		"price": 295.61
+	},
+	{
+		"timestamp": "10-12-24 / 01:01 PM",
+		"zone": "Lower",
+		"section": "Level",
+		"row": "1",
+		"quantity": 2,
+		"price": 172.87
+	},
+	{
+		"timestamp": "10-12-24 / 01:01 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "11",
+		"quantity": 2,
+		"price": 189.68
+	},
+	{
+		"timestamp": "10-12-24 / 01:01 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "18",
+		"quantity": 1,
+		"price": 184.3
+	},
+	{
+		"timestamp": "10-12-24 / 01:01 PM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "8",
+		"quantity": 4,
+		"price": 593.04
+	},
+	{
+		"timestamp": "10-11-24 / 06:06 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "16",
+		"quantity": 2,
+		"price": 169.75
+	},
+	{
+		"timestamp": "10-10-24 / 06:44 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "17",
+		"quantity": 1,
+		"price": 82.45
+	},
+	{
+		"timestamp": "10-10-24 / 08:26 AM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "10",
+		"quantity": 1,
+		"price": 544.91
+	},
+	{
+		"timestamp": "10-10-24 / 08:26 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "18",
+		"quantity": 1,
+		"price": 184.3
+	},
+	{
+		"timestamp": "10-10-24 / 08:26 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "17",
+		"quantity": 1,
+		"price": 214.36
+	},
+	{
+		"timestamp": "10-09-24 / 08:02 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "10",
+		"quantity": 1,
+		"price": 324.95
+	},
+	{
+		"timestamp": "10-09-24 / 09:01 AM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "7",
+		"quantity": 2,
+		"price": 147.44
+	},
+	{
+		"timestamp": "10-08-24 / 09:21 PM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "12",
+		"quantity": 2,
+		"price": 415.36
+	},
+	{
+		"timestamp": "10-08-24 / 10:53 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "19",
+		"quantity": 2,
+		"price": 101.14
+	},
+	{
+		"timestamp": "10-07-24 / 11:09 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "17",
+		"quantity": 4,
+		"price": 144
+	},
+	{
+		"timestamp": "10-07-24 / 11:09 PM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "5",
+		"quantity": 1,
+		"price": 762.32
+	},
+	{
+		"timestamp": "10-07-24 / 11:09 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "18",
+		"quantity": 4,
+		"price": 110.7
+	},
+	{
+		"timestamp": "10-07-24 / 11:09 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "14",
+		"quantity": 1,
+		"price": 113.64
+	},
+	{
+		"timestamp": "10-07-24 / 01:52 AM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "11",
+		"quantity": 2,
+		"price": 85.36
+	},
+	{
+		"timestamp": "10-07-24 / 01:52 AM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "8",
+		"quantity": 1,
+		"price": 227.68
+	},
+	{
+		"timestamp": "10-07-24 / 01:52 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "7",
+		"quantity": 1,
+		"price": 738.74
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "14",
+		"quantity": 4,
+		"price": 175.5
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "12",
+		"quantity": 4,
+		"price": 132.3
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "15",
+		"quantity": 1,
+		"price": 118.1
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "8",
+		"quantity": 3,
+		"price": 240.56
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "9",
+		"quantity": 4,
+		"price": 233.1
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "15",
+		"quantity": 2,
+		"price": 410.07
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "9",
+		"quantity": 2,
+		"price": 372.67
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 1,
+		"price": 362.11
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "9",
+		"quantity": 2,
+		"price": 213.4
+	},
+	{
+		"timestamp": "10-06-24 / 04:14 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 1,
+		"price": 339.5
+	},
+	{
+		"timestamp": "10-05-24 / 07:48 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "10",
+		"quantity": 3,
+		"price": 190.12
+	},
+	{
+		"timestamp": "10-05-24 / 09:53 AM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "3",
+		"quantity": 3,
+		"price": 187.8
+	},
+	{
+		"timestamp": "10-05-24 / 09:53 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "18",
+		"quantity": 2,
+		"price": 126.2
+	},
+	{
+		"timestamp": "10-05-24 / 09:53 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "18",
+		"quantity": 1,
+		"price": 105.94
+	},
+	{
+		"timestamp": "10-05-24 / 09:53 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "10",
+		"quantity": 2,
+		"price": 190.12
+	},
+	{
+		"timestamp": "10-05-24 / 09:53 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "9",
+		"quantity": 3,
+		"price": 213.4
+	},
+	{
+		"timestamp": "10-04-24 / 09:53 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "6",
+		"quantity": 2,
+		"price": 422.43
+	},
+	{
+		"timestamp": "10-04-24 / 09:53 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "10",
+		"quantity": 1,
+		"price": 105.94
+	},
+	{
+		"timestamp": "10-04-24 / 09:53 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "6",
+		"quantity": 2,
+		"price": 242.5
+	},
+	{
+		"timestamp": "10-04-24 / 09:26 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 1,
+		"price": 339.5
+	},
+	{
+		"timestamp": "10-03-24 / 09:04 PM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "15",
+		"quantity": 4,
+		"price": 294.3
+	},
+	{
+		"timestamp": "10-03-24 / 09:04 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "16",
+		"quantity": 1,
+		"price": 172.57
+	},
+	{
+		"timestamp": "10-03-24 / 09:04 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "17",
+		"quantity": 2,
+		"price": 326.63
+	},
+	{
+		"timestamp": "10-03-24 / 07:59 AM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "10",
+		"quantity": 1,
+		"price": 103.42
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "12",
+		"quantity": 1,
+		"price": 186.67
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "16",
+		"quantity": 4,
+		"price": 92.1
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 1,
+		"price": 151.32
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "3",
+		"quantity": 2,
+		"price": 257.24
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "2",
+		"quantity": 2,
+		"price": 114.64
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "15",
+		"quantity": 2,
+		"price": 116.05
+	},
+	{
+		"timestamp": "10-02-24 / 06:19 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "16",
+		"quantity": 4,
+		"price": 110.04
+	},
+	{
+		"timestamp": "10-01-24 / 04:02 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "22",
+		"quantity": 4,
+		"price": 113.4
+	},
+	{
+		"timestamp": "10-01-24 / 04:02 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "2",
+		"quantity": 2,
+		"price": 114.64
+	},
+	{
+		"timestamp": "09-30-24 / 05:18 PM",
+		"zone": "Middle",
+		"section": "126",
+		"row": "8",
+		"quantity": 4,
+		"price": 248.92
+	},
+	{
+		"timestamp": "09-30-24 / 05:18 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "17",
+		"quantity": 2,
+		"price": 354.6
+	},
+	{
+		"timestamp": "09-30-24 / 05:18 PM",
+		"zone": "Floor",
+		"section": "F7",
+		"row": "8",
+		"quantity": 2,
+		"price": 490.97
+	},
+	{
+		"timestamp": "09-30-24 / 05:18 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "15",
+		"quantity": 3,
+		"price": 434.47
+	},
+	{
+		"timestamp": "09-30-24 / 06:01 AM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "19",
+		"quantity": 1,
+		"price": 123.21
+	},
+	{
+		"timestamp": "09-30-24 / 06:01 AM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "3",
+		"quantity": 5,
+		"price": 187.8
+	},
+	{
+		"timestamp": "09-30-24 / 06:01 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "17",
+		"quantity": 1,
+		"price": 183.82
+	},
+	{
+		"timestamp": "09-30-24 / 06:00 AM",
+		"zone": "Floor",
+		"section": "F7",
+		"row": "9",
+		"quantity": 1,
+		"price": 624.56
+	},
+	{
+		"timestamp": "09-29-24 / 06:04 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "14",
+		"quantity": 2,
+		"price": 85.37
+	},
+	{
+		"timestamp": "09-29-24 / 06:04 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "7",
+		"quantity": 4,
+		"price": 176.4
+	},
+	{
+		"timestamp": "09-29-24 / 06:04 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "2",
+		"quantity": 3,
+		"price": 174.5
+	},
+	{
+		"timestamp": "09-29-24 / 06:04 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "8",
+		"quantity": 3,
+		"price": 447.32
+	},
+	{
+		"timestamp": "09-29-24 / 06:04 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "15",
+		"quantity": 1,
+		"price": 133.69
+	},
+	{
+		"timestamp": "09-29-24 / 07:37 AM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "5",
+		"quantity": 2,
+		"price": 116.05
+	},
+	{
+		"timestamp": "09-29-24 / 07:37 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "6",
+		"quantity": 2,
+		"price": 315.25
+	},
+	{
+		"timestamp": "09-29-24 / 07:37 AM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "8",
+		"quantity": 2,
+		"price": 164.9
+	},
+	{
+		"timestamp": "09-29-24 / 07:37 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "2",
+		"quantity": 3,
+		"price": 399.43
+	},
+	{
+		"timestamp": "09-27-24 / 07:08 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "13",
+		"quantity": 2,
+		"price": 410.55
+	},
+	{
+		"timestamp": "09-27-24 / 07:08 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "13",
+		"quantity": 2,
+		"price": 247.35
+	},
+	{
+		"timestamp": "09-27-24 / 07:08 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 2,
+		"price": 159.08
+	},
+	{
+		"timestamp": "09-27-24 / 07:08 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "18",
+		"quantity": 2,
+		"price": 96.91
+	},
+	{
+		"timestamp": "09-27-24 / 07:08 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "18",
+		"quantity": 2,
+		"price": 85.85
+	},
+	{
+		"timestamp": "09-27-24 / 08:03 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "9",
+		"quantity": 2,
+		"price": 557.1
+	},
+	{
+		"timestamp": "09-27-24 / 08:03 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "10",
+		"quantity": 1,
+		"price": 599.42
+	},
+	{
+		"timestamp": "09-27-24 / 08:03 AM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 3,
+		"price": 142.86
+	},
+	{
+		"timestamp": "09-27-24 / 08:03 AM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 5,
+		"price": 149.65
+	},
+	{
+		"timestamp": "09-27-24 / 08:03 AM",
+		"zone": "Floor",
+		"section": "F7",
+		"row": "9",
+		"quantity": 1,
+		"price": 593.04
+	},
+	{
+		"timestamp": "09-26-24 / 09:36 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "18",
+		"quantity": 2,
+		"price": 191.09
+	},
+	{
+		"timestamp": "09-26-24 / 09:36 AM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 2,
+		"price": 96.46
+	},
+	{
+		"timestamp": "09-26-24 / 09:36 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "18",
+		"quantity": 2,
+		"price": 131.17
+	},
+	{
+		"timestamp": "09-26-24 / 09:36 AM",
+		"zone": "Middle",
+		"section": "106",
+		"row": "8",
+		"quantity": 1,
+		"price": 249.79
+	},
+	{
+		"timestamp": "09-25-24 / 09:35 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "20",
+		"quantity": 1,
+		"price": 191.96
+	},
+	{
+		"timestamp": "09-25-24 / 09:35 PM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "9",
+		"quantity": 2,
+		"price": 405.71
+	},
+	{
+		"timestamp": "09-25-24 / 09:35 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "20",
+		"quantity": 2,
+		"price": 299.69
+	},
+	{
+		"timestamp": "09-25-24 / 09:35 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "17",
+		"quantity": 3,
+		"price": 299.69
+	},
+	{
+		"timestamp": "09-25-24 / 09:35 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "20",
+		"quantity": 5,
+		"price": 286.18
+	},
+	{
+		"timestamp": "09-24-24 / 08:23 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "8",
+		"quantity": 4,
+		"price": 251.1
+	},
+	{
+		"timestamp": "09-24-24 / 08:23 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "16",
+		"quantity": 4,
+		"price": 311.4
+	},
+	{
+		"timestamp": "09-24-24 / 08:23 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "20",
+		"quantity": 2,
+		"price": 307.99
+	},
+	{
+		"timestamp": "09-24-24 / 07:52 AM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "17",
+		"quantity": 2,
+		"price": 231.49
+	},
+	{
+		"timestamp": "09-23-24 / 07:25 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "7",
+		"quantity": 4,
+		"price": 452.09
+	},
+	{
+		"timestamp": "09-23-24 / 07:25 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "8",
+		"quantity": 3,
+		"price": 264.25
+	},
+	{
+		"timestamp": "09-23-24 / 09:09 AM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "17",
+		"quantity": 2,
+		"price": 85.85
+	},
+	{
+		"timestamp": "09-23-24 / 09:09 AM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "9",
+		"quantity": 5,
+		"price": 264.25
+	},
+	{
+		"timestamp": "09-22-24 / 10:39 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "19",
+		"quantity": 2,
+		"price": 90.62
+	},
+	{
+		"timestamp": "09-22-24 / 10:39 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 1,
+		"price": 96.46
+	},
+	{
+		"timestamp": "09-22-24 / 10:39 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "7",
+		"quantity": 4,
+		"price": 475.25
+	},
+	{
+		"timestamp": "09-22-24 / 10:39 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "20",
+		"quantity": 2,
+		"price": 325.03
+	},
+	{
+		"timestamp": "09-22-24 / 03:33 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "15",
+		"quantity": 4,
+		"price": 410.4
+	},
+	{
+		"timestamp": "09-22-24 / 03:33 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "16",
+		"quantity": 4,
+		"price": 309.6
+	},
+	{
+		"timestamp": "09-21-24 / 05:12 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "12",
+		"quantity": 2,
+		"price": 309.76
+	},
+	{
+		"timestamp": "09-21-24 / 05:49 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 2,
+		"price": 260.27
+	},
+	{
+		"timestamp": "09-21-24 / 05:49 AM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "19",
+		"quantity": 3,
+		"price": 132.82
+	},
+	{
+		"timestamp": "09-21-24 / 05:48 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "",
+		"quantity": 3,
+		"price": 252.2
+	},
+	{
+		"timestamp": "09-20-24 / 05:34 PM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "9",
+		"quantity": 2,
+		"price": 353.17
+	},
+	{
+		"timestamp": "09-20-24 / 06:52 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "5",
+		"quantity": 1,
+		"price": 404.9
+	},
+	{
+		"timestamp": "09-20-24 / 06:52 AM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "4",
+		"quantity": 1,
+		"price": 211.84
+	},
+	{
+		"timestamp": "09-19-24 / 07:08 PM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "6",
+		"quantity": 4,
+		"price": 271.64
+	},
+	{
+		"timestamp": "09-19-24 / 07:08 PM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "6",
+		"quantity": 4,
+		"price": 289.09
+	},
+	{
+		"timestamp": "09-19-24 / 06:51 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "17",
+		"quantity": 1,
+		"price": 189.15
+	},
+	{
+		"timestamp": "09-19-24 / 06:51 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "",
+		"quantity": 2,
+		"price": 437.76
+	},
+	{
+		"timestamp": "09-18-24 / 09:44 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "",
+		"quantity": 2,
+		"price": 437.76
+	},
+	{
+		"timestamp": "09-18-24 / 10:59 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "20",
+		"quantity": 1,
+		"price": 187.46
+	},
+	{
+		"timestamp": "09-18-24 / 10:59 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "14",
+		"quantity": 2,
+		"price": 258.33
+	},
+	{
+		"timestamp": "09-18-24 / 10:59 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "19",
+		"quantity": 2,
+		"price": 187.46
+	},
+	{
+		"timestamp": "09-18-24 / 12:37 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 4,
+		"price": 609.3
+	},
+	{
+		"timestamp": "09-18-24 / 12:37 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "16",
+		"quantity": 4,
+		"price": 287.1
+	},
+	{
+		"timestamp": "09-18-24 / 12:37 AM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "9",
+		"quantity": 4,
+		"price": 310.5
+	},
+	{
+		"timestamp": "09-18-24 / 12:37 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "12",
+		"quantity": 4,
+		"price": 198
+	},
+	{
+		"timestamp": "09-18-24 / 12:37 AM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "13",
+		"quantity": 2,
+		"price": 114.72
+	},
+	{
+		"timestamp": "09-17-24 / 01:45 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "7",
+		"quantity": 2,
+		"price": 137.75
+	},
+	{
+		"timestamp": "09-17-24 / 01:45 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "18",
+		"quantity": 2,
+		"price": 101.67
+	},
+	{
+		"timestamp": "09-16-24 / 06:46 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "7",
+		"quantity": 2,
+		"price": 257.05
+	},
+	{
+		"timestamp": "09-15-24 / 07:38 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "16",
+		"quantity": 2,
+		"price": 342.14
+	},
+	{
+		"timestamp": "09-15-24 / 07:38 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "9",
+		"quantity": 2,
+		"price": 253.2
+	},
+	{
+		"timestamp": "09-15-24 / 08:55 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "18",
+		"quantity": 2,
+		"price": 290.09
+	},
+	{
+		"timestamp": "09-14-24 / 09:14 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "10",
+		"quantity": 2,
+		"price": 400.94
+	},
+	{
+		"timestamp": "09-14-24 / 09:14 PM",
+		"zone": "Middle",
+		"section": "110",
+		"row": "9",
+		"quantity": 4,
+		"price": 376.2
+	},
+	{
+		"timestamp": "09-14-24 / 09:14 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "15",
+		"quantity": 2,
+		"price": 94.53
+	},
+	{
+		"timestamp": "09-14-24 / 09:14 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "15",
+		"quantity": 1,
+		"price": 111.93
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "18",
+		"quantity": 2,
+		"price": 231.49
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "19",
+		"quantity": 3,
+		"price": 138.65
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "5",
+		"quantity": 2,
+		"price": 466.8
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "15",
+		"quantity": 2,
+		"price": 112.27
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "9",
+		"quantity": 2,
+		"price": 675.55
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "13",
+		"quantity": 4,
+		"price": 525.75
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "13",
+		"quantity": 4,
+		"price": 557.72
+	},
+	{
+		"timestamp": "09-14-24 / 09:50 AM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "5",
+		"quantity": 2,
+		"price": 495.64
+	},
+	{
+		"timestamp": "09-13-24 / 08:55 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "8",
+		"quantity": 3,
+		"price": 164.15
+	},
+	{
+		"timestamp": "09-13-24 / 08:55 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "14",
+		"quantity": 2,
+		"price": 559.41
+	},
+	{
+		"timestamp": "09-12-24 / 09:49 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "14",
+		"quantity": 4,
+		"price": 164.7
+	},
+	{
+		"timestamp": "09-12-24 / 09:49 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "8",
+		"quantity": 3,
+		"price": 164.15
+	},
+	{
+		"timestamp": "09-12-24 / 09:49 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "18",
+		"quantity": 2,
+		"price": 138.65
+	},
+	{
+		"timestamp": "09-11-24 / 11:17 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "13",
+		"quantity": 2,
+		"price": 175.75
+	},
+	{
+		"timestamp": "09-11-24 / 11:17 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "15",
+		"quantity": 2,
+		"price": 345.33
+	},
+	{
+		"timestamp": "09-11-24 / 06:56 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "18",
+		"quantity": 3,
+		"price": 336.95
+	},
+	{
+		"timestamp": "09-11-24 / 06:56 AM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "9",
+		"quantity": 1,
+		"price": 260.27
+	},
+	{
+		"timestamp": "09-11-24 / 06:56 AM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "11",
+		"quantity": 1,
+		"price": 525.75
+	},
+	{
+		"timestamp": "09-11-24 / 06:56 AM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "11",
+		"quantity": 1,
+		"price": 485.42
+	},
+	{
+		"timestamp": "09-10-24 / 07:20 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "9",
+		"quantity": 2,
+		"price": 341.19
+	},
+	{
+		"timestamp": "09-10-24 / 07:20 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "17",
+		"quantity": 2,
+		"price": 431.39
+	},
+	{
+		"timestamp": "09-09-24 / 06:07 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "11",
+		"quantity": 1,
+		"price": 353.63
+	},
+	{
+		"timestamp": "09-09-24 / 06:06 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "9",
+		"quantity": 2,
+		"price": 675.55
+	},
+	{
+		"timestamp": "09-08-24 / 06:53 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 4,
+		"price": 728.1
+	},
+	{
+		"timestamp": "09-08-24 / 06:53 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "16",
+		"quantity": 4,
+		"price": 295.75
+	},
+	{
+		"timestamp": "09-08-24 / 06:53 PM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "16",
+		"quantity": 4,
+		"price": 333
+	},
+	{
+		"timestamp": "09-08-24 / 07:59 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "19",
+		"quantity": 2,
+		"price": 209
+	},
+	{
+		"timestamp": "09-08-24 / 07:59 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "8",
+		"quantity": 3,
+		"price": 355.67
+	},
+	{
+		"timestamp": "09-07-24 / 12:39 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "12",
+		"quantity": 3,
+		"price": 149.94
+	},
+	{
+		"timestamp": "09-05-24 / 08:53 AM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "21",
+		"quantity": 2,
+		"price": 102.82
+	},
+	{
+		"timestamp": "09-04-24 / 07:52 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 2,
+		"price": 251.9
+	},
+	{
+		"timestamp": "09-04-24 / 07:52 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "12",
+		"quantity": 2,
+		"price": 146.62
+	},
+	{
+		"timestamp": "09-04-24 / 07:52 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "9",
+		"quantity": 2,
+		"price": 286.36
+	},
+	{
+		"timestamp": "09-04-24 / 01:51 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "8",
+		"quantity": 4,
+		"price": 266.4
+	},
+	{
+		"timestamp": "09-04-24 / 01:51 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "11",
+		"quantity": 1,
+		"price": 239.32
+	},
+	{
+		"timestamp": "09-04-24 / 01:51 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "12",
+		"quantity": 3,
+		"price": 176.99
+	},
+	{
+		"timestamp": "09-04-24 / 01:51 PM",
+		"zone": "Floor",
+		"section": "F5",
+		"row": "10",
+		"quantity": 2,
+		"price": 449.48
+	},
+	{
+		"timestamp": "09-04-24 / 01:51 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "12",
+		"quantity": 3,
+		"price": 499.89
+	},
+	{
+		"timestamp": "09-04-24 / 01:20 AM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "8",
+		"quantity": 2,
+		"price": 266.56
+	},
+	{
+		"timestamp": "09-01-24 / 07:48 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "12",
+		"quantity": 5,
+		"price": 239.32
+	},
+	{
+		"timestamp": "09-01-24 / 07:48 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "7",
+		"quantity": 4,
+		"price": 432.23
+	},
+	{
+		"timestamp": "09-01-24 / 07:48 PM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "7",
+		"quantity": 4,
+		"price": 354.31
+	},
+	{
+		"timestamp": "08-31-24 / 11:44 AM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "12",
+		"quantity": 2,
+		"price": 94.53
+	},
+	{
+		"timestamp": "08-31-24 / 11:44 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "17",
+		"quantity": 2,
+		"price": 286.25
+	},
+	{
+		"timestamp": "08-31-24 / 11:44 AM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "9",
+		"quantity": 2,
+		"price": 317.77
+	},
+	{
+		"timestamp": "08-31-24 / 12:27 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "5",
+		"quantity": 3,
+		"price": 328
+	},
+	{
+		"timestamp": "08-31-24 / 12:27 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 6,
+		"price": 251.45
+	},
+	{
+		"timestamp": "08-31-24 / 12:27 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "5",
+		"quantity": 3,
+		"price": 354.31
+	},
+	{
+		"timestamp": "08-30-24 / 06:22 PM",
+		"zone": "Floor",
+		"section": "F7",
+		"row": "7",
+		"quantity": 2,
+		"price": 689.27
+	},
+	{
+		"timestamp": "08-30-24 / 03:36 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "14",
+		"quantity": 3,
+		"price": 124.71
+	},
+	{
+		"timestamp": "08-30-24 / 03:36 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "5",
+		"quantity": 5,
+		"price": 242.09
+	},
+	{
+		"timestamp": "08-30-24 / 03:36 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "7",
+		"quantity": 2,
+		"price": 219.38
+	},
+	{
+		"timestamp": "08-30-24 / 03:36 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 3,
+		"price": 232.81
+	},
+	{
+		"timestamp": "08-29-24 / 11:43 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "13",
+		"quantity": 2,
+		"price": 161.57
+	},
+	{
+		"timestamp": "08-26-24 / 04:32 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "8",
+		"quantity": 4,
+		"price": 307.26
+	},
+	{
+		"timestamp": "08-25-24 / 07:40 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "16",
+		"quantity": 2,
+		"price": 449.26
+	},
+	{
+		"timestamp": "08-23-24 / 09:32 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "12",
+		"quantity": 5,
+		"price": 176.99
+	},
+	{
+		"timestamp": "08-23-24 / 09:32 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "20",
+		"quantity": 5,
+		"price": 271.43
+	},
+	{
+		"timestamp": "08-22-24 / 08:06 PM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "11",
+		"quantity": 1,
+		"price": 157.14
+	},
+	{
+		"timestamp": "08-22-24 / 09:14 AM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "18",
+		"quantity": 2,
+		"price": 279.39
+	},
+	{
+		"timestamp": "08-22-24 / 09:14 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "12",
+		"quantity": 4,
+		"price": 384.68
+	},
+	{
+		"timestamp": "08-22-24 / 09:14 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "20",
+		"quantity": 2,
+		"price": 189.15
+	},
+	{
+		"timestamp": "08-22-24 / 09:14 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "18",
+		"quantity": 3,
+		"price": 433.73
+	},
+	{
+		"timestamp": "08-21-24 / 09:03 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "9",
+		"quantity": 4,
+		"price": 341.19
+	},
+	{
+		"timestamp": "08-21-24 / 09:03 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "4",
+		"quantity": 2,
+		"price": 186.02
+	},
+	{
+		"timestamp": "08-21-24 / 10:48 AM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "7",
+		"quantity": 2,
+		"price": 705.24
+	},
+	{
+		"timestamp": "08-20-24 / 12:10 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "12",
+		"quantity": 4,
+		"price": 184.73
+	},
+	{
+		"timestamp": "08-20-24 / 12:10 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "11",
+		"quantity": 4,
+		"price": 216.9
+	},
+	{
+		"timestamp": "08-20-24 / 12:09 PM",
+		"zone": "Middle",
+		"section": "109",
+		"row": "9",
+		"quantity": 4,
+		"price": 355.67
+	},
+	{
+		"timestamp": "08-20-24 / 12:09 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "16",
+		"quantity": 2,
+		"price": 420.17
+	},
+	{
+		"timestamp": "08-18-24 / 04:41 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "9",
+		"quantity": 4,
+		"price": 367.53
+	},
+	{
+		"timestamp": "08-18-24 / 06:37 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "17",
+		"quantity": 1,
+		"price": 372.56
+	},
+	{
+		"timestamp": "08-17-24 / 07:05 PM",
+		"zone": "Lower",
+		"section": "19",
+		"row": "5",
+		"quantity": 2,
+		"price": 355.55
+	},
+	{
+		"timestamp": "08-17-24 / 07:05 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "18",
+		"quantity": 2,
+		"price": 313.47
+	},
+	{
+		"timestamp": "08-17-24 / 07:05 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 1,
+		"price": 221.57
+	},
+	{
+		"timestamp": "08-17-24 / 08:32 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "3",
+		"quantity": 5,
+		"price": 951.17
+	},
+	{
+		"timestamp": "08-17-24 / 02:14 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "7",
+		"quantity": 2,
+		"price": 751.98
+	},
+	{
+		"timestamp": "08-17-24 / 02:14 AM",
+		"zone": "Floor",
+		"section": "F1",
+		"row": "7",
+		"quantity": 2,
+		"price": 691.67
+	},
+	{
+		"timestamp": "08-16-24 / 02:43 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "3",
+		"quantity": 2,
+		"price": 232.44
+	},
+	{
+		"timestamp": "08-16-24 / 02:43 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "11",
+		"quantity": 1,
+		"price": 91.58
+	},
+	{
+		"timestamp": "08-16-24 / 02:43 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "13",
+		"quantity": 2,
+		"price": 344.35
+	},
+	{
+		"timestamp": "08-15-24 / 09:28 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 4,
+		"price": 597.6
+	},
+	{
+		"timestamp": "08-10-24 / 01:36 AM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 4,
+		"price": 609.7
+	},
+	{
+		"timestamp": "08-08-24 / 07:33 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "3",
+		"quantity": 4,
+		"price": 315.32
+	},
+	{
+		"timestamp": "08-08-24 / 02:04 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "7",
+		"quantity": 1,
+		"price": 266.88
+	},
+	{
+		"timestamp": "08-07-24 / 02:05 PM",
+		"zone": "Floor",
+		"section": "F3",
+		"row": "11",
+		"quantity": 4,
+		"price": 736.2
+	},
+	{
+		"timestamp": "08-07-24 / 02:05 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "14",
+		"quantity": 1,
+		"price": 223.02
+	},
+	{
+		"timestamp": "08-07-24 / 03:38 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "4",
+		"quantity": 4,
+		"price": 330.21
+	},
+	{
+		"timestamp": "08-06-24 / 04:27 PM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "7",
+		"quantity": 2,
+		"price": 203.18
+	},
+	{
+		"timestamp": "08-06-24 / 07:22 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "",
+		"quantity": 2,
+		"price": 484.06
+	},
+	{
+		"timestamp": "08-05-24 / 03:09 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "4",
+		"quantity": 2,
+		"price": 149.16
+	},
+	{
+		"timestamp": "08-05-24 / 03:08 PM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "17",
+		"quantity": 2,
+		"price": 329.4
+	},
+	{
+		"timestamp": "08-05-24 / 03:08 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "5",
+		"quantity": 2,
+		"price": 222.98
+	},
+	{
+		"timestamp": "08-05-24 / 03:08 PM",
+		"zone": "Floor",
+		"section": "F4",
+		"row": "7",
+		"quantity": 4,
+		"price": 667.46
+	},
+	{
+		"timestamp": "08-05-24 / 10:34 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "12",
+		"quantity": 2,
+		"price": 342.9
+	},
+	{
+		"timestamp": "08-05-24 / 06:06 AM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "19",
+		"quantity": 3,
+		"price": 332.36
+	},
+	{
+		"timestamp": "08-05-24 / 06:06 AM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "12",
+		"quantity": 3,
+		"price": 351.67
+	},
+	{
+		"timestamp": "08-05-24 / 06:06 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "6",
+		"quantity": 5,
+		"price": 199.8
+	},
+	{
+		"timestamp": "08-05-24 / 06:06 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "10",
+		"quantity": 2,
+		"price": 354.66
+	},
+	{
+		"timestamp": "08-04-24 / 06:47 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "9",
+		"quantity": 4,
+		"price": 255.15
+	},
+	{
+		"timestamp": "08-04-24 / 06:47 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "6",
+		"quantity": 1,
+		"price": 390.22
+	},
+	{
+		"timestamp": "08-04-24 / 06:47 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "9",
+		"quantity": 4,
+		"price": 164.06
+	},
+	{
+		"timestamp": "08-04-24 / 06:47 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "7",
+		"quantity": 2,
+		"price": 266.88
+	},
+	{
+		"timestamp": "08-04-24 / 08:36 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "11",
+		"quantity": 2,
+		"price": 470.97
+	},
+	{
+		"timestamp": "08-04-24 / 08:36 AM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "8",
+		"quantity": 2,
+		"price": 212.4
+	},
+	{
+		"timestamp": "08-03-24 / 03:37 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "14",
+		"quantity": 6,
+		"price": 369.9
+	},
+	{
+		"timestamp": "08-03-24 / 03:37 PM",
+		"zone": "Upper",
+		"section": "205",
+		"row": "8",
+		"quantity": 5,
+		"price": 217.8
+	},
+	{
+		"timestamp": "08-03-24 / 12:36 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "6",
+		"quantity": 1,
+		"price": 423.68
+	},
+	{
+		"timestamp": "08-03-24 / 12:36 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "5",
+		"quantity": 2,
+		"price": 405.45
+	},
+	{
+		"timestamp": "08-03-24 / 05:11 AM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "6",
+		"quantity": 2,
+		"price": 202.08
+	},
+	{
+		"timestamp": "07-31-24 / 10:54 PM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "8",
+		"quantity": 4,
+		"price": 162.41
+	},
+	{
+		"timestamp": "07-31-24 / 04:15 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "7",
+		"quantity": 2,
+		"price": 284.4
+	},
+	{
+		"timestamp": "07-31-24 / 10:32 AM",
+		"zone": "Upper",
+		"section": "206",
+		"row": "9",
+		"quantity": 4,
+		"price": 140.95
+	},
+	{
+		"timestamp": "07-31-24 / 03:26 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "20",
+		"quantity": 6,
+		"price": 258.71
+	},
+	{
+		"timestamp": "07-30-24 / 11:27 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "10",
+		"quantity": 2,
+		"price": 133.23
+	},
+	{
+		"timestamp": "07-29-24 / 02:46 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "4",
+		"quantity": 2,
+		"price": 341.34
+	},
+	{
+		"timestamp": "07-29-24 / 02:12 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "11",
+		"quantity": 6,
+		"price": 432.13
+	},
+	{
+		"timestamp": "07-28-24 / 08:48 PM",
+		"zone": "Upper",
+		"section": "211",
+		"row": "11",
+		"quantity": 2,
+		"price": 110.58
+	},
+	{
+		"timestamp": "07-28-24 / 06:55 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "",
+		"quantity": 4,
+		"price": 411.3
+	},
+	{
+		"timestamp": "07-28-24 / 06:55 AM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "9",
+		"quantity": 2,
+		"price": 188.6
+	},
+	{
+		"timestamp": "07-28-24 / 12:56 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "19",
+		"quantity": 6,
+		"price": 314.5
+	},
+	{
+		"timestamp": "07-28-24 / 12:56 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "10",
+		"quantity": 2,
+		"price": 436.5
+	},
+	{
+		"timestamp": "07-28-24 / 12:56 AM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "8",
+		"quantity": 2,
+		"price": 181.8
+	},
+	{
+		"timestamp": "07-28-24 / 12:55 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "20",
+		"quantity": 2,
+		"price": 327.68
+	},
+	{
+		"timestamp": "07-28-24 / 12:55 AM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "12",
+		"quantity": 6,
+		"price": 352.13
+	},
+	{
+		"timestamp": "07-27-24 / 01:14 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "6",
+		"quantity": 2,
+		"price": 238.81
+	},
+	{
+		"timestamp": "07-27-24 / 07:54 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 291.96
+	},
+	{
+		"timestamp": "07-27-24 / 07:54 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "6",
+		"quantity": 2,
+		"price": 284.42
+	},
+	{
+		"timestamp": "07-27-24 / 03:39 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "6",
+		"quantity": 2,
+		"price": 226.5
+	},
+	{
+		"timestamp": "07-26-24 / 08:33 PM",
+		"zone": "Lower",
+		"section": "4",
+		"row": "12",
+		"quantity": 4,
+		"price": 256.08
+	},
+	{
+		"timestamp": "07-26-24 / 08:33 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "9",
+		"quantity": 5,
+		"price": 183.33
+	},
+	{
+		"timestamp": "07-26-24 / 08:33 PM",
+		"zone": "Middle",
+		"section": "105",
+		"row": "4",
+		"quantity": 3,
+		"price": 275.48
+	},
+	{
+		"timestamp": "07-26-24 / 07:18 AM",
+		"zone": "Middle",
+		"section": "109",
+		"row": "7",
+		"quantity": 3,
+		"price": 265.65
+	},
+	{
+		"timestamp": "07-24-24 / 02:17 PM",
+		"zone": "Lower",
+		"section": "Level",
+		"row": "",
+		"quantity": 2,
+		"price": 309.6
+	},
+	{
+		"timestamp": "07-24-24 / 02:17 PM",
+		"zone": "Middle",
+		"section": "Level 100",
+		"row": "",
+		"quantity": 2,
+		"price": 289.8
+	},
+	{
+		"timestamp": "07-24-24 / 02:17 PM",
+		"zone": "Upper",
+		"section": "Level 200",
+		"row": "",
+		"quantity": 2,
+		"price": 145.8
+	},
+	{
+		"timestamp": "07-23-24 / 12:37 PM",
+		"zone": "Floor",
+		"section": "F6",
+		"row": "10",
+		"quantity": 4,
+		"price": 298.39
+	},
+	{
+		"timestamp": "07-22-24 / 11:13 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "15",
+		"quantity": 2,
+		"price": 126.49
+	},
+	{
+		"timestamp": "07-21-24 / 03:26 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "",
+		"quantity": 2,
+		"price": 239.09
+	},
+	{
+		"timestamp": "07-21-24 / 03:26 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 2,
+		"price": 199.24
+	},
+	{
+		"timestamp": "07-20-24 / 02:11 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "18",
+		"quantity": 2,
+		"price": 294.88
+	},
+	{
+		"timestamp": "07-19-24 / 07:01 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "18",
+		"quantity": 2,
+		"price": 239.09
+	},
+	{
+		"timestamp": "07-18-24 / 10:11 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "8",
+		"quantity": 2,
+		"price": 520.81
+	},
+	{
+		"timestamp": "07-16-24 / 10:36 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "19",
+		"quantity": 4,
+		"price": 222.3
+	}
+]

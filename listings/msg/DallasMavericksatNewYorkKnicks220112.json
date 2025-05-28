@@ -1,0 +1,5082 @@
+[
+	{
+		"timestamp": "01-12-22 / 07:54 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "12",
+		"quantity": 3,
+		"price": 130.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:54 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "9",
+		"quantity": 5,
+		"price": 52.87
+	},
+	{
+		"timestamp": "01-12-22 / 07:54 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "17",
+		"quantity": 1,
+		"price": 60.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:54 PM",
+		"zone": "Club Platinum",
+		"section": "107",
+		"row": "6",
+		"quantity": 1,
+		"price": 315.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:38 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "21",
+		"quantity": 2,
+		"price": 139.4
+	},
+	{
+		"timestamp": "01-12-22 / 07:38 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "16",
+		"quantity": 5,
+		"price": 90.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:38 PM",
+		"zone": "200 Level Lower End",
+		"section": "220",
+		"row": "3",
+		"quantity": 1,
+		"price": 65
+	},
+	{
+		"timestamp": "01-12-22 / 07:38 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "17",
+		"quantity": 9,
+		"price": 55.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "15",
+		"quantity": 2,
+		"price": 130.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "13",
+		"quantity": 4,
+		"price": 140.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "15",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "21",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "15",
+		"quantity": 1,
+		"price": 85
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "21",
+		"quantity": 2,
+		"price": 67.49
+	},
+	{
+		"timestamp": "01-12-22 / 07:18 PM",
+		"zone": "Club Platinum",
+		"section": "107",
+		"row": "8",
+		"quantity": 2,
+		"price": 350.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:57 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "15",
+		"quantity": 3,
+		"price": 130.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:57 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "12",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "01-12-22 / 06:57 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "20",
+		"quantity": 2,
+		"price": 103
+	},
+	{
+		"timestamp": "01-12-22 / 06:57 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "15",
+		"quantity": 2,
+		"price": 73.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:39 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "13",
+		"quantity": 2,
+		"price": 150.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:39 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "12",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "01-12-22 / 06:39 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "17",
+		"quantity": 7,
+		"price": 100.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:39 PM",
+		"zone": "VIP Baseline",
+		"section": "8",
+		"row": "AA",
+		"quantity": 2,
+		"price": 1500.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "15",
+		"quantity": 3,
+		"price": 170.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "11",
+		"quantity": 2,
+		"price": 152
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "22",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "15",
+		"quantity": 1,
+		"price": 100
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "13",
+		"quantity": 3,
+		"price": 105.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "4",
+		"quantity": 1,
+		"price": 105.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "17",
+		"quantity": 1,
+		"price": 74.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "214",
+		"row": "18",
+		"quantity": 2,
+		"price": 72
+	},
+	{
+		"timestamp": "01-12-22 / 06:23 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "10",
+		"quantity": 2,
+		"price": 278.54
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "15",
+		"quantity": 1,
+		"price": 170.49
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "19",
+		"quantity": 1,
+		"price": 155.49
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "200 Level Lower End",
+		"section": "218",
+		"row": "3",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "17",
+		"quantity": 3,
+		"price": 85.49
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "Club Platinum",
+		"section": "107",
+		"row": "6",
+		"quantity": 6,
+		"price": 500.49
+	},
+	{
+		"timestamp": "01-12-22 / 05:45 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 5",
+		"row": "2",
+		"quantity": 3,
+		"price": 599
+	},
+	{
+		"timestamp": "01-12-22 / 05:29 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "12",
+		"quantity": 1,
+		"price": 200.49
+	},
+	{
+		"timestamp": "01-12-22 / 05:06 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "9",
+		"quantity": 3,
+		"price": 106.4
+	},
+	{
+		"timestamp": "01-12-22 / 05:06 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "20",
+		"quantity": 3,
+		"price": 89
+	},
+	{
+		"timestamp": "01-12-22 / 04:50 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "13",
+		"quantity": 1,
+		"price": 115.49
+	},
+	{
+		"timestamp": "01-12-22 / 04:50 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "4",
+		"quantity": 2,
+		"price": 95.2
+	},
+	{
+		"timestamp": "01-12-22 / 04:50 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "21",
+		"quantity": 4,
+		"price": 92.93
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "20",
+		"quantity": 4,
+		"price": 100
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level Corner",
+		"section": "109 - Accessible",
+		"row": "20",
+		"quantity": 2,
+		"price": 154.89
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "14",
+		"quantity": 6,
+		"price": 154.78
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "19",
+		"quantity": 1,
+		"price": 160.49
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "21",
+		"quantity": 2,
+		"price": 97.52
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "19",
+		"quantity": 1,
+		"price": 125
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "5",
+		"quantity": 1,
+		"price": 82.53
+	},
+	{
+		"timestamp": "01-12-22 / 04:36 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 6",
+		"row": "3",
+		"quantity": 2,
+		"price": 787.5
+	},
+	{
+		"timestamp": "01-12-22 / 04:15 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "14",
+		"quantity": 7,
+		"price": 163.5
+	},
+	{
+		"timestamp": "01-12-22 / 04:15 PM",
+		"zone": "Club Silver",
+		"section": "108",
+		"row": "18",
+		"quantity": 5,
+		"price": 127.5
+	},
+	{
+		"timestamp": "01-12-22 / 03:39 PM",
+		"zone": "Madison Club",
+		"section": "64",
+		"row": "1",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "01-12-22 / 03:22 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "24",
+		"quantity": 1,
+		"price": 76.47
+	},
+	{
+		"timestamp": "01-12-22 / 03:22 PM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "22",
+		"quantity": 2,
+		"price": 185.87
+	},
+	{
+		"timestamp": "01-12-22 / 03:03 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "16",
+		"quantity": 3,
+		"price": 128.8
+	},
+	{
+		"timestamp": "01-12-22 / 03:03 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "227",
+		"row": "16",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "01-12-22 / 02:46 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "9",
+		"quantity": 1,
+		"price": 179
+	},
+	{
+		"timestamp": "01-12-22 / 02:46 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "7",
+		"quantity": 3,
+		"price": 95
+	},
+	{
+		"timestamp": "01-12-22 / 02:46 PM",
+		"zone": "400 Level End",
+		"section": "415",
+		"row": "2",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "01-12-22 / 02:29 PM",
+		"zone": "200 Level Lower End",
+		"section": "215",
+		"row": "11",
+		"quantity": 1,
+		"price": 78.4
+	},
+	{
+		"timestamp": "01-12-22 / 02:29 PM",
+		"zone": "Club Silver",
+		"section": "108",
+		"row": "18",
+		"quantity": 5,
+		"price": 178.5
+	},
+	{
+		"timestamp": "01-12-22 / 02:06 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "19",
+		"quantity": 1,
+		"price": 160.49
+	},
+	{
+		"timestamp": "01-12-22 / 02:06 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "17",
+		"quantity": 2,
+		"price": 162.63
+	},
+	{
+		"timestamp": "01-12-22 / 02:06 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "227",
+		"row": "15",
+		"quantity": 6,
+		"price": 69.08
+	},
+	{
+		"timestamp": "01-12-22 / 02:06 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "9",
+		"quantity": 2,
+		"price": 204
+	},
+	{
+		"timestamp": "01-12-22 / 01:49 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "10",
+		"quantity": 2,
+		"price": 168
+	},
+	{
+		"timestamp": "01-12-22 / 01:49 PM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 8",
+		"row": "5",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "01-12-22 / 01:34 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "7",
+		"quantity": 2,
+		"price": 103.5
+	},
+	{
+		"timestamp": "01-12-22 / 01:34 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "B25",
+		"quantity": 1,
+		"price": 64.95
+	},
+	{
+		"timestamp": "01-12-22 / 01:34 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "16",
+		"quantity": 5,
+		"price": 170
+	},
+	{
+		"timestamp": "01-12-22 / 01:15 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "13",
+		"quantity": 5,
+		"price": 70
+	},
+	{
+		"timestamp": "01-12-22 / 01:15 PM",
+		"zone": "The Lounges",
+		"section": "Lounge 305",
+		"row": "1",
+		"quantity": 2,
+		"price": 79.2
+	},
+	{
+		"timestamp": "01-12-22 / 12:56 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "17",
+		"quantity": 1,
+		"price": 135.04
+	},
+	{
+		"timestamp": "01-12-22 / 12:38 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "14",
+		"quantity": 4,
+		"price": 75.6
+	},
+	{
+		"timestamp": "01-12-22 / 12:20 PM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "1",
+		"quantity": 1,
+		"price": 449.08
+	},
+	{
+		"timestamp": "01-12-22 / 12:20 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 10",
+		"row": "3",
+		"quantity": 1,
+		"price": 1000.49
+	},
+	{
+		"timestamp": "01-12-22 / 12:01 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "12",
+		"quantity": 2,
+		"price": 75.49
+	},
+	{
+		"timestamp": "01-12-22 / 11:44 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "18",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "01-12-22 / 11:05 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "15",
+		"quantity": 4,
+		"price": 152.6
+	},
+	{
+		"timestamp": "01-12-22 / 11:05 AM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "15",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "01-12-22 / 10:35 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "16",
+		"quantity": 6,
+		"price": 72
+	},
+	{
+		"timestamp": "01-12-22 / 09:25 AM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 9",
+		"row": "2",
+		"quantity": 2,
+		"price": 299
+	},
+	{
+		"timestamp": "01-12-22 / 08:21 AM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "4",
+		"quantity": 2,
+		"price": 58.82
+	},
+	{
+		"timestamp": "01-12-22 / 07:34 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "14",
+		"quantity": 4,
+		"price": 60.49
+	},
+	{
+		"timestamp": "01-12-22 / 06:32 AM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "22",
+		"quantity": 4,
+		"price": 176
+	},
+	{
+		"timestamp": "01-12-22 / 06:32 AM",
+		"zone": "200 Level Lower End",
+		"section": "217",
+		"row": "5",
+		"quantity": 6,
+		"price": 140
+	},
+	{
+		"timestamp": "01-12-22 / 05:48 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "11",
+		"quantity": 1,
+		"price": 233
+	},
+	{
+		"timestamp": "01-12-22 / 04:38 AM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 10",
+		"row": "3",
+		"quantity": 2,
+		"price": 760
+	},
+	{
+		"timestamp": "01-12-22 / 04:02 AM",
+		"zone": "Chase Bridges",
+		"section": "315",
+		"row": "2",
+		"quantity": 2,
+		"price": 63.66
+	},
+	{
+		"timestamp": "01-12-22 / 03:35 AM",
+		"zone": "200 Level Upper Center",
+		"section": "Vaccinated Fans Only -  211",
+		"row": "23",
+		"quantity": 2,
+		"price": 11
+	},
+	{
+		"timestamp": "01-12-22 / 02:37 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "14",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "01-12-22 / 02:05 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "4",
+		"quantity": 2,
+		"price": 57
+	},
+	{
+		"timestamp": "01-12-22 / 02:05 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "5",
+		"quantity": 4,
+		"price": 70
+	},
+	{
+		"timestamp": "01-12-22 / 01:26 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "11",
+		"quantity": 3,
+		"price": 65
+	},
+	{
+		"timestamp": "01-12-22 / 01:26 AM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "18",
+		"quantity": 3,
+		"price": 70.49
+	},
+	{
+		"timestamp": "01-12-22 / 12:36 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "12",
+		"quantity": 3,
+		"price": 73.11
+	},
+	{
+		"timestamp": "01-11-22 / 11:48 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "10",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "01-11-22 / 11:48 PM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "10",
+		"quantity": 3,
+		"price": 134.95
+	},
+	{
+		"timestamp": "01-11-22 / 11:48 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 226",
+		"row": "1",
+		"quantity": 2,
+		"price": 119.7
+	},
+	{
+		"timestamp": "01-11-22 / 10:42 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "19",
+		"quantity": 6,
+		"price": 75.49
+	},
+	{
+		"timestamp": "01-11-22 / 10:06 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "5",
+		"quantity": 2,
+		"price": 48
+	},
+	{
+		"timestamp": "01-11-22 / 09:34 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "18",
+		"quantity": 2,
+		"price": 87
+	},
+	{
+		"timestamp": "01-11-22 / 09:34 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "208",
+		"row": "18",
+		"quantity": 5,
+		"price": 59
+	},
+	{
+		"timestamp": "01-11-22 / 09:17 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "10",
+		"quantity": 1,
+		"price": 71.71
+	},
+	{
+		"timestamp": "01-11-22 / 08:59 PM",
+		"zone": "200 Level Lower End",
+		"section": "207",
+		"row": "3",
+		"quantity": 2,
+		"price": 60.49
+	},
+	{
+		"timestamp": "01-11-22 / 08:04 PM",
+		"zone": "Club Silver",
+		"section": "118",
+		"row": "19",
+		"quantity": 2,
+		"price": 200.49
+	},
+	{
+		"timestamp": "01-11-22 / 07:47 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 10",
+		"row": "1",
+		"quantity": 2,
+		"price": 902
+	},
+	{
+		"timestamp": "01-11-22 / 07:12 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "11",
+		"quantity": 2,
+		"price": 62.49
+	},
+	{
+		"timestamp": "01-11-22 / 06:37 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "221",
+		"row": "16",
+		"quantity": 5,
+		"price": 81
+	},
+	{
+		"timestamp": "01-11-22 / 06:37 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 12",
+		"row": "2",
+		"quantity": 1,
+		"price": 882.3
+	},
+	{
+		"timestamp": "01-11-22 / 06:20 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "16",
+		"quantity": 5,
+		"price": 87.61
+	},
+	{
+		"timestamp": "01-11-22 / 06:00 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "208",
+		"row": "8",
+		"quantity": 1,
+		"price": 73.6
+	},
+	{
+		"timestamp": "01-11-22 / 06:00 PM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "1",
+		"quantity": 3,
+		"price": 499.22
+	},
+	{
+		"timestamp": "01-11-22 / 05:25 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "9",
+		"quantity": 3,
+		"price": 124.95
+	},
+	{
+		"timestamp": "01-11-22 / 05:25 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "19",
+		"quantity": 8,
+		"price": 85.68
+	},
+	{
+		"timestamp": "01-11-22 / 05:25 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "20",
+		"quantity": 2,
+		"price": 69.37
+	},
+	{
+		"timestamp": "01-11-22 / 05:03 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 209",
+		"row": "1",
+		"quantity": 1,
+		"price": 123.2
+	},
+	{
+		"timestamp": "01-11-22 / 04:45 PM",
+		"zone": "200 Level Lower End",
+		"section": "220",
+		"row": "10",
+		"quantity": 1,
+		"price": 53.22
+	},
+	{
+		"timestamp": "01-11-22 / 04:13 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "17",
+		"quantity": 2,
+		"price": 53.9
+	},
+	{
+		"timestamp": "01-11-22 / 03:54 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "13",
+		"quantity": 3,
+		"price": 71.71
+	},
+	{
+		"timestamp": "01-11-22 / 03:54 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "214",
+		"row": "15",
+		"quantity": 3,
+		"price": 49
+	},
+	{
+		"timestamp": "01-11-22 / 03:37 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "10",
+		"quantity": 2,
+		"price": 196.2
+	},
+	{
+		"timestamp": "01-11-22 / 02:58 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "11",
+		"quantity": 5,
+		"price": 55
+	},
+	{
+		"timestamp": "01-11-22 / 02:58 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "23",
+		"quantity": 5,
+		"price": 65
+	},
+	{
+		"timestamp": "01-11-22 / 02:58 PM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "10",
+		"quantity": 2,
+		"price": 184
+	},
+	{
+		"timestamp": "01-11-22 / 02:58 PM",
+		"zone": "Club Silver",
+		"section": "105",
+		"row": "4",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "01-11-22 / 02:43 PM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "9",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "01-11-22 / 02:25 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "208",
+		"row": "8",
+		"quantity": 5,
+		"price": 67.12
+	},
+	{
+		"timestamp": "01-11-22 / 02:25 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "17",
+		"quantity": 2,
+		"price": 139.99
+	},
+	{
+		"timestamp": "01-11-22 / 01:46 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "5",
+		"quantity": 3,
+		"price": 67.2
+	},
+	{
+		"timestamp": "01-11-22 / 01:31 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "7",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "01-11-22 / 01:31 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "10",
+		"quantity": 3,
+		"price": 255
+	},
+	{
+		"timestamp": "01-11-22 / 12:17 PM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 212",
+		"row": "2",
+		"quantity": 2,
+		"price": 124.95
+	},
+	{
+		"timestamp": "01-11-22 / 11:04 AM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 2,
+		"price": 125.37
+	},
+	{
+		"timestamp": "01-11-22 / 10:48 AM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "6",
+		"quantity": 2,
+		"price": 90.4
+	},
+	{
+		"timestamp": "01-11-22 / 10:48 AM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "14",
+		"quantity": 2,
+		"price": 165
+	},
+	{
+		"timestamp": "01-11-22 / 10:30 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "22",
+		"quantity": 1,
+		"price": 119.4
+	},
+	{
+		"timestamp": "01-11-22 / 10:30 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "3",
+		"quantity": 2,
+		"price": 89.14
+	},
+	{
+		"timestamp": "01-11-22 / 10:13 AM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "15",
+		"quantity": 2,
+		"price": 48.38
+	},
+	{
+		"timestamp": "01-11-22 / 09:55 AM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 227",
+		"row": "2",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "01-11-22 / 09:55 AM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "3",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "01-11-22 / 09:55 AM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "2",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "01-11-22 / 09:40 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "9",
+		"quantity": 2,
+		"price": 91.04
+	},
+	{
+		"timestamp": "01-11-22 / 09:23 AM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 1",
+		"row": "4",
+		"quantity": 2,
+		"price": 195
+	},
+	{
+		"timestamp": "01-11-22 / 09:03 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 2,
+		"price": 201
+	},
+	{
+		"timestamp": "01-11-22 / 08:51 AM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "18",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "01-11-22 / 06:34 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "4",
+		"quantity": 3,
+		"price": 70
+	},
+	{
+		"timestamp": "01-11-22 / 03:33 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "10",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "01-11-22 / 01:36 AM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "12",
+		"quantity": 2,
+		"price": 138
+	},
+	{
+		"timestamp": "01-11-22 / 12:59 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "18",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "01-11-22 / 12:59 AM",
+		"zone": "200 Level Lower End",
+		"section": "218",
+		"row": "5",
+		"quantity": 1,
+		"price": 46
+	},
+	{
+		"timestamp": "01-11-22 / 12:44 AM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "18",
+		"quantity": 2,
+		"price": 67
+	},
+	{
+		"timestamp": "01-11-22 / 12:28 AM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "20",
+		"quantity": 3,
+		"price": 80
+	},
+	{
+		"timestamp": "01-10-22 / 11:53 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "12",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "01-10-22 / 11:40 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "13",
+		"quantity": 2,
+		"price": 139
+	},
+	{
+		"timestamp": "01-10-22 / 11:40 PM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 2",
+		"row": "5",
+		"quantity": 1,
+		"price": 218.07
+	},
+	{
+		"timestamp": "01-10-22 / 11:23 PM",
+		"zone": "200 Level Lower End",
+		"section": "201",
+		"row": "2",
+		"quantity": 2,
+		"price": 63
+	},
+	{
+		"timestamp": "01-10-22 / 11:03 PM",
+		"zone": "200 Level Lower End",
+		"section": "215",
+		"row": "13",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "01-10-22 / 10:34 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "4",
+		"quantity": 1,
+		"price": 88.36
+	},
+	{
+		"timestamp": "01-10-22 / 09:40 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "8",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "01-10-22 / 09:05 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "13",
+		"quantity": 3,
+		"price": 68
+	},
+	{
+		"timestamp": "01-10-22 / 08:49 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "22",
+		"quantity": 5,
+		"price": 75.51
+	},
+	{
+		"timestamp": "01-10-22 / 08:30 PM",
+		"zone": "400 Level End",
+		"section": "413",
+		"row": "5",
+		"quantity": 1,
+		"price": 53.46
+	},
+	{
+		"timestamp": "01-10-22 / 08:30 PM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 2",
+		"row": "5",
+		"quantity": 1,
+		"price": 218.07
+	},
+	{
+		"timestamp": "01-10-22 / 07:35 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "10",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "01-10-22 / 07:35 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "15",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "01-10-22 / 07:13 PM",
+		"zone": "200 Level Lower End",
+		"section": "201",
+		"row": "2",
+		"quantity": 3,
+		"price": 64.49
+	},
+	{
+		"timestamp": "01-10-22 / 06:34 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "15",
+		"quantity": 2,
+		"price": 179
+	},
+	{
+		"timestamp": "01-10-22 / 06:34 PM",
+		"zone": "400 Level End",
+		"section": "413",
+		"row": "4",
+		"quantity": 4,
+		"price": 29.7
+	},
+	{
+		"timestamp": "01-10-22 / 06:09 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "15",
+		"quantity": 3,
+		"price": 74.19
+	},
+	{
+		"timestamp": "01-10-22 / 05:51 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "20",
+		"quantity": 2,
+		"price": 81
+	},
+	{
+		"timestamp": "01-10-22 / 05:51 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "17",
+		"quantity": 1,
+		"price": 105.6
+	},
+	{
+		"timestamp": "01-10-22 / 05:51 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "8",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "01-10-22 / 05:51 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "14",
+		"quantity": 3,
+		"price": 60.1
+	},
+	{
+		"timestamp": "01-10-22 / 05:51 PM",
+		"zone": "Baseline Risers",
+		"section": "7",
+		"row": "8",
+		"quantity": 2,
+		"price": 168.9
+	},
+	{
+		"timestamp": "01-10-22 / 05:37 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "20",
+		"quantity": 1,
+		"price": 113.48
+	},
+	{
+		"timestamp": "01-10-22 / 05:00 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "8",
+		"quantity": 3,
+		"price": 72
+	},
+	{
+		"timestamp": "01-10-22 / 03:13 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "7",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "01-10-22 / 03:13 PM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 9",
+		"row": "1",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "01-10-22 / 02:55 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "9",
+		"quantity": 2,
+		"price": 139
+	},
+	{
+		"timestamp": "01-10-22 / 02:55 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "12",
+		"quantity": 8,
+		"price": 345.05
+	},
+	{
+		"timestamp": "01-10-22 / 02:55 PM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "22",
+		"quantity": 4,
+		"price": 283.97
+	},
+	{
+		"timestamp": "01-10-22 / 02:38 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "11",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "01-10-22 / 02:38 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "24",
+		"quantity": 2,
+		"price": 51.93
+	},
+	{
+		"timestamp": "01-10-22 / 02:23 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "10",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "01-10-22 / 02:23 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "19",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "01-10-22 / 02:01 PM",
+		"zone": "400 Level End",
+		"section": "417",
+		"row": "2",
+		"quantity": 4,
+		"price": 34
+	},
+	{
+		"timestamp": "01-10-22 / 01:43 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "18",
+		"quantity": 2,
+		"price": 46
+	},
+	{
+		"timestamp": "01-10-22 / 01:43 PM",
+		"zone": "VIP Courtside",
+		"section": "12",
+		"row": "AA",
+		"quantity": 2,
+		"price": 4635
+	},
+	{
+		"timestamp": "01-10-22 / 12:14 PM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 211",
+		"row": "1",
+		"quantity": 3,
+		"price": 151.5
+	},
+	{
+		"timestamp": "01-10-22 / 11:37 AM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "8",
+		"quantity": 2,
+		"price": 94.94
+	},
+	{
+		"timestamp": "01-10-22 / 11:21 AM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "22",
+		"quantity": 1,
+		"price": 51.41
+	},
+	{
+		"timestamp": "01-10-22 / 11:21 AM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "18",
+		"quantity": 3,
+		"price": 156
+	},
+	{
+		"timestamp": "01-10-22 / 09:55 AM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 211",
+		"row": "2",
+		"quantity": 1,
+		"price": 144.58
+	},
+	{
+		"timestamp": "01-10-22 / 09:55 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "13",
+		"quantity": 3,
+		"price": 50
+	},
+	{
+		"timestamp": "01-10-22 / 08:46 AM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "22",
+		"quantity": 2,
+		"price": 56.79
+	},
+	{
+		"timestamp": "01-10-22 / 07:12 AM",
+		"zone": "400 Level End",
+		"section": "413",
+		"row": "3",
+		"quantity": 1,
+		"price": 47
+	},
+	{
+		"timestamp": "01-10-22 / 02:46 AM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "22",
+		"quantity": 2,
+		"price": 56.79
+	},
+	{
+		"timestamp": "01-10-22 / 02:34 AM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "16",
+		"quantity": 2,
+		"price": 107.52
+	},
+	{
+		"timestamp": "01-10-22 / 01:45 AM",
+		"zone": "Chase Bridges",
+		"section": "314",
+		"row": "1",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "01-10-22 / 12:20 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "19",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "01-09-22 / 11:51 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "18",
+		"quantity": 3,
+		"price": 79.25
+	},
+	{
+		"timestamp": "01-09-22 / 11:51 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "19",
+		"quantity": 2,
+		"price": 51
+	},
+	{
+		"timestamp": "01-09-22 / 11:51 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "8",
+		"quantity": 2,
+		"price": 162
+	},
+	{
+		"timestamp": "01-09-22 / 11:38 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "21",
+		"quantity": 2,
+		"price": 97.92
+	},
+	{
+		"timestamp": "01-09-22 / 11:38 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "15",
+		"quantity": 3,
+		"price": 127.36
+	},
+	{
+		"timestamp": "01-09-22 / 11:38 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "6",
+		"quantity": 7,
+		"price": 98.1
+	},
+	{
+		"timestamp": "01-09-22 / 11:22 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "18",
+		"quantity": 2,
+		"price": 49.9
+	},
+	{
+		"timestamp": "01-09-22 / 10:36 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "18",
+		"quantity": 1,
+		"price": 87
+	},
+	{
+		"timestamp": "01-09-22 / 10:36 PM",
+		"zone": "200 Level Lower End",
+		"section": "207",
+		"row": "4",
+		"quantity": 2,
+		"price": 37
+	},
+	{
+		"timestamp": "01-09-22 / 10:36 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "10",
+		"quantity": 1,
+		"price": 280.5
+	},
+	{
+		"timestamp": "01-09-22 / 09:48 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "14",
+		"quantity": 1,
+		"price": 55.76
+	},
+	{
+		"timestamp": "01-09-22 / 09:35 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "22",
+		"quantity": 3,
+		"price": 50.35
+	},
+	{
+		"timestamp": "01-09-22 / 09:35 PM",
+		"zone": "Floor Club Sideline",
+		"section": "Floor Club 4",
+		"row": "2",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "01-09-22 / 09:20 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "6",
+		"quantity": 4,
+		"price": 67
+	},
+	{
+		"timestamp": "01-09-22 / 09:03 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 213",
+		"row": "1",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "01-09-22 / 09:03 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "13",
+		"quantity": 2,
+		"price": 157
+	},
+	{
+		"timestamp": "01-09-22 / 08:47 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "5",
+		"quantity": 2,
+		"price": 69.25
+	},
+	{
+		"timestamp": "01-09-22 / 08:47 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "22",
+		"quantity": 1,
+		"price": 54
+	},
+	{
+		"timestamp": "01-09-22 / 08:09 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "209",
+		"row": "20",
+		"quantity": 1,
+		"price": 49.95
+	},
+	{
+		"timestamp": "01-09-22 / 07:20 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "18",
+		"quantity": 2,
+		"price": 52
+	},
+	{
+		"timestamp": "01-09-22 / 06:44 PM",
+		"zone": "200 Level Lower End",
+		"section": "202",
+		"row": "4",
+		"quantity": 2,
+		"price": 56.56
+	},
+	{
+		"timestamp": "01-09-22 / 04:44 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "208",
+		"row": "22",
+		"quantity": 3,
+		"price": 48.96
+	},
+	{
+		"timestamp": "01-09-22 / 04:32 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "22",
+		"quantity": 3,
+		"price": 51.41
+	},
+	{
+		"timestamp": "01-09-22 / 04:32 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "24",
+		"quantity": 1,
+		"price": 47.96
+	},
+	{
+		"timestamp": "01-09-22 / 03:56 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "14",
+		"quantity": 2,
+		"price": 77
+	},
+	{
+		"timestamp": "01-09-22 / 03:40 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "5",
+		"quantity": 2,
+		"price": 44
+	},
+	{
+		"timestamp": "01-09-22 / 03:40 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "B25",
+		"quantity": 2,
+		"price": 51.24
+	},
+	{
+		"timestamp": "01-09-22 / 03:06 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "16",
+		"quantity": 3,
+		"price": 163
+	},
+	{
+		"timestamp": "01-09-22 / 02:51 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "12",
+		"quantity": 2,
+		"price": 160.5
+	},
+	{
+		"timestamp": "01-09-22 / 02:51 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "3",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "01-09-22 / 02:19 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "17",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "01-09-22 / 01:59 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "B25",
+		"quantity": 2,
+		"price": 60.18
+	},
+	{
+		"timestamp": "01-09-22 / 12:52 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "6",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "01-09-22 / 12:20 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "18",
+		"quantity": 2,
+		"price": 80.09
+	},
+	{
+		"timestamp": "01-09-22 / 12:20 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "13",
+		"quantity": 2,
+		"price": 51.23
+	},
+	{
+		"timestamp": "01-09-22 / 12:01 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "4",
+		"quantity": 4,
+		"price": 69.62
+	},
+	{
+		"timestamp": "01-09-22 / 11:31 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "24",
+		"quantity": 5,
+		"price": 49.35
+	},
+	{
+		"timestamp": "01-09-22 / 11:10 AM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "22",
+		"quantity": 2,
+		"price": 150.49
+	},
+	{
+		"timestamp": "01-09-22 / 11:10 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "22",
+		"quantity": 1,
+		"price": 50.4
+	},
+	{
+		"timestamp": "01-09-22 / 10:52 AM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "13",
+		"quantity": 1,
+		"price": 56.93
+	},
+	{
+		"timestamp": "01-09-22 / 10:22 AM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "21",
+		"quantity": 2,
+		"price": 66
+	},
+	{
+		"timestamp": "01-09-22 / 07:55 AM",
+		"zone": "Club Platinum",
+		"section": "106",
+		"row": "1",
+		"quantity": 2,
+		"price": 619.56
+	},
+	{
+		"timestamp": "01-09-22 / 01:37 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "14",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "01-08-22 / 09:08 PM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "16",
+		"quantity": 4,
+		"price": 148
+	},
+	{
+		"timestamp": "01-08-22 / 08:53 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "18",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "01-08-22 / 08:39 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "3",
+		"quantity": 2,
+		"price": 102
+	},
+	{
+		"timestamp": "01-08-22 / 06:42 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "21",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "01-08-22 / 06:26 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "18",
+		"quantity": 6,
+		"price": 120.32
+	},
+	{
+		"timestamp": "01-08-22 / 06:26 PM",
+		"zone": "Chase Bridges",
+		"section": "327",
+		"row": "2",
+		"quantity": 2,
+		"price": 68
+	},
+	{
+		"timestamp": "01-08-22 / 06:07 PM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "11",
+		"quantity": 2,
+		"price": 93.1
+	},
+	{
+		"timestamp": "01-08-22 / 05:00 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "19",
+		"quantity": 3,
+		"price": 124.8
+	},
+	{
+		"timestamp": "01-08-22 / 04:31 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "17",
+		"quantity": 2,
+		"price": 72
+	},
+	{
+		"timestamp": "01-08-22 / 04:10 PM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "19",
+		"quantity": 2,
+		"price": 84.89
+	},
+	{
+		"timestamp": "01-08-22 / 04:10 PM",
+		"zone": "400 Level End",
+		"section": "416",
+		"row": "4",
+		"quantity": 3,
+		"price": 47.45
+	},
+	{
+		"timestamp": "01-08-22 / 03:52 PM",
+		"zone": "200 Level Lower End",
+		"section": "201",
+		"row": "5",
+		"quantity": 2,
+		"price": 50.28
+	},
+	{
+		"timestamp": "01-08-22 / 02:34 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "18",
+		"quantity": 1,
+		"price": 86.02
+	},
+	{
+		"timestamp": "01-08-22 / 01:57 PM",
+		"zone": "200 Level Lower End",
+		"section": "207",
+		"row": "7",
+		"quantity": 2,
+		"price": 50.28
+	},
+	{
+		"timestamp": "01-08-22 / 01:06 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "19",
+		"quantity": 2,
+		"price": 36.07
+	},
+	{
+		"timestamp": "01-08-22 / 12:35 PM",
+		"zone": "200 Level Lower End",
+		"section": "218",
+		"row": "4",
+		"quantity": 2,
+		"price": 61.58
+	},
+	{
+		"timestamp": "01-08-22 / 12:35 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "22",
+		"quantity": 4,
+		"price": 46
+	},
+	{
+		"timestamp": "01-08-22 / 11:07 AM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "14",
+		"quantity": 2,
+		"price": 83.9
+	},
+	{
+		"timestamp": "01-08-22 / 09:33 AM",
+		"zone": "Baseline Risers",
+		"section": "3",
+		"row": "19",
+		"quantity": 4,
+		"price": 166
+	},
+	{
+		"timestamp": "01-08-22 / 08:42 AM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "9",
+		"quantity": 2,
+		"price": 65
+	},
+	{
+		"timestamp": "01-08-22 / 01:43 AM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "14",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "01-08-22 / 12:19 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "12",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "01-08-22 / 12:19 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "209",
+		"row": "16",
+		"quantity": 5,
+		"price": 60
+	},
+	{
+		"timestamp": "01-07-22 / 10:23 PM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "2",
+		"quantity": 4,
+		"price": 500
+	},
+	{
+		"timestamp": "01-07-22 / 10:07 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "13",
+		"quantity": 3,
+		"price": 54.45
+	},
+	{
+		"timestamp": "01-07-22 / 08:36 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "3",
+		"quantity": 3,
+		"price": 100
+	},
+	{
+		"timestamp": "01-07-22 / 08:05 PM",
+		"zone": "400 Level End",
+		"section": "420",
+		"row": "5",
+		"quantity": 2,
+		"price": 37.95
+	},
+	{
+		"timestamp": "01-07-22 / 07:50 PM",
+		"zone": "200 Level Lower End",
+		"section": "217",
+		"row": "5",
+		"quantity": 2,
+		"price": 54.88
+	},
+	{
+		"timestamp": "01-07-22 / 07:50 PM",
+		"zone": "400 Level End",
+		"section": "415",
+		"row": "5",
+		"quantity": 2,
+		"price": 43
+	},
+	{
+		"timestamp": "01-07-22 / 06:35 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "3",
+		"quantity": 3,
+		"price": 88.36
+	},
+	{
+		"timestamp": "01-07-22 / 05:58 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "9",
+		"quantity": 2,
+		"price": 60.51
+	},
+	{
+		"timestamp": "01-07-22 / 05:42 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "20",
+		"quantity": 3,
+		"price": 87
+	},
+	{
+		"timestamp": "01-07-22 / 05:10 PM",
+		"zone": "400 Level End",
+		"section": "416",
+		"row": "5",
+		"quantity": 2,
+		"price": 36.99
+	},
+	{
+		"timestamp": "01-07-22 / 04:20 PM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "11",
+		"quantity": 3,
+		"price": 100
+	},
+	{
+		"timestamp": "01-07-22 / 04:20 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "6",
+		"quantity": 5,
+		"price": 95.32
+	},
+	{
+		"timestamp": "01-07-22 / 04:00 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "9",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "01-07-22 / 04:00 PM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "22",
+		"quantity": 2,
+		"price": 269.02
+	},
+	{
+		"timestamp": "01-07-22 / 03:43 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "6",
+		"quantity": 2,
+		"price": 62.65
+	},
+	{
+		"timestamp": "01-07-22 / 03:43 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "16",
+		"quantity": 2,
+		"price": 135
+	},
+	{
+		"timestamp": "01-07-22 / 03:29 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "7",
+		"quantity": 1,
+		"price": 88.36
+	},
+	{
+		"timestamp": "01-07-22 / 03:12 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "10",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "01-07-22 / 02:25 PM",
+		"zone": "Club Gold Baseline",
+		"section": "Club Gold 2",
+		"row": "1",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "01-07-22 / 01:48 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "22",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "01-07-22 / 01:35 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "19",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "01-07-22 / 01:35 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "7",
+		"quantity": 5,
+		"price": 88.36
+	},
+	{
+		"timestamp": "01-07-22 / 01:35 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "6",
+		"quantity": 2,
+		"price": 56.65
+	},
+	{
+		"timestamp": "01-07-22 / 01:20 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "14",
+		"quantity": 5,
+		"price": 250
+	},
+	{
+		"timestamp": "01-07-22 / 11:39 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "6",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "01-07-22 / 11:39 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "6",
+		"quantity": 2,
+		"price": 56.65
+	},
+	{
+		"timestamp": "01-07-22 / 11:39 AM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "12",
+		"quantity": 2,
+		"price": 117
+	},
+	{
+		"timestamp": "01-07-22 / 11:39 AM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "7",
+		"quantity": 2,
+		"price": 211.09
+	},
+	{
+		"timestamp": "01-07-22 / 11:21 AM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "18",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "01-07-22 / 11:02 AM",
+		"zone": "400 Level End",
+		"section": "419",
+		"row": "4",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "01-07-22 / 10:19 AM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "3",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "01-07-22 / 10:01 AM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "21",
+		"quantity": 2,
+		"price": 61.58
+	},
+	{
+		"timestamp": "01-07-22 / 06:58 AM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "7",
+		"quantity": 2,
+		"price": 42.24
+	},
+	{
+		"timestamp": "01-07-22 / 06:45 AM",
+		"zone": "VIP Baseline",
+		"section": "1 - Accessible",
+		"row": "1",
+		"quantity": 2,
+		"price": 628
+	},
+	{
+		"timestamp": "01-07-22 / 03:31 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "20",
+		"quantity": 1,
+		"price": 93
+	},
+	{
+		"timestamp": "01-07-22 / 02:45 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "18",
+		"quantity": 2,
+		"price": 174.4
+	},
+	{
+		"timestamp": "01-07-22 / 01:45 AM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "22",
+		"quantity": 5,
+		"price": 95.52
+	},
+	{
+		"timestamp": "01-07-22 / 01:32 AM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "18",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "01-07-22 / 12:31 AM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "19",
+		"quantity": 2,
+		"price": 65.47
+	},
+	{
+		"timestamp": "01-06-22 / 11:40 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "3",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "01-06-22 / 11:40 PM",
+		"zone": "Club Silver",
+		"section": "118",
+		"row": "18",
+		"quantity": 4,
+		"price": 244.8
+	},
+	{
+		"timestamp": "01-06-22 / 11:29 PM",
+		"zone": "Club Platinum",
+		"section": "106",
+		"row": "5",
+		"quantity": 2,
+		"price": 577.5
+	},
+	{
+		"timestamp": "01-06-22 / 11:14 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "13",
+		"quantity": 2,
+		"price": 56
+	},
+	{
+		"timestamp": "01-06-22 / 11:14 PM",
+		"zone": "Chase Bridges",
+		"section": "327",
+		"row": "2",
+		"quantity": 2,
+		"price": 87.35
+	},
+	{
+		"timestamp": "01-06-22 / 10:29 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "209",
+		"row": "18",
+		"quantity": 2,
+		"price": 45.16
+	},
+	{
+		"timestamp": "01-06-22 / 09:56 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "19",
+		"quantity": 4,
+		"price": 65.33
+	},
+	{
+		"timestamp": "01-06-22 / 09:56 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "20",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "01-06-22 / 09:29 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "208",
+		"row": "22",
+		"quantity": 3,
+		"price": 47.99
+	},
+	{
+		"timestamp": "01-06-22 / 08:39 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "7",
+		"quantity": 2,
+		"price": 59.98
+	},
+	{
+		"timestamp": "01-06-22 / 08:26 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "10",
+		"quantity": 2,
+		"price": 116.37
+	},
+	{
+		"timestamp": "01-06-22 / 06:37 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "13",
+		"quantity": 2,
+		"price": 299.32
+	},
+	{
+		"timestamp": "01-06-22 / 04:18 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "6",
+		"quantity": 2,
+		"price": 58.73
+	},
+	{
+		"timestamp": "01-06-22 / 03:58 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "16",
+		"quantity": 4,
+		"price": 99
+	},
+	{
+		"timestamp": "01-06-22 / 03:30 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "14",
+		"quantity": 2,
+		"price": 116.68
+	},
+	{
+		"timestamp": "01-06-22 / 03:14 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "18",
+		"quantity": 1,
+		"price": 53.54
+	},
+	{
+		"timestamp": "01-06-22 / 02:57 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "4",
+		"quantity": 2,
+		"price": 161.33
+	},
+	{
+		"timestamp": "01-06-22 / 02:57 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "18",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "01-06-22 / 01:48 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "20",
+		"quantity": 5,
+		"price": 95
+	},
+	{
+		"timestamp": "01-06-22 / 01:17 PM",
+		"zone": "400 Level End",
+		"section": "419",
+		"row": "4",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "01-06-22 / 12:43 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "4",
+		"quantity": 2,
+		"price": 90.5
+	},
+	{
+		"timestamp": "01-06-22 / 12:27 PM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "10",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "01-06-22 / 11:20 AM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "18",
+		"quantity": 3,
+		"price": 195.49
+	},
+	{
+		"timestamp": "01-06-22 / 11:20 AM",
+		"zone": "Club Gold Baseline",
+		"section": "1",
+		"row": "10",
+		"quantity": 2,
+		"price": 132.96
+	},
+	{
+		"timestamp": "01-06-22 / 11:02 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "8",
+		"quantity": 2,
+		"price": 56.37
+	},
+	{
+		"timestamp": "01-06-22 / 09:59 AM",
+		"zone": "Chase Bridges",
+		"section": "314",
+		"row": "2",
+		"quantity": 2,
+		"price": 50.49
+	},
+	{
+		"timestamp": "01-06-22 / 08:34 AM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "12",
+		"quantity": 2,
+		"price": 91.5
+	},
+	{
+		"timestamp": "01-06-22 / 06:26 AM",
+		"zone": "Club Gold Baseline",
+		"section": "1",
+		"row": "19",
+		"quantity": 2,
+		"price": 131
+	},
+	{
+		"timestamp": "01-05-22 / 09:04 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "13",
+		"quantity": 2,
+		"price": 129
+	},
+	{
+		"timestamp": "01-05-22 / 09:04 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "15",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "01-05-22 / 08:51 PM",
+		"zone": "200 Level Lower End",
+		"section": "202",
+		"row": "3",
+		"quantity": 3,
+		"price": 57.83
+	},
+	{
+		"timestamp": "01-05-22 / 08:25 PM",
+		"zone": "Chase Bridges",
+		"section": "311",
+		"row": "1",
+		"quantity": 4,
+		"price": 55.49
+	},
+	{
+		"timestamp": "01-05-22 / 08:05 PM",
+		"zone": "Club Gold Baseline",
+		"section": "3",
+		"row": "3",
+		"quantity": 1,
+		"price": 502.55
+	},
+	{
+		"timestamp": "01-05-22 / 06:52 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "22",
+		"quantity": 2,
+		"price": 80.13
+	},
+	{
+		"timestamp": "01-05-22 / 06:37 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "19",
+		"quantity": 3,
+		"price": 124.8
+	},
+	{
+		"timestamp": "01-05-22 / 06:02 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "11",
+		"quantity": 5,
+		"price": 121.35
+	},
+	{
+		"timestamp": "01-05-22 / 03:35 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "12",
+		"quantity": 5,
+		"price": 75.72
+	},
+	{
+		"timestamp": "01-05-22 / 02:43 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "19",
+		"quantity": 2,
+		"price": 197.49
+	},
+	{
+		"timestamp": "01-05-22 / 01:40 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "22",
+		"quantity": 2,
+		"price": 102.23
+	},
+	{
+		"timestamp": "01-05-22 / 01:40 PM",
+		"zone": "Club Gold Baseline",
+		"section": "7",
+		"row": "5",
+		"quantity": 2,
+		"price": 275
+	},
+	{
+		"timestamp": "01-05-22 / 01:24 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "22",
+		"quantity": 2,
+		"price": 58.92
+	},
+	{
+		"timestamp": "01-05-22 / 01:05 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "12",
+		"quantity": 2,
+		"price": 94.99
+	},
+	{
+		"timestamp": "01-05-22 / 12:25 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "14",
+		"quantity": 1,
+		"price": 136
+	},
+	{
+		"timestamp": "01-05-22 / 12:25 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "7",
+		"quantity": 2,
+		"price": 146
+	},
+	{
+		"timestamp": "01-05-22 / 11:51 AM",
+		"zone": "Baseline Risers",
+		"section": "1",
+		"row": "13",
+		"quantity": 2,
+		"price": 136
+	},
+	{
+		"timestamp": "01-05-22 / 11:23 AM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "13",
+		"quantity": 2,
+		"price": 127
+	},
+	{
+		"timestamp": "01-05-22 / 01:26 AM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "7",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "01-04-22 / 10:33 PM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "15",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "01-04-22 / 10:19 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "14",
+		"quantity": 2,
+		"price": 73.8
+	},
+	{
+		"timestamp": "01-04-22 / 10:02 PM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "1",
+		"quantity": 2,
+		"price": 649.64
+	},
+	{
+		"timestamp": "01-04-22 / 08:21 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "13",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "01-04-22 / 07:21 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "6",
+		"quantity": 2,
+		"price": 83.4
+	},
+	{
+		"timestamp": "01-04-22 / 06:36 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "20",
+		"quantity": 10,
+		"price": 92
+	},
+	{
+		"timestamp": "01-04-22 / 06:00 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "12",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "01-04-22 / 03:48 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "12",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "01-04-22 / 03:16 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "227",
+		"row": "22",
+		"quantity": 1,
+		"price": 53.53
+	},
+	{
+		"timestamp": "01-04-22 / 01:58 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "23",
+		"quantity": 3,
+		"price": 60.18
+	},
+	{
+		"timestamp": "01-04-22 / 09:59 AM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "1",
+		"quantity": 1,
+		"price": 649.64
+	},
+	{
+		"timestamp": "01-04-22 / 05:47 AM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "2",
+		"quantity": 4,
+		"price": 53
+	},
+	{
+		"timestamp": "01-03-22 / 08:33 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "11",
+		"quantity": 4,
+		"price": 275
+	},
+	{
+		"timestamp": "01-03-22 / 07:22 PM",
+		"zone": "Club Gold Baseline",
+		"section": "9",
+		"row": "1",
+		"quantity": 2,
+		"price": 550
+	},
+	{
+		"timestamp": "01-03-22 / 04:32 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "208",
+		"row": "13",
+		"quantity": 4,
+		"price": 74.55
+	},
+	{
+		"timestamp": "01-03-22 / 04:32 PM",
+		"zone": "Club Silver",
+		"section": "106",
+		"row": "19",
+		"quantity": 1,
+		"price": 175
+	},
+	{
+		"timestamp": "01-03-22 / 10:49 AM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 2,
+		"price": 116.63
+	},
+	{
+		"timestamp": "01-03-22 / 07:17 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "16",
+		"quantity": 2,
+		"price": 326
+	},
+	{
+		"timestamp": "01-03-22 / 04:46 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "14",
+		"quantity": 2,
+		"price": 86.44
+	},
+	{
+		"timestamp": "01-03-22 / 12:46 AM",
+		"zone": "Club Silver",
+		"section": "108",
+		"row": "18",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "01-02-22 / 10:52 PM",
+		"zone": "400 Level End",
+		"section": "415",
+		"row": "2",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "01-02-22 / 10:16 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "16",
+		"quantity": 6,
+		"price": 154
+	},
+	{
+		"timestamp": "01-02-22 / 06:07 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "19",
+		"quantity": 4,
+		"price": 180
+	},
+	{
+		"timestamp": "01-02-22 / 04:19 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "17",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "01-02-22 / 02:30 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 2,
+		"price": 116.63
+	},
+	{
+		"timestamp": "01-02-22 / 01:03 PM",
+		"zone": "Club Gold Baseline",
+		"section": "9",
+		"row": "1",
+		"quantity": 2,
+		"price": 750
+	},
+	{
+		"timestamp": "01-01-22 / 09:44 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "13",
+		"quantity": 2,
+		"price": 103.55
+	},
+	{
+		"timestamp": "01-01-22 / 02:47 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "8",
+		"quantity": 2,
+		"price": 103.55
+	},
+	{
+		"timestamp": "01-01-22 / 12:34 PM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "7",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "01-01-22 / 09:32 AM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 1,
+		"price": 116.63
+	},
+	{
+		"timestamp": "12-31-21 / 10:01 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "13",
+		"quantity": 1,
+		"price": 75
+	},
+	{
+		"timestamp": "12-31-21 / 10:02 AM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "5",
+		"quantity": 9,
+		"price": 145.35
+	},
+	{
+		"timestamp": "12-31-21 / 07:53 AM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "10",
+		"quantity": 2,
+		"price": 98.1
+	},
+	{
+		"timestamp": "12-31-21 / 12:35 AM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "13",
+		"quantity": 2,
+		"price": 114
+	},
+	{
+		"timestamp": "12-30-21 / 08:44 PM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "12",
+		"quantity": 2,
+		"price": 148
+	},
+	{
+		"timestamp": "12-30-21 / 03:35 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "8",
+		"quantity": 2,
+		"price": 98.1
+	},
+	{
+		"timestamp": "12-30-21 / 12:48 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "9",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "12-30-21 / 02:50 AM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "10",
+		"quantity": 2,
+		"price": 117
+	},
+	{
+		"timestamp": "12-29-21 / 10:46 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "13",
+		"quantity": 2,
+		"price": 124
+	},
+	{
+		"timestamp": "12-29-21 / 06:59 PM",
+		"zone": "200 Gallery End Front Row",
+		"section": "200 Level Gallery 217",
+		"row": "2",
+		"quantity": 2,
+		"price": 76
+	},
+	{
+		"timestamp": "12-28-21 / 06:10 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "10",
+		"quantity": 2,
+		"price": 147.46
+	},
+	{
+		"timestamp": "12-28-21 / 11:30 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 1,
+		"price": 306
+	},
+	{
+		"timestamp": "12-28-21 / 10:25 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "214",
+		"row": "16",
+		"quantity": 2,
+		"price": 58
+	},
+	{
+		"timestamp": "12-28-21 / 03:26 AM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "18",
+		"quantity": 2,
+		"price": 94.86
+	},
+	{
+		"timestamp": "12-27-21 / 06:29 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 203",
+		"row": "BS4",
+		"quantity": 2,
+		"price": 118.56
+	},
+	{
+		"timestamp": "12-27-21 / 03:46 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "18",
+		"quantity": 3,
+		"price": 113.22
+	},
+	{
+		"timestamp": "12-27-21 / 03:03 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "3",
+		"quantity": 1,
+		"price": 126.22
+	},
+	{
+		"timestamp": "12-26-21 / 09:59 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "3",
+		"quantity": 2,
+		"price": 149.18
+	},
+	{
+		"timestamp": "12-26-21 / 08:37 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "20",
+		"quantity": 2,
+		"price": 102.23
+	},
+	{
+		"timestamp": "12-26-21 / 07:05 PM",
+		"zone": "Club Gold Baseline",
+		"section": "3",
+		"row": "3",
+		"quantity": 3,
+		"price": 614.83
+	},
+	{
+		"timestamp": "12-26-21 / 03:57 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "8",
+		"quantity": 2,
+		"price": 106.1
+	},
+	{
+		"timestamp": "12-26-21 / 11:29 AM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "20",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "12-26-21 / 08:33 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 1,
+		"price": 306
+	},
+	{
+		"timestamp": "12-25-21 / 04:51 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "5",
+		"quantity": 1,
+		"price": 120.19
+	},
+	{
+		"timestamp": "12-25-21 / 03:20 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "22",
+		"quantity": 2,
+		"price": 170.38
+	},
+	{
+		"timestamp": "12-25-21 / 02:31 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "14",
+		"quantity": 2,
+		"price": 118.46
+	},
+	{
+		"timestamp": "12-25-21 / 01:40 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "22",
+		"quantity": 3,
+		"price": 145
+	},
+	{
+		"timestamp": "12-25-21 / 12:50 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "13",
+		"quantity": 2,
+		"price": 138.37
+	},
+	{
+		"timestamp": "12-25-21 / 11:51 AM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "23",
+		"quantity": 4,
+		"price": 65
+	},
+	{
+		"timestamp": "12-25-21 / 02:43 AM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "16",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "12-24-21 / 10:38 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "11",
+		"quantity": 2,
+		"price": 118.27
+	},
+	{
+		"timestamp": "12-24-21 / 10:38 PM",
+		"zone": "200 Level Lower End",
+		"section": "207",
+		"row": "3",
+		"quantity": 3,
+		"price": 95.62
+	},
+	{
+		"timestamp": "12-24-21 / 09:43 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "22",
+		"quantity": 2,
+		"price": 136.3
+	},
+	{
+		"timestamp": "12-24-21 / 06:11 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "10",
+		"quantity": 2,
+		"price": 113.98
+	},
+	{
+		"timestamp": "12-24-21 / 06:11 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "11",
+		"quantity": 2,
+		"price": 193
+	},
+	{
+		"timestamp": "12-24-21 / 05:27 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "22",
+		"quantity": 2,
+		"price": 178.9
+	},
+	{
+		"timestamp": "12-24-21 / 05:27 PM",
+		"zone": "Chase Bridges",
+		"section": "314",
+		"row": "2",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "12-24-21 / 03:39 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "6",
+		"quantity": 2,
+		"price": 86.74
+	},
+	{
+		"timestamp": "12-24-21 / 02:46 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "5",
+		"quantity": 2,
+		"price": 149.66
+	},
+	{
+		"timestamp": "12-24-21 / 02:46 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "17",
+		"quantity": 3,
+		"price": 130.05
+	},
+	{
+		"timestamp": "12-24-21 / 01:52 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 212",
+		"row": "B25",
+		"quantity": 1,
+		"price": 77.45
+	},
+	{
+		"timestamp": "12-24-21 / 11:19 AM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 225",
+		"row": "2",
+		"quantity": 2,
+		"price": 131
+	},
+	{
+		"timestamp": "12-24-21 / 11:19 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "14",
+		"quantity": 2,
+		"price": 120.1
+	},
+	{
+		"timestamp": "12-24-21 / 02:30 AM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "10",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "12-24-21 / 12:51 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "8",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "12-23-21 / 09:44 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "15",
+		"quantity": 4,
+		"price": 115.52
+	},
+	{
+		"timestamp": "12-23-21 / 09:44 PM",
+		"zone": "Floor Club Sideline",
+		"section": "4",
+		"row": "A",
+		"quantity": 2,
+		"price": 1604
+	},
+	{
+		"timestamp": "12-23-21 / 07:18 PM",
+		"zone": "Club Gold Baseline",
+		"section": "8",
+		"row": "4",
+		"quantity": 2,
+		"price": 343
+	},
+	{
+		"timestamp": "12-23-21 / 04:47 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "214",
+		"row": "18",
+		"quantity": 3,
+		"price": 89.17
+	},
+	{
+		"timestamp": "12-23-21 / 03:55 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "208",
+		"row": "16",
+		"quantity": 2,
+		"price": 67
+	},
+	{
+		"timestamp": "12-23-21 / 03:55 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "6",
+		"quantity": 4,
+		"price": 234
+	},
+	{
+		"timestamp": "12-23-21 / 03:06 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "17",
+		"quantity": 2,
+		"price": 111.69
+	},
+	{
+		"timestamp": "12-23-21 / 02:22 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 209",
+		"row": "2",
+		"quantity": 2,
+		"price": 158
+	},
+	{
+		"timestamp": "12-23-21 / 12:44 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "11",
+		"quantity": 2,
+		"price": 86.11
+	},
+	{
+		"timestamp": "12-23-21 / 11:00 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "8",
+		"quantity": 2,
+		"price": 80.32
+	},
+	{
+		"timestamp": "12-22-21 / 09:50 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 223",
+		"row": "B25",
+		"quantity": 2,
+		"price": 77.45
+	},
+	{
+		"timestamp": "12-22-21 / 12:55 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "5",
+		"quantity": 2,
+		"price": 103.28
+	},
+	{
+		"timestamp": "12-22-21 / 12:55 PM",
+		"zone": "Club Silver",
+		"section": "117",
+		"row": "18",
+		"quantity": 2,
+		"price": 280.5
+	},
+	{
+		"timestamp": "12-22-21 / 05:12 AM",
+		"zone": "Club Silver",
+		"section": "116",
+		"row": "18",
+		"quantity": 1,
+		"price": 280.5
+	},
+	{
+		"timestamp": "12-21-21 / 10:53 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "7",
+		"quantity": 2,
+		"price": 120.1
+	},
+	{
+		"timestamp": "12-21-21 / 10:53 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "7",
+		"quantity": 2,
+		"price": 133.88
+	},
+	{
+		"timestamp": "12-21-21 / 03:57 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "10",
+		"quantity": 3,
+		"price": 114.75
+	},
+	{
+		"timestamp": "12-21-21 / 12:06 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "227",
+		"row": "16",
+		"quantity": 5,
+		"price": 100.95
+	},
+	{
+		"timestamp": "12-20-21 / 08:14 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "8",
+		"quantity": 1,
+		"price": 120
+	},
+	{
+		"timestamp": "12-20-21 / 07:31 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "12",
+		"quantity": 2,
+		"price": 212
+	},
+	{
+		"timestamp": "12-20-21 / 02:41 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "22",
+		"quantity": 3,
+		"price": 87
+	},
+	{
+		"timestamp": "12-20-21 / 02:41 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 3,
+		"price": 357
+	},
+	{
+		"timestamp": "12-19-21 / 10:56 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "12",
+		"quantity": 4,
+		"price": 103.95
+	},
+	{
+		"timestamp": "12-19-21 / 05:24 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "11",
+		"quantity": 3,
+		"price": 130
+	},
+	{
+		"timestamp": "12-19-21 / 02:09 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "6",
+		"quantity": 4,
+		"price": 155
+	},
+	{
+		"timestamp": "12-19-21 / 11:14 AM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "21",
+		"quantity": 2,
+		"price": 122
+	},
+	{
+		"timestamp": "12-19-21 / 09:48 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "19",
+		"quantity": 8,
+		"price": 259
+	},
+	{
+		"timestamp": "12-18-21 / 10:09 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "4",
+		"quantity": 3,
+		"price": 125
+	},
+	{
+		"timestamp": "12-17-21 / 09:52 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "19",
+		"quantity": 2,
+		"price": 99.75
+	},
+	{
+		"timestamp": "12-17-21 / 07:52 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "14",
+		"quantity": 2,
+		"price": 132.74
+	},
+	{
+		"timestamp": "12-17-21 / 07:52 PM",
+		"zone": "400 Level End",
+		"section": "414",
+		"row": "3",
+		"quantity": 2,
+		"price": 72
+	},
+	{
+		"timestamp": "12-17-21 / 07:52 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "13",
+		"quantity": 2,
+		"price": 450
+	},
+	{
+		"timestamp": "12-17-21 / 05:55 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 209",
+		"row": "1",
+		"quantity": 3,
+		"price": 196
+	},
+	{
+		"timestamp": "12-17-21 / 03:48 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "221",
+		"row": "15",
+		"quantity": 1,
+		"price": 90
+	},
+	{
+		"timestamp": "12-17-21 / 02:48 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "13",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-17-21 / 12:48 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "221",
+		"row": "17",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "12-16-21 / 11:37 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "6",
+		"quantity": 2,
+		"price": 184.8
+	},
+	{
+		"timestamp": "12-16-21 / 10:40 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "22",
+		"quantity": 2,
+		"price": 153.52
+	},
+	{
+		"timestamp": "12-16-21 / 09:44 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "18",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "12-16-21 / 01:54 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "8",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "12-16-21 / 01:54 PM",
+		"zone": "Club Gold Baseline",
+		"section": "2",
+		"row": "3",
+		"quantity": 4,
+		"price": 566.5
+	},
+	{
+		"timestamp": "12-16-21 / 12:00 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "14",
+		"quantity": 2,
+		"price": 183.3
+	},
+	{
+		"timestamp": "12-16-21 / 11:13 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "4",
+		"quantity": 1,
+		"price": 125
+	},
+	{
+		"timestamp": "12-16-21 / 09:37 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "17",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "12-16-21 / 03:40 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "11",
+		"quantity": 2,
+		"price": 98.31
+	},
+	{
+		"timestamp": "12-15-21 / 07:51 PM",
+		"zone": "Baseline Risers",
+		"section": "7",
+		"row": "7",
+		"quantity": 2,
+		"price": 240
+	},
+	{
+		"timestamp": "12-15-21 / 11:47 AM",
+		"zone": "200 Level Lower End",
+		"section": "215",
+		"row": "6",
+		"quantity": 3,
+		"price": 105
+	},
+	{
+		"timestamp": "12-15-21 / 09:59 AM",
+		"zone": "100 Level Baseline",
+		"section": "120",
+		"row": "4",
+		"quantity": 2,
+		"price": 185
+	},
+	{
+		"timestamp": "12-15-21 / 01:44 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "208",
+		"row": "4",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "12-14-21 / 10:52 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "14",
+		"quantity": 4,
+		"price": 400
+	},
+	{
+		"timestamp": "12-14-21 / 09:51 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "20",
+		"quantity": 2,
+		"price": 177
+	},
+	{
+		"timestamp": "12-14-21 / 03:46 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "13",
+		"quantity": 2,
+		"price": 143
+	},
+	{
+		"timestamp": "12-14-21 / 02:47 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "24",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "12-14-21 / 02:47 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "10",
+		"quantity": 3,
+		"price": 650
+	},
+	{
+		"timestamp": "12-13-21 / 11:47 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "4",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-13-21 / 10:50 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "17",
+		"quantity": 4,
+		"price": 116.5
+	},
+	{
+		"timestamp": "12-13-21 / 09:46 PM",
+		"zone": "400 Level End",
+		"section": "416",
+		"row": "5",
+		"quantity": 2,
+		"price": 75.05
+	},
+	{
+		"timestamp": "12-13-21 / 04:51 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "22",
+		"quantity": 4,
+		"price": 90
+	},
+	{
+		"timestamp": "12-13-21 / 11:57 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "9",
+		"quantity": 4,
+		"price": 154.08
+	},
+	{
+		"timestamp": "12-13-21 / 11:08 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "9",
+		"quantity": 6,
+		"price": 735.75
+	},
+	{
+		"timestamp": "12-12-21 / 08:24 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "18",
+		"quantity": 4,
+		"price": 88
+	},
+	{
+		"timestamp": "12-12-21 / 08:24 PM",
+		"zone": "Club Silver",
+		"section": "118",
+		"row": "22",
+		"quantity": 2,
+		"price": 285
+	},
+	{
+		"timestamp": "12-12-21 / 10:34 AM",
+		"zone": "Club Silver",
+		"section": "116",
+		"row": "22",
+		"quantity": 2,
+		"price": 245
+	},
+	{
+		"timestamp": "12-11-21 / 05:50 PM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "11",
+		"quantity": 2,
+		"price": 121
+	},
+	{
+		"timestamp": "12-10-21 / 11:58 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "20",
+		"quantity": 2,
+		"price": 120.96
+	},
+	{
+		"timestamp": "12-10-21 / 05:57 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "15",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "12-10-21 / 03:56 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "10",
+		"quantity": 2,
+		"price": 599.5
+	},
+	{
+		"timestamp": "12-10-21 / 03:01 PM",
+		"zone": "Club Silver",
+		"section": "118",
+		"row": "19",
+		"quantity": 2,
+		"price": 331.5
+	},
+	{
+		"timestamp": "12-10-21 / 12:39 PM",
+		"zone": "Chase Bridges",
+		"section": "313",
+		"row": "1",
+		"quantity": 2,
+		"price": 129.79
+	},
+	{
+		"timestamp": "12-09-21 / 06:57 PM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "4",
+		"quantity": 2,
+		"price": 74.88
+	},
+	{
+		"timestamp": "12-09-21 / 05:28 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "6",
+		"quantity": 2,
+		"price": 155
+	},
+	{
+		"timestamp": "12-09-21 / 01:29 AM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "19",
+		"quantity": 5,
+		"price": 292.75
+	},
+	{
+		"timestamp": "12-08-21 / 10:12 PM",
+		"zone": "Club Gold Baseline",
+		"section": "7",
+		"row": "4",
+		"quantity": 2,
+		"price": 550
+	},
+	{
+		"timestamp": "12-08-21 / 04:08 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "17",
+		"quantity": 4,
+		"price": 102.9
+	},
+	{
+		"timestamp": "12-08-21 / 04:08 PM",
+		"zone": "Club Silver",
+		"section": "115",
+		"row": "5",
+		"quantity": 4,
+		"price": 324.22
+	},
+	{
+		"timestamp": "12-08-21 / 03:24 PM",
+		"zone": "Club Gold Baseline",
+		"section": "9",
+		"row": "2",
+		"quantity": 3,
+		"price": 500.49
+	},
+	{
+		"timestamp": "12-08-21 / 11:19 AM",
+		"zone": "Club Silver",
+		"section": "108",
+		"row": "20",
+		"quantity": 6,
+		"price": 288
+	},
+	{
+		"timestamp": "12-08-21 / 09:09 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "9",
+		"quantity": 2,
+		"price": 115.5
+	},
+	{
+		"timestamp": "12-07-21 / 09:29 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "6",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-07-21 / 12:19 AM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "21",
+		"quantity": 4,
+		"price": 234
+	},
+	{
+		"timestamp": "12-06-21 / 11:40 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "17",
+		"quantity": 2,
+		"price": 111
+	},
+	{
+		"timestamp": "12-06-21 / 11:40 PM",
+		"zone": "Chase Bridges",
+		"section": "313",
+		"row": "1",
+		"quantity": 2,
+		"price": 129
+	},
+	{
+		"timestamp": "12-06-21 / 10:49 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "15",
+		"quantity": 2,
+		"price": 172.49
+	},
+	{
+		"timestamp": "12-06-21 / 10:49 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "21",
+		"quantity": 3,
+		"price": 112.11
+	},
+	{
+		"timestamp": "12-06-21 / 09:29 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "10",
+		"quantity": 2,
+		"price": 154.53
+	},
+	{
+		"timestamp": "12-06-21 / 04:05 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "9",
+		"quantity": 2,
+		"price": 398
+	},
+	{
+		"timestamp": "12-06-21 / 03:29 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "4",
+		"quantity": 2,
+		"price": 104
+	},
+	{
+		"timestamp": "12-05-21 / 10:48 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "227",
+		"row": "16",
+		"quantity": 2,
+		"price": 96.32
+	},
+	{
+		"timestamp": "12-05-21 / 09:20 PM",
+		"zone": "200 Level Bar Stools",
+		"section": "- 223",
+		"row": "b25",
+		"quantity": 3,
+		"price": 107
+	},
+	{
+		"timestamp": "12-05-21 / 04:05 PM",
+		"zone": "100 Level End",
+		"section": "113",
+		"row": "19",
+		"quantity": 2,
+		"price": 146
+	},
+	{
+		"timestamp": "12-05-21 / 12:44 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "3",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-05-21 / 12:44 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "208",
+		"row": "16",
+		"quantity": 1,
+		"price": 100
+	},
+	{
+		"timestamp": "12-04-21 / 06:51 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "14",
+		"quantity": 2,
+		"price": 104.76
+	},
+	{
+		"timestamp": "12-04-21 / 06:05 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "16",
+		"quantity": 2,
+		"price": 105.95
+	},
+	{
+		"timestamp": "12-04-21 / 03:54 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "20",
+		"quantity": 2,
+		"price": 223.21
+	},
+	{
+		"timestamp": "12-04-21 / 11:48 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "3",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "12-04-21 / 11:48 AM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "22",
+		"quantity": 2,
+		"price": 321
+	},
+	{
+		"timestamp": "12-03-21 / 01:18 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "4",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "12-03-21 / 12:36 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "213",
+		"row": "14",
+		"quantity": 2,
+		"price": 103.76
+	},
+	{
+		"timestamp": "12-03-21 / 10:16 AM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "18",
+		"quantity": 1,
+		"price": 229.5
+	},
+	{
+		"timestamp": "12-03-21 / 12:39 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "12",
+		"quantity": 4,
+		"price": 121
+	},
+	{
+		"timestamp": "12-02-21 / 11:57 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "17",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "12-02-21 / 09:45 PM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 210",
+		"row": "2",
+		"quantity": 5,
+		"price": 169
+	},
+	{
+		"timestamp": "12-02-21 / 08:58 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "19",
+		"quantity": 9,
+		"price": 284
+	},
+	{
+		"timestamp": "12-02-21 / 08:18 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "21",
+		"quantity": 2,
+		"price": 169
+	},
+	{
+		"timestamp": "12-01-21 / 11:18 PM",
+		"zone": "200 Level Lower End",
+		"section": "201",
+		"row": "3",
+		"quantity": 2,
+		"price": 138.52
+	},
+	{
+		"timestamp": "12-01-21 / 05:51 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "22",
+		"quantity": 2,
+		"price": 224.99
+	},
+	{
+		"timestamp": "12-01-21 / 02:12 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "4",
+		"quantity": 2,
+		"price": 209
+	},
+	{
+		"timestamp": "11-30-21 / 09:20 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "3",
+		"quantity": 3,
+		"price": 110
+	},
+	{
+		"timestamp": "11-30-21 / 05:22 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "21",
+		"quantity": 2,
+		"price": 189
+	},
+	{
+		"timestamp": "11-30-21 / 04:42 PM",
+		"zone": "Club Gold Baseline",
+		"section": "8",
+		"row": "3",
+		"quantity": 2,
+		"price": 830
+	},
+	{
+		"timestamp": "11-30-21 / 03:23 PM",
+		"zone": "Chase Bridges",
+		"section": "313",
+		"row": "2",
+		"quantity": 4,
+		"price": 149
+	},
+	{
+		"timestamp": "11-30-21 / 11:29 AM",
+		"zone": "Club Gold Baseline",
+		"section": "7",
+		"row": "2",
+		"quantity": 4,
+		"price": 788
+	},
+	{
+		"timestamp": "11-30-21 / 10:47 AM",
+		"zone": "Club Sideline",
+		"section": "12",
+		"row": "5",
+		"quantity": 2,
+		"price": 800
+	},
+	{
+		"timestamp": "11-29-21 / 08:41 PM",
+		"zone": "200 Level Upper Center",
+		"section": "211",
+		"row": "17",
+		"quantity": 3,
+		"price": 140.76
+	},
+	{
+		"timestamp": "11-29-21 / 07:04 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "18",
+		"quantity": 2,
+		"price": 99.75
+	},
+	{
+		"timestamp": "11-29-21 / 05:39 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "15",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "11-29-21 / 04:44 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "14",
+		"quantity": 2,
+		"price": 172
+	},
+	{
+		"timestamp": "11-29-21 / 03:47 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "17",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "11-29-21 / 02:51 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "17",
+		"quantity": 2,
+		"price": 110.83
+	},
+	{
+		"timestamp": "11-29-21 / 12:02 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "10",
+		"quantity": 1,
+		"price": 408
+	},
+	{
+		"timestamp": "11-28-21 / 09:59 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "19",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "11-28-21 / 05:22 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "10",
+		"quantity": 2,
+		"price": 105
+	},
+	{
+		"timestamp": "11-28-21 / 03:09 PM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 211",
+		"row": "2",
+		"quantity": 2,
+		"price": 199
+	},
+	{
+		"timestamp": "11-27-21 / 11:48 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "19",
+		"quantity": 2,
+		"price": 244.99
+	},
+	{
+		"timestamp": "11-27-21 / 09:55 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "11",
+		"quantity": 3,
+		"price": 180.83
+	},
+	{
+		"timestamp": "11-27-21 / 07:17 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "17",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "11-27-21 / 02:03 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "222",
+		"row": "15",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "11-26-21 / 09:27 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "18",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "11-26-21 / 08:37 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "10",
+		"quantity": 2,
+		"price": 92
+	},
+	{
+		"timestamp": "11-26-21 / 12:36 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "11",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "11-25-21 / 03:55 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "13",
+		"quantity": 4,
+		"price": 129
+	},
+	{
+		"timestamp": "11-25-21 / 07:15 AM",
+		"zone": "Baseline Risers",
+		"section": "7",
+		"row": "15",
+		"quantity": 4,
+		"price": 250
+	},
+	{
+		"timestamp": "11-24-21 / 01:23 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "13",
+		"quantity": 2,
+		"price": 89
+	},
+	{
+		"timestamp": "11-21-21 / 07:49 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "11",
+		"quantity": 3,
+		"price": 149
+	},
+	{
+		"timestamp": "11-17-21 / 06:36 PM",
+		"zone": "Baseline Risers",
+		"section": "2",
+		"row": "17",
+		"quantity": 2,
+		"price": 260
+	},
+	{
+		"timestamp": "11-16-21 / 07:13 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "5",
+		"quantity": 4,
+		"price": 153.49
+	},
+	{
+		"timestamp": "11-15-21 / 09:18 PM",
+		"zone": "400 Level End",
+		"section": "414",
+		"row": "1",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "11-15-21 / 07:48 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "11-14-21 / 11:12 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "20",
+		"quantity": 3,
+		"price": 193
+	},
+	{
+		"timestamp": "11-14-21 / 11:12 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 5,
+		"price": 190
+	},
+	{
+		"timestamp": "11-13-21 / 06:33 PM",
+		"zone": "Club Gold Baseline",
+		"section": "2",
+		"row": "2",
+		"quantity": 2,
+		"price": 399
+	},
+	{
+		"timestamp": "11-13-21 / 05:27 PM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "23",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "11-13-21 / 12:51 PM",
+		"zone": "100 Level End",
+		"section": "103",
+		"row": "18",
+		"quantity": 2,
+		"price": 165
+	},
+	{
+		"timestamp": "11-13-21 / 10:33 AM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "5",
+		"quantity": 1,
+		"price": 168.67
+	},
+	{
+		"timestamp": "11-13-21 / 12:38 AM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "3",
+		"quantity": 2,
+		"price": 224
+	},
+	{
+		"timestamp": "11-12-21 / 05:54 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "4",
+		"quantity": 2,
+		"price": 170
+	},
+	{
+		"timestamp": "11-12-21 / 02:15 PM",
+		"zone": "100 Level Baseline",
+		"section": "104",
+		"row": "7",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "11-12-21 / 06:10 AM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "7",
+		"quantity": 2,
+		"price": 147
+	},
+	{
+		"timestamp": "11-11-21 / 05:03 PM",
+		"zone": "Chase Bridges",
+		"section": "311",
+		"row": "1",
+		"quantity": 8,
+		"price": 183.99
+	},
+	{
+		"timestamp": "11-09-21 / 10:34 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "18",
+		"quantity": 2,
+		"price": 89
+	},
+	{
+		"timestamp": "11-09-21 / 10:34 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "16",
+		"quantity": 2,
+		"price": 67
+	},
+	{
+		"timestamp": "11-09-21 / 05:03 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "22",
+		"quantity": 2,
+		"price": 165
+	},
+	{
+		"timestamp": "11-09-21 / 05:03 PM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "18",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "11-09-21 / 05:03 PM",
+		"zone": "400 Level End",
+		"section": "416",
+		"row": "5",
+		"quantity": 4,
+		"price": 65
+	},
+	{
+		"timestamp": "11-07-21 / 07:58 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "222",
+		"row": "14",
+		"quantity": 4,
+		"price": 80
+	},
+	{
+		"timestamp": "11-07-21 / 09:37 AM",
+		"zone": "200 Gallery Center Front Row",
+		"section": "200 Level Gallery 210",
+		"row": "2",
+		"quantity": 3,
+		"price": 175
+	},
+	{
+		"timestamp": "11-05-21 / 06:57 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "21",
+		"quantity": 1,
+		"price": 125
+	},
+	{
+		"timestamp": "11-05-21 / 05:33 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "15",
+		"quantity": 2,
+		"price": 120.45
+	},
+	{
+		"timestamp": "11-05-21 / 03:14 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "21",
+		"quantity": 5,
+		"price": 100
+	},
+	{
+		"timestamp": "11-03-21 / 01:51 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "14",
+		"quantity": 6,
+		"price": 137
+	},
+	{
+		"timestamp": "11-01-21 / 11:36 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "11",
+		"quantity": 2,
+		"price": 270.38
+	},
+	{
+		"timestamp": "11-01-21 / 03:37 PM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "5",
+		"quantity": 3,
+		"price": 88
+	},
+	{
+		"timestamp": "10-30-21 / 10:38 PM",
+		"zone": "200 Level Upper Center",
+		"section": "224",
+		"row": "15",
+		"quantity": 1,
+		"price": 102.96
+	},
+	{
+		"timestamp": "10-30-21 / 10:38 PM",
+		"zone": "Chase Bridges",
+		"section": "316",
+		"row": "1",
+		"quantity": 4,
+		"price": 127.5
+	},
+	{
+		"timestamp": "10-30-21 / 01:00 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "16",
+		"quantity": 2,
+		"price": 352.15
+	},
+	{
+		"timestamp": "10-30-21 / 12:32 AM",
+		"zone": "200 Level Upper Corner",
+		"section": "226",
+		"row": "17",
+		"quantity": 5,
+		"price": 99
+	},
+	{
+		"timestamp": "10-29-21 / 06:58 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "16",
+		"quantity": 6,
+		"price": 169.92
+	},
+	{
+		"timestamp": "10-28-21 / 11:39 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "20",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "10-27-21 / 11:03 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "12",
+		"quantity": 2,
+		"price": 79
+	},
+	{
+		"timestamp": "10-27-21 / 04:31 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "14",
+		"quantity": 2,
+		"price": 111.81
+	},
+	{
+		"timestamp": "10-26-21 / 10:07 PM",
+		"zone": "Club Gold Baseline",
+		"section": "3",
+		"row": "1",
+		"quantity": 2,
+		"price": 764
+	},
+	{
+		"timestamp": "10-25-21 / 09:05 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "5",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "10-25-21 / 02:32 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "21",
+		"quantity": 2,
+		"price": 122.5
+	},
+	{
+		"timestamp": "10-24-21 / 10:24 PM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "12",
+		"quantity": 2,
+		"price": 144
+	},
+	{
+		"timestamp": "10-24-21 / 09:20 PM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "22",
+		"quantity": 4,
+		"price": 86
+	},
+	{
+		"timestamp": "10-24-21 / 12:13 PM",
+		"zone": "200 Level Upper Corner",
+		"section": "213",
+		"row": "21",
+		"quantity": 1,
+		"price": 85.8
+	},
+	{
+		"timestamp": "10-22-21 / 08:03 AM",
+		"zone": "200 Level Upper Center",
+		"section": "223",
+		"row": "24",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "10-21-21 / 03:34 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "10",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "10-20-21 / 07:51 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "24",
+		"quantity": 2,
+		"price": 66
+	},
+	{
+		"timestamp": "10-20-21 / 03:58 PM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 208",
+		"row": "2",
+		"quantity": 4,
+		"price": 165
+	},
+	{
+		"timestamp": "10-19-21 / 11:20 PM",
+		"zone": "200 Level Upper Center",
+		"section": "212",
+		"row": "15",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "10-19-21 / 03:29 PM",
+		"zone": "Club Sideline",
+		"section": "6",
+		"row": "1",
+		"quantity": 2,
+		"price": 975
+	},
+	{
+		"timestamp": "10-19-21 / 06:30 AM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "14",
+		"quantity": 2,
+		"price": 242.25
+	},
+	{
+		"timestamp": "10-18-21 / 11:16 PM",
+		"zone": "200 Level Upper Center",
+		"section": "225",
+		"row": "24",
+		"quantity": 3,
+		"price": 87.85
+	},
+	{
+		"timestamp": "10-16-21 / 12:21 AM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "12",
+		"quantity": 2,
+		"price": 110.54
+	},
+	{
+		"timestamp": "10-14-21 / 02:35 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "19",
+		"quantity": 2,
+		"price": 105.51
+	},
+	{
+		"timestamp": "10-11-21 / 08:24 AM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "7",
+		"quantity": 3,
+		"price": 72.92
+	},
+	{
+		"timestamp": "10-11-21 / 08:24 AM",
+		"zone": "400 Level End",
+		"section": "418",
+		"row": "7",
+		"quantity": 2,
+		"price": 75.72
+	},
+	{
+		"timestamp": "10-10-21 / 02:28 AM",
+		"zone": "Club Sideline",
+		"section": "12",
+		"row": "1",
+		"quantity": 2,
+		"price": 2060
+	},
+	{
+		"timestamp": "10-08-21 / 06:45 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "22",
+		"quantity": 2,
+		"price": 141.28
+	},
+	{
+		"timestamp": "10-07-21 / 11:53 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "20",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "10-07-21 / 07:43 AM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "18",
+		"quantity": 2,
+		"price": 255.49
+	},
+	{
+		"timestamp": "10-01-21 / 01:19 PM",
+		"zone": "Club Sideline",
+		"section": "12",
+		"row": "4",
+		"quantity": 5,
+		"price": 1802.5
+	},
+	{
+		"timestamp": "09-28-21 / 01:59 AM",
+		"zone": "200 Gallery Corner Front Row",
+		"section": "200 Level Gallery 209",
+		"row": "1",
+		"quantity": 1,
+		"price": 1120
+	},
+	{
+		"timestamp": "09-20-21 / 10:41 PM",
+		"zone": "100 Level End",
+		"section": "110",
+		"row": "14",
+		"quantity": 4,
+		"price": 148
+	},
+	{
+		"timestamp": "09-19-21 / 06:08 PM",
+		"zone": "Baseline Risers",
+		"section": "8",
+		"row": "8",
+		"quantity": 2,
+		"price": 300
+	},
+	{
+		"timestamp": "09-15-21 / 06:47 AM",
+		"zone": "200 Level Upper Center",
+		"section": "210",
+		"row": "16",
+		"quantity": 2,
+		"price": 100.7
+	},
+	{
+		"timestamp": "09-13-21 / 06:28 PM",
+		"zone": "200 Level Lower Center",
+		"section": "212",
+		"row": "11",
+		"quantity": 4,
+		"price": 143.68
+	},
+	{
+		"timestamp": "09-09-21 / 12:59 PM",
+		"zone": "100 Level Corner",
+		"section": "119",
+		"row": "21",
+		"quantity": 2,
+		"price": 240.49
+	},
+	{
+		"timestamp": "09-06-21 / 11:10 PM",
+		"zone": "Baseline Risers",
+		"section": "9",
+		"row": "2",
+		"quantity": 1,
+		"price": 500.49
+	},
+	{
+		"timestamp": "09-05-21 / 11:33 AM",
+		"zone": "200 Level Lower Center",
+		"section": "211",
+		"row": "6",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "08-30-21 / 08:56 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "18",
+		"quantity": 4,
+		"price": 171
+	},
+	{
+		"timestamp": "08-27-21 / 11:20 PM",
+		"zone": "100 Level End",
+		"section": "104",
+		"row": "18",
+		"quantity": 1,
+		"price": 210.49
+	}
+]

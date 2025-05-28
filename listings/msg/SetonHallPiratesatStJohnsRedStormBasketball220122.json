@@ -1,0 +1,914 @@
+[
+	{
+		"timestamp": "01-22-22 / 12:23 PM",
+		"zone": "Club Silver",
+		"section": "105",
+		"row": "5",
+		"quantity": 3,
+		"price": 83.96
+	},
+	{
+		"timestamp": "01-22-22 / 12:23 PM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "4",
+		"quantity": 1,
+		"price": 79.99
+	},
+	{
+		"timestamp": "01-22-22 / 12:23 PM",
+		"zone": "Club Silver",
+		"section": "115",
+		"row": "2",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "01-22-22 / 12:23 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "14",
+		"quantity": 3,
+		"price": 51.5
+	},
+	{
+		"timestamp": "01-22-22 / 12:02 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "14",
+		"quantity": 2,
+		"price": 66.98
+	},
+	{
+		"timestamp": "01-22-22 / 12:02 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "9",
+		"quantity": 1,
+		"price": 72.95
+	},
+	{
+		"timestamp": "01-22-22 / 12:02 PM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "5",
+		"quantity": 2,
+		"price": 99.99
+	},
+	{
+		"timestamp": "01-22-22 / 12:02 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "11",
+		"quantity": 2,
+		"price": 68.97
+	},
+	{
+		"timestamp": "01-22-22 / 11:46 AM",
+		"zone": "Floor Club Premier",
+		"section": "10",
+		"row": "A",
+		"quantity": 4,
+		"price": 129.99
+	},
+	{
+		"timestamp": "01-22-22 / 11:32 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "11",
+		"quantity": 2,
+		"price": 83.64
+	},
+	{
+		"timestamp": "01-22-22 / 11:32 AM",
+		"zone": "Floor Club Premier",
+		"section": "12",
+		"row": "A",
+		"quantity": 1,
+		"price": 134.98
+	},
+	{
+		"timestamp": "01-22-22 / 11:32 AM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "5",
+		"quantity": 4,
+		"price": 99.99
+	},
+	{
+		"timestamp": "01-22-22 / 11:16 AM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "14",
+		"quantity": 1,
+		"price": 53.95
+	},
+	{
+		"timestamp": "01-22-22 / 11:16 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "15",
+		"quantity": 1,
+		"price": 72.95
+	},
+	{
+		"timestamp": "01-22-22 / 11:16 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "14",
+		"quantity": 4,
+		"price": 74.94
+	},
+	{
+		"timestamp": "01-22-22 / 11:16 AM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "4",
+		"quantity": 1,
+		"price": 102.98
+	},
+	{
+		"timestamp": "01-22-22 / 10:43 AM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "20",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "01-22-22 / 10:43 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "15",
+		"quantity": 2,
+		"price": 70.96
+	},
+	{
+		"timestamp": "01-22-22 / 10:26 AM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "15",
+		"quantity": 2,
+		"price": 58.58
+	},
+	{
+		"timestamp": "01-22-22 / 10:26 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "15",
+		"quantity": 4,
+		"price": 68.97
+	},
+	{
+		"timestamp": "01-22-22 / 10:26 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "15",
+		"quantity": 3,
+		"price": 66.98
+	},
+	{
+		"timestamp": "01-22-22 / 09:52 AM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "16",
+		"quantity": 2,
+		"price": 66.98
+	},
+	{
+		"timestamp": "01-22-22 / 09:52 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "16",
+		"quantity": 2,
+		"price": 69.99
+	},
+	{
+		"timestamp": "01-22-22 / 09:39 AM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "11",
+		"quantity": 4,
+		"price": 69
+	},
+	{
+		"timestamp": "01-22-22 / 09:22 AM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "15",
+		"quantity": 2,
+		"price": 70.7
+	},
+	{
+		"timestamp": "01-22-22 / 09:02 AM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "20",
+		"quantity": 2,
+		"price": 64.99
+	},
+	{
+		"timestamp": "01-22-22 / 09:02 AM",
+		"zone": "Club Platinum",
+		"section": "106",
+		"row": "3",
+		"quantity": 2,
+		"price": 95.79
+	},
+	{
+		"timestamp": "01-22-22 / 07:33 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "14",
+		"quantity": 3,
+		"price": 73.96
+	},
+	{
+		"timestamp": "01-22-22 / 01:50 AM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "1",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "01-22-22 / 01:23 AM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "13",
+		"quantity": 2,
+		"price": 53.95
+	},
+	{
+		"timestamp": "01-22-22 / 12:37 AM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 1,
+		"price": 33.15
+	},
+	{
+		"timestamp": "01-22-22 / 12:24 AM",
+		"zone": "Club Platinum",
+		"section": "107",
+		"row": "4",
+		"quantity": 1,
+		"price": 98.5
+	},
+	{
+		"timestamp": "01-22-22 / 12:24 AM",
+		"zone": "100 Level Baseline",
+		"section": "103",
+		"row": "7",
+		"quantity": 1,
+		"price": 26.99
+	},
+	{
+		"timestamp": "01-21-22 / 11:34 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "17",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 11:34 PM",
+		"zone": "Floor Club Premier",
+		"section": "11",
+		"row": "A",
+		"quantity": 2,
+		"price": 159
+	},
+	{
+		"timestamp": "01-21-22 / 11:16 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "13",
+		"quantity": 3,
+		"price": 77.25
+	},
+	{
+		"timestamp": "01-21-22 / 11:16 PM",
+		"zone": "Club Silver",
+		"section": "116",
+		"row": "20",
+		"quantity": 3,
+		"price": 58.94
+	},
+	{
+		"timestamp": "01-21-22 / 10:48 PM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "2",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "01-21-22 / 10:48 PM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "17",
+		"quantity": 2,
+		"price": 62.92
+	},
+	{
+		"timestamp": "01-21-22 / 10:48 PM",
+		"zone": "100 Level Baseline",
+		"section": "113",
+		"row": "6",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "01-21-22 / 10:31 PM",
+		"zone": "Baseline Risers",
+		"section": "7",
+		"row": "13",
+		"quantity": 3,
+		"price": 74.99
+	},
+	{
+		"timestamp": "01-21-22 / 10:10 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "19",
+		"quantity": 1,
+		"price": 36
+	},
+	{
+		"timestamp": "01-21-22 / 09:52 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "17",
+		"quantity": 2,
+		"price": 60.93
+	},
+	{
+		"timestamp": "01-21-22 / 09:37 PM",
+		"zone": "Club Silver",
+		"section": "116",
+		"row": "20",
+		"quantity": 2,
+		"price": 60.93
+	},
+	{
+		"timestamp": "01-21-22 / 09:04 PM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "9",
+		"quantity": 2,
+		"price": 51
+	},
+	{
+		"timestamp": "01-21-22 / 08:48 PM",
+		"zone": "Club Silver",
+		"section": "117",
+		"row": "19",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "01-21-22 / 08:30 PM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "2",
+		"quantity": 4,
+		"price": 174.92
+	},
+	{
+		"timestamp": "01-21-22 / 08:30 PM",
+		"zone": "Baseline Risers",
+		"section": "7",
+		"row": "13",
+		"quantity": 2,
+		"price": 74.99
+	},
+	{
+		"timestamp": "01-21-22 / 07:54 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "10",
+		"quantity": 2,
+		"price": 130.96
+	},
+	{
+		"timestamp": "01-21-22 / 07:39 PM",
+		"zone": "Club Silver",
+		"section": "109",
+		"row": "7",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "01-21-22 / 07:16 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "14",
+		"quantity": 3,
+		"price": 55
+	},
+	{
+		"timestamp": "01-21-22 / 07:16 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "12",
+		"quantity": 2,
+		"price": 59.5
+	},
+	{
+		"timestamp": "01-21-22 / 07:16 PM",
+		"zone": "Club Silver",
+		"section": "106",
+		"row": "22",
+		"quantity": 4,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 06:56 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "14",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "01-21-22 / 06:56 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "10",
+		"quantity": 2,
+		"price": 60.8
+	},
+	{
+		"timestamp": "01-21-22 / 06:39 PM",
+		"zone": "Club Platinum",
+		"section": "106",
+		"row": "3",
+		"quantity": 2,
+		"price": 95.79
+	},
+	{
+		"timestamp": "01-21-22 / 06:23 PM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 1,
+		"price": 32.15
+	},
+	{
+		"timestamp": "01-21-22 / 06:01 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "16",
+		"quantity": 3,
+		"price": 69.99
+	},
+	{
+		"timestamp": "01-21-22 / 06:01 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "14",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "01-21-22 / 06:01 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "10",
+		"quantity": 1,
+		"price": 60.8
+	},
+	{
+		"timestamp": "01-21-22 / 05:44 PM",
+		"zone": "100 Level End",
+		"section": "120",
+		"row": "14",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "01-21-22 / 05:27 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "14",
+		"quantity": 2,
+		"price": 56.97
+	},
+	{
+		"timestamp": "01-21-22 / 05:07 PM",
+		"zone": "100 Level Baseline",
+		"section": "103",
+		"row": "7",
+		"quantity": 1,
+		"price": 45.75
+	},
+	{
+		"timestamp": "01-21-22 / 04:51 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "12",
+		"quantity": 2,
+		"price": 59.49
+	},
+	{
+		"timestamp": "01-21-22 / 04:51 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "13",
+		"quantity": 1,
+		"price": 52
+	},
+	{
+		"timestamp": "01-21-22 / 04:10 PM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "13",
+		"quantity": 4,
+		"price": 60
+	},
+	{
+		"timestamp": "01-21-22 / 03:51 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "9",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 03:34 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "15",
+		"quantity": 2,
+		"price": 58.95
+	},
+	{
+		"timestamp": "01-21-22 / 02:41 PM",
+		"zone": "100 Level Corner",
+		"section": "105",
+		"row": "10",
+		"quantity": 7,
+		"price": 69.6
+	},
+	{
+		"timestamp": "01-21-22 / 02:05 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "9",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 01:49 PM",
+		"zone": "Club Silver",
+		"section": "107",
+		"row": "22",
+		"quantity": 3,
+		"price": 54.99
+	},
+	{
+		"timestamp": "01-21-22 / 01:49 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "13",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 01:33 PM",
+		"zone": "Club Platinum",
+		"section": "118",
+		"row": "8",
+		"quantity": 2,
+		"price": 52.77
+	},
+	{
+		"timestamp": "01-21-22 / 01:33 PM",
+		"zone": "Club Platinum",
+		"section": "116",
+		"row": "7",
+		"quantity": 2,
+		"price": 54.16
+	},
+	{
+		"timestamp": "01-21-22 / 01:10 PM",
+		"zone": "Club Sideline",
+		"section": "12",
+		"row": "4",
+		"quantity": 1,
+		"price": 134.99
+	},
+	{
+		"timestamp": "01-21-22 / 12:35 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "14",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 12:35 PM",
+		"zone": "Club Platinum",
+		"section": "116",
+		"row": "7",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "01-21-22 / 12:35 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "9",
+		"quantity": 2,
+		"price": 52.77
+	},
+	{
+		"timestamp": "01-21-22 / 12:20 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "15",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-21-22 / 11:41 AM",
+		"zone": "Club Platinum",
+		"section": "108",
+		"row": "8",
+		"quantity": 2,
+		"price": 59
+	},
+	{
+		"timestamp": "01-21-22 / 11:41 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "15",
+		"quantity": 2,
+		"price": 48.89
+	},
+	{
+		"timestamp": "01-21-22 / 10:09 AM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "14",
+		"quantity": 5,
+		"price": 63.95
+	},
+	{
+		"timestamp": "01-21-22 / 10:09 AM",
+		"zone": "Floor Club Premier",
+		"section": "10",
+		"row": "A",
+		"quantity": 2,
+		"price": 249.99
+	},
+	{
+		"timestamp": "01-21-22 / 09:50 AM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "17",
+		"quantity": 2,
+		"price": 48
+	},
+	{
+		"timestamp": "01-21-22 / 09:36 AM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "22",
+		"quantity": 4,
+		"price": 50
+	},
+	{
+		"timestamp": "01-21-22 / 09:23 AM",
+		"zone": "Club Gold",
+		"section": "117",
+		"row": "13",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "01-21-22 / 09:05 AM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 2,
+		"price": 34
+	},
+	{
+		"timestamp": "01-21-22 / 08:50 AM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 7,
+		"price": 34
+	},
+	{
+		"timestamp": "01-21-22 / 07:46 AM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "10",
+		"quantity": 2,
+		"price": 46
+	},
+	{
+		"timestamp": "01-21-22 / 07:12 AM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 5,
+		"price": 34
+	},
+	{
+		"timestamp": "01-21-22 / 06:42 AM",
+		"zone": "200 Level Gallery",
+		"section": "211",
+		"row": "2",
+		"quantity": 1,
+		"price": 34
+	},
+	{
+		"timestamp": "01-20-22 / 11:04 PM",
+		"zone": "Club Center",
+		"section": "11",
+		"row": "1",
+		"quantity": 4,
+		"price": 219.95
+	},
+	{
+		"timestamp": "01-20-22 / 10:35 PM",
+		"zone": "Club Gold",
+		"section": "118",
+		"row": "10",
+		"quantity": 4,
+		"price": 50.15
+	},
+	{
+		"timestamp": "01-20-22 / 09:40 PM",
+		"zone": "100 Level Baseline",
+		"section": "120",
+		"row": "5",
+		"quantity": 3,
+		"price": 51.9
+	},
+	{
+		"timestamp": "01-20-22 / 09:23 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "9",
+		"quantity": 4,
+		"price": 42.99
+	},
+	{
+		"timestamp": "01-20-22 / 09:23 PM",
+		"zone": "100 Level End",
+		"section": "101",
+		"row": "11",
+		"quantity": 1,
+		"price": 45.9
+	},
+	{
+		"timestamp": "01-20-22 / 09:23 PM",
+		"zone": "100 Level End",
+		"section": "102",
+		"row": "9",
+		"quantity": 2,
+		"price": 43.98
+	},
+	{
+		"timestamp": "01-20-22 / 08:09 PM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "10",
+		"quantity": 4,
+		"price": 50.15
+	},
+	{
+		"timestamp": "01-20-22 / 08:09 PM",
+		"zone": "Club Platinum",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 86.93
+	},
+	{
+		"timestamp": "01-20-22 / 07:36 PM",
+		"zone": "Club Gold",
+		"section": "106",
+		"row": "10",
+		"quantity": 3,
+		"price": 50.15
+	},
+	{
+		"timestamp": "01-20-22 / 06:56 PM",
+		"zone": "100 Level Baseline",
+		"section": "112",
+		"row": "7",
+		"quantity": 3,
+		"price": 46.95
+	},
+	{
+		"timestamp": "01-20-22 / 06:42 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "15",
+		"quantity": 3,
+		"price": 47.57
+	},
+	{
+		"timestamp": "01-20-22 / 06:25 PM",
+		"zone": "Club Platinum",
+		"section": "116",
+		"row": "6",
+		"quantity": 2,
+		"price": 61.76
+	},
+	{
+		"timestamp": "01-20-22 / 03:50 PM",
+		"zone": "100 Level Baseline",
+		"section": "103",
+		"row": "8",
+		"quantity": 1,
+		"price": 44.97
+	},
+	{
+		"timestamp": "01-20-22 / 02:21 PM",
+		"zone": "100 Level Baseline",
+		"section": "103",
+		"row": "8",
+		"quantity": 3,
+		"price": 44.97
+	},
+	{
+		"timestamp": "01-20-22 / 01:45 PM",
+		"zone": "100 Level End",
+		"section": "114",
+		"row": "15",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "01-20-22 / 12:01 PM",
+		"zone": "100 Level End",
+		"section": "111",
+		"row": "16",
+		"quantity": 2,
+		"price": 30.3
+	},
+	{
+		"timestamp": "01-19-22 / 10:13 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 3,
+		"price": 46
+	},
+	{
+		"timestamp": "01-19-22 / 09:05 PM",
+		"zone": "Club Gold",
+		"section": "116",
+		"row": "11",
+		"quantity": 1,
+		"price": 46
+	},
+	{
+		"timestamp": "01-19-22 / 08:11 PM",
+		"zone": "100 Level Corner",
+		"section": "109",
+		"row": "19",
+		"quantity": 2,
+		"price": 33
+	},
+	{
+		"timestamp": "01-19-22 / 07:37 PM",
+		"zone": "100 Level Corner",
+		"section": "115",
+		"row": "15",
+		"quantity": 6,
+		"price": 43.43
+	},
+	{
+		"timestamp": "01-19-22 / 07:37 PM",
+		"zone": "Club Gold",
+		"section": "108",
+		"row": "15",
+		"quantity": 2,
+		"price": 48.9
+	},
+	{
+		"timestamp": "01-19-22 / 07:37 PM",
+		"zone": "100 Level End",
+		"section": "112",
+		"row": "11",
+		"quantity": 4,
+		"price": 31.97
+	},
+	{
+		"timestamp": "01-19-22 / 06:54 PM",
+		"zone": "Club Gold",
+		"section": "107",
+		"row": "12",
+		"quantity": 2,
+		"price": 60.3
+	}
+]

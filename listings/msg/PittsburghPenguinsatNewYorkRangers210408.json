@@ -1,0 +1,458 @@
+[
+	{
+		"timestamp": "04-08-21 / 07:25 PM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 115",
+		"row": "14",
+		"quantity": 2,
+		"price": 237.5
+	},
+	{
+		"timestamp": "04-08-21 / 05:25 PM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Upper Corner - 109",
+		"row": "18",
+		"quantity": 2,
+		"price": 219.45
+	},
+	{
+		"timestamp": "04-08-21 / 05:25 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "208",
+		"row": "4",
+		"quantity": 3,
+		"price": 161.5
+	},
+	{
+		"timestamp": "04-08-21 / 04:46 PM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 227",
+		"row": "1",
+		"quantity": 2,
+		"price": 170.05
+	},
+	{
+		"timestamp": "04-08-21 / 02:29 PM",
+		"zone": "200 Level Center Gallery",
+		"section": "200 Level Gallery 210",
+		"row": "1",
+		"quantity": 2,
+		"price": 380
+	},
+	{
+		"timestamp": "04-08-21 / 11:46 AM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 120",
+		"row": "9",
+		"quantity": 2,
+		"price": 244.67
+	},
+	{
+		"timestamp": "04-08-21 / 11:46 AM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 214",
+		"row": "1",
+		"quantity": 2,
+		"price": 149.62
+	},
+	{
+		"timestamp": "04-08-21 / 09:49 AM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "13",
+		"quantity": 2,
+		"price": 142.5
+	},
+	{
+		"timestamp": "04-08-21 / 09:33 AM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "4",
+		"quantity": 2,
+		"price": 128.25
+	},
+	{
+		"timestamp": "04-08-21 / 08:59 AM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 114",
+		"row": "9",
+		"quantity": 2,
+		"price": 217.55
+	},
+	{
+		"timestamp": "04-07-21 / 09:57 PM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 221",
+		"row": "1",
+		"quantity": 2,
+		"price": 141.55
+	},
+	{
+		"timestamp": "04-07-21 / 09:40 PM",
+		"zone": "Club Center",
+		"section": "108",
+		"row": "21",
+		"quantity": 2,
+		"price": 379.95
+	},
+	{
+		"timestamp": "04-07-21 / 09:00 PM",
+		"zone": "400 Level Goal",
+		"section": "413",
+		"row": "2",
+		"quantity": 4,
+		"price": 88.35
+	},
+	{
+		"timestamp": "04-07-21 / 07:15 PM",
+		"zone": "200 Level Lower Center",
+		"section": "210",
+		"row": "4",
+		"quantity": 4,
+		"price": 151.05
+	},
+	{
+		"timestamp": "04-07-21 / 06:57 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Upper Goal 102",
+		"row": "18",
+		"quantity": 2,
+		"price": 172.12
+	},
+	{
+		"timestamp": "04-07-21 / 06:13 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal - 103",
+		"row": "12",
+		"quantity": 1,
+		"price": 200.35
+	},
+	{
+		"timestamp": "04-07-21 / 03:23 PM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 207",
+		"row": "1",
+		"quantity": 2,
+		"price": 144.4
+	},
+	{
+		"timestamp": "04-07-21 / 03:09 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "226",
+		"row": "7",
+		"quantity": 2,
+		"price": 139.65
+	},
+	{
+		"timestamp": "04-07-21 / 02:54 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "220",
+		"row": "4",
+		"quantity": 2,
+		"price": 126.68
+	},
+	{
+		"timestamp": "04-07-21 / 02:08 PM",
+		"zone": "400 Level Goal",
+		"section": "418",
+		"row": "1",
+		"quantity": 4,
+		"price": 91.18
+	},
+	{
+		"timestamp": "04-05-21 / 09:39 PM",
+		"zone": "200 Level Goal Gallery",
+		"section": "200 Level Gallery 217",
+		"row": "1",
+		"quantity": 2,
+		"price": 113.05
+	},
+	{
+		"timestamp": "04-05-21 / 09:39 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal 101",
+		"row": "12",
+		"quantity": 2,
+		"price": 194.75
+	},
+	{
+		"timestamp": "04-05-21 / 02:54 PM",
+		"zone": "Club Platinum",
+		"section": "2",
+		"row": "4",
+		"quantity": 4,
+		"price": 489.25
+	},
+	{
+		"timestamp": "04-04-21 / 07:51 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal - 103",
+		"row": "12",
+		"quantity": 2,
+		"price": 194.75
+	},
+	{
+		"timestamp": "04-04-21 / 06:06 PM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 115",
+		"row": "12",
+		"quantity": 2,
+		"price": 201.4
+	},
+	{
+		"timestamp": "04-04-21 / 04:18 PM",
+		"zone": "200 Level Lower Center",
+		"section": "223",
+		"row": "4",
+		"quantity": 4,
+		"price": 166.25
+	},
+	{
+		"timestamp": "04-02-21 / 02:40 PM",
+		"zone": "200 Level Goal Gallery",
+		"section": "200 Level Gallery 217",
+		"row": "1",
+		"quantity": 3,
+		"price": 136.8
+	},
+	{
+		"timestamp": "04-01-21 / 06:07 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal 101",
+		"row": "9",
+		"quantity": 2,
+		"price": 199.5
+	},
+	{
+		"timestamp": "04-01-21 / 04:42 PM",
+		"zone": "200 Level Center Gallery",
+		"section": "200 Level Gallery 225",
+		"row": "1",
+		"quantity": 3,
+		"price": 127.3
+	},
+	{
+		"timestamp": "03-29-21 / 05:32 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "209",
+		"row": "5",
+		"quantity": 4,
+		"price": 140.6
+	},
+	{
+		"timestamp": "03-29-21 / 01:18 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "221",
+		"row": "6",
+		"quantity": 2,
+		"price": 138.31
+	},
+	{
+		"timestamp": "03-29-21 / 01:18 PM",
+		"zone": "400 Level Goal",
+		"section": "415",
+		"row": "1",
+		"quantity": 2,
+		"price": 90.25
+	},
+	{
+		"timestamp": "03-29-21 / 12:30 PM",
+		"zone": "200 Level Lower Goal",
+		"section": "206",
+		"row": "4",
+		"quantity": 2,
+		"price": 113.05
+	},
+	{
+		"timestamp": "03-29-21 / 07:21 AM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 114",
+		"row": "12",
+		"quantity": 2,
+		"price": 344.13
+	},
+	{
+		"timestamp": "03-27-21 / 05:18 PM",
+		"zone": "200 Level Center Gallery",
+		"section": "200 Level Gallery 225",
+		"row": "1",
+		"quantity": 2,
+		"price": 194.75
+	},
+	{
+		"timestamp": "03-26-21 / 09:27 PM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 201",
+		"row": "1",
+		"quantity": 2,
+		"price": 138.69
+	},
+	{
+		"timestamp": "03-26-21 / 03:27 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "12",
+		"quantity": 2,
+		"price": 171
+	},
+	{
+		"timestamp": "03-26-21 / 02:11 PM",
+		"zone": "200 Level Lower Center",
+		"section": "225",
+		"row": "4",
+		"quantity": 2,
+		"price": 142.5
+	},
+	{
+		"timestamp": "03-26-21 / 10:15 AM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 214",
+		"row": "1",
+		"quantity": 2,
+		"price": 141.55
+	},
+	{
+		"timestamp": "03-25-21 / 07:39 PM",
+		"zone": "400 Level Goal",
+		"section": "400 Level Corner 419",
+		"row": "3",
+		"quantity": 2,
+		"price": 90.24
+	},
+	{
+		"timestamp": "03-25-21 / 07:10 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "4",
+		"quantity": 2,
+		"price": 111.15
+	},
+	{
+		"timestamp": "03-25-21 / 01:07 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "214",
+		"row": "4",
+		"quantity": 2,
+		"price": 114
+	},
+	{
+		"timestamp": "03-24-21 / 08:32 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal - 111",
+		"row": "9",
+		"quantity": 2,
+		"price": 194.75
+	},
+	{
+		"timestamp": "03-24-21 / 07:24 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "220",
+		"row": "4",
+		"quantity": 2,
+		"price": 114.95
+	},
+	{
+		"timestamp": "03-24-21 / 07:51 AM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 213",
+		"row": "1",
+		"quantity": 4,
+		"price": 181.21
+	},
+	{
+		"timestamp": "03-23-21 / 08:42 PM",
+		"zone": "100 Level Goal",
+		"section": "100 Level Lower Goal - 113",
+		"row": "12",
+		"quantity": 2,
+		"price": 171
+	},
+	{
+		"timestamp": "03-23-21 / 06:46 PM",
+		"zone": "200 Level Center Gallery",
+		"section": "200 Level Gallery 210",
+		"row": "1",
+		"quantity": 2,
+		"price": 160.72
+	},
+	{
+		"timestamp": "03-23-21 / 05:47 PM",
+		"zone": "200 Level Lower Center",
+		"section": "224",
+		"row": "12",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "03-23-21 / 11:34 AM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Upper Corner 115",
+		"row": "15",
+		"quantity": 2,
+		"price": 405.65
+	},
+	{
+		"timestamp": "03-23-21 / 07:22 AM",
+		"zone": "200 Level Goal Gallery",
+		"section": "200 Level Gallery 216",
+		"row": "1",
+		"quantity": 2,
+		"price": 118.75
+	},
+	{
+		"timestamp": "03-22-21 / 11:03 PM",
+		"zone": "400 Level Goal",
+		"section": "415",
+		"row": "1",
+		"quantity": 2,
+		"price": 76
+	},
+	{
+		"timestamp": "03-22-21 / 09:06 PM",
+		"zone": "100 Level Corner",
+		"section": "100 Level Lower Corner 115",
+		"row": "12",
+		"quantity": 2,
+		"price": 298.25
+	},
+	{
+		"timestamp": "03-22-21 / 08:51 PM",
+		"zone": "200 Level Center Gallery",
+		"section": "200 Level Gallery 225",
+		"row": "1",
+		"quantity": 4,
+		"price": 142.5
+	},
+	{
+		"timestamp": "03-22-21 / 05:45 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "201",
+		"row": "4",
+		"quantity": 2,
+		"price": 118.75
+	},
+	{
+		"timestamp": "03-22-21 / 04:00 PM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 226",
+		"row": "1",
+		"quantity": 2,
+		"price": 152
+	},
+	{
+		"timestamp": "03-22-21 / 12:53 PM",
+		"zone": "200 Level Lower Corner",
+		"section": "227",
+		"row": "4",
+		"quantity": 2,
+		"price": 154.85
+	},
+	{
+		"timestamp": "03-22-21 / 11:52 AM",
+		"zone": "200 Level Corner Gallery",
+		"section": "200 Level Gallery 209",
+		"row": "1",
+		"quantity": 2,
+		"price": 218.39
+	}
+]

@@ -1,0 +1,578 @@
+[
+	{
+		"timestamp": "04-22-25 / 10:28 PM",
+		"zone": "Floor",
+		"section": "12",
+		"row": "4",
+		"quantity": 3,
+		"price": 548
+	},
+	{
+		"timestamp": "04-22-25 / 05:45 PM",
+		"zone": "Floor",
+		"section": "1",
+		"row": "1",
+		"quantity": 4,
+		"price": 591
+	},
+	{
+		"timestamp": "04-22-25 / 10:07 AM",
+		"zone": "200 Level",
+		"section": "202",
+		"row": "2",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "04-22-25 / 09:28 AM",
+		"zone": "100 Level",
+		"section": "101",
+		"row": "19",
+		"quantity": 5,
+		"price": 182
+	},
+	{
+		"timestamp": "04-21-25 / 08:48 AM",
+		"zone": "200 Level",
+		"section": "224",
+		"row": "20",
+		"quantity": 0,
+		"price": 121
+	},
+	{
+		"timestamp": "04-21-25 / 07:33 AM",
+		"zone": "200 Level",
+		"section": "223",
+		"row": "19",
+		"quantity": 6,
+		"price": 122
+	},
+	{
+		"timestamp": "04-20-25 / 08:54 AM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "2",
+		"quantity": 6,
+		"price": 85
+	},
+	{
+		"timestamp": "04-19-25 / 09:49 PM",
+		"zone": "100 Level",
+		"section": "114",
+		"row": "",
+		"quantity": 0,
+		"price": 201
+	},
+	{
+		"timestamp": "04-19-25 / 12:59 PM",
+		"zone": "Chase Bridges Barstools",
+		"section": "314",
+		"row": "BS3",
+		"quantity": 0,
+		"price": 60
+	},
+	{
+		"timestamp": "04-19-25 / 11:36 AM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "9",
+		"quantity": 5,
+		"price": 251
+	},
+	{
+		"timestamp": "04-18-25 / 03:16 PM",
+		"zone": "100 Level",
+		"section": "114",
+		"row": "18",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "04-17-25 / 07:30 PM",
+		"zone": "Lounge",
+		"section": "304",
+		"row": "1",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "04-17-25 / 11:26 AM",
+		"zone": "200 Level",
+		"section": "220",
+		"row": "8",
+		"quantity": 2,
+		"price": 67
+	},
+	{
+		"timestamp": "04-17-25 / 11:26 AM",
+		"zone": "100 Level",
+		"section": "108",
+		"row": "22",
+		"quantity": 0,
+		"price": 318
+	},
+	{
+		"timestamp": "04-16-25 / 10:14 PM",
+		"zone": "Lounge",
+		"section": "304",
+		"row": "1",
+		"quantity": 4,
+		"price": 69
+	},
+	{
+		"timestamp": "04-16-25 / 12:32 PM",
+		"zone": "400 Level",
+		"section": "414",
+		"row": "7",
+		"quantity": 3,
+		"price": 67
+	},
+	{
+		"timestamp": "04-15-25 / 09:57 PM",
+		"zone": "400 Level",
+		"section": "414",
+		"row": "2",
+		"quantity": 7,
+		"price": 69
+	},
+	{
+		"timestamp": "04-15-25 / 05:54 PM",
+		"zone": "200 Level",
+		"section": "222",
+		"row": "1",
+		"quantity": 2,
+		"price": 149
+	},
+	{
+		"timestamp": "04-15-25 / 03:17 PM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "20",
+		"quantity": 0,
+		"price": 178
+	},
+	{
+		"timestamp": "04-15-25 / 09:58 AM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "20",
+		"quantity": 0,
+		"price": 180
+	},
+	{
+		"timestamp": "04-15-25 / 08:39 AM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "6",
+		"quantity": 6,
+		"price": 269
+	},
+	{
+		"timestamp": "04-15-25 / 06:24 AM",
+		"zone": "100 Level",
+		"section": "114",
+		"row": "18",
+		"quantity": 8,
+		"price": 205
+	},
+	{
+		"timestamp": "04-14-25 / 09:40 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "7",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "04-14-25 / 01:07 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "3",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "04-13-25 / 03:28 PM",
+		"zone": "Chase Bridges",
+		"section": "328",
+		"row": "1",
+		"quantity": 4,
+		"price": 66
+	},
+	{
+		"timestamp": "04-13-25 / 03:03 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "3",
+		"quantity": 2,
+		"price": 94
+	},
+	{
+		"timestamp": "04-13-25 / 09:29 AM",
+		"zone": "Chase Bridges",
+		"section": "328",
+		"row": "1",
+		"quantity": 8,
+		"price": 65
+	},
+	{
+		"timestamp": "04-13-25 / 09:02 AM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "22",
+		"quantity": 0,
+		"price": 226
+	},
+	{
+		"timestamp": "04-12-25 / 01:42 PM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "6",
+		"quantity": 9,
+		"price": 251
+	},
+	{
+		"timestamp": "04-12-25 / 01:00 PM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "7",
+		"quantity": 2,
+		"price": 219
+	},
+	{
+		"timestamp": "04-12-25 / 12:48 PM",
+		"zone": "200 Level",
+		"section": "225",
+		"row": "21",
+		"quantity": 8,
+		"price": 120
+	},
+	{
+		"timestamp": "04-12-25 / 12:02 PM",
+		"zone": "200 Level",
+		"section": "216",
+		"row": "3",
+		"quantity": 0,
+		"price": 85
+	},
+	{
+		"timestamp": "04-11-25 / 11:53 PM",
+		"zone": "200 Level",
+		"section": "214",
+		"row": "8",
+		"quantity": 0,
+		"price": 97
+	},
+	{
+		"timestamp": "04-11-25 / 08:08 PM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "7",
+		"quantity": 2,
+		"price": 220
+	},
+	{
+		"timestamp": "04-11-25 / 07:34 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "7",
+		"quantity": 2,
+		"price": 74
+	},
+	{
+		"timestamp": "04-11-25 / 03:48 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "17",
+		"quantity": 0,
+		"price": 165
+	},
+	{
+		"timestamp": "04-11-25 / 11:24 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "10",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "04-11-25 / 10:34 AM",
+		"zone": "200 Level",
+		"section": "214",
+		"row": "12",
+		"quantity": 2,
+		"price": 91
+	},
+	{
+		"timestamp": "04-11-25 / 04:22 AM",
+		"zone": "200 Level",
+		"section": "213",
+		"row": "22",
+		"quantity": 0,
+		"price": 97
+	},
+	{
+		"timestamp": "04-10-25 / 09:18 PM",
+		"zone": "100 Level",
+		"section": "113",
+		"row": "11",
+		"quantity": 0,
+		"price": 207
+	},
+	{
+		"timestamp": "04-10-25 / 06:22 PM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "",
+		"quantity": 0,
+		"price": 94
+	},
+	{
+		"timestamp": "04-10-25 / 01:45 PM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "12",
+		"quantity": 0,
+		"price": 204
+	},
+	{
+		"timestamp": "04-10-25 / 09:25 AM",
+		"zone": "100 Level",
+		"section": "111",
+		"row": "18",
+		"quantity": 4,
+		"price": 193
+	},
+	{
+		"timestamp": "04-10-25 / 08:58 AM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "6",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "04-10-25 / 07:32 AM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "1",
+		"quantity": 6,
+		"price": 133
+	},
+	{
+		"timestamp": "04-10-25 / 06:20 AM",
+		"zone": "100 Level",
+		"section": "113",
+		"row": "",
+		"quantity": 0,
+		"price": 184
+	},
+	{
+		"timestamp": "04-09-25 / 10:48 PM",
+		"zone": "200 Level",
+		"section": "224",
+		"row": "19",
+		"quantity": 8,
+		"price": 130
+	},
+	{
+		"timestamp": "04-09-25 / 09:46 PM",
+		"zone": "Chase Bridges",
+		"section": "328",
+		"row": "1",
+		"quantity": 2,
+		"price": 65
+	},
+	{
+		"timestamp": "04-09-25 / 09:43 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "6",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "04-09-25 / 09:34 PM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "1",
+		"quantity": 2,
+		"price": 104
+	},
+	{
+		"timestamp": "04-09-25 / 09:01 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "14",
+		"quantity": 2,
+		"price": 71
+	},
+	{
+		"timestamp": "04-09-25 / 08:25 PM",
+		"zone": "200 Level",
+		"section": "220",
+		"row": "1",
+		"quantity": 5,
+		"price": 108
+	},
+	{
+		"timestamp": "04-09-25 / 08:20 PM",
+		"zone": "100 Level",
+		"section": "109",
+		"row": "",
+		"quantity": 0,
+		"price": 249
+	},
+	{
+		"timestamp": "04-09-25 / 08:13 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "1",
+		"quantity": 8,
+		"price": 133
+	},
+	{
+		"timestamp": "04-09-25 / 07:15 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "14",
+		"quantity": 2,
+		"price": 71
+	},
+	{
+		"timestamp": "04-09-25 / 03:52 PM",
+		"zone": "200 Level",
+		"section": "220",
+		"row": "3",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "04-09-25 / 03:22 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "14",
+		"quantity": 3,
+		"price": 71
+	},
+	{
+		"timestamp": "04-09-25 / 01:38 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "19",
+		"quantity": 5,
+		"price": 130
+	},
+	{
+		"timestamp": "04-09-25 / 11:13 AM",
+		"zone": "200 Level",
+		"section": "207",
+		"row": "4",
+		"quantity": 2,
+		"price": 14014
+	},
+	{
+		"timestamp": "04-09-25 / 09:38 AM",
+		"zone": "West Balcony",
+		"section": "322",
+		"row": "1",
+		"quantity": 8,
+		"price": 66
+	},
+	{
+		"timestamp": "04-08-25 / 11:38 PM",
+		"zone": "West Balcony",
+		"section": "317",
+		"row": "2",
+		"quantity": 2,
+		"price": 66
+	},
+	{
+		"timestamp": "04-08-25 / 10:58 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "9",
+		"quantity": 2,
+		"price": 74
+	},
+	{
+		"timestamp": "04-08-25 / 03:52 PM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "9",
+		"quantity": 2,
+		"price": 75
+	},
+	{
+		"timestamp": "04-08-25 / 03:23 PM",
+		"zone": "200 Level",
+		"section": "214",
+		"row": "10",
+		"quantity": 1,
+		"price": 105
+	},
+	{
+		"timestamp": "04-08-25 / 03:15 PM",
+		"zone": "200 Level",
+		"section": "213",
+		"row": "24",
+		"quantity": 4,
+		"price": 105
+	},
+	{
+		"timestamp": "04-08-25 / 01:52 PM",
+		"zone": "200 Level",
+		"section": "214",
+		"row": "12",
+		"quantity": 0,
+		"price": 89
+	},
+	{
+		"timestamp": "04-08-25 / 12:24 PM",
+		"zone": "Floor",
+		"section": "2",
+		"row": "10",
+		"quantity": 2,
+		"price": 470
+	},
+	{
+		"timestamp": "04-08-25 / 12:21 PM",
+		"zone": "Floor",
+		"section": "8",
+		"row": "20",
+		"quantity": 4,
+		"price": 390
+	},
+	{
+		"timestamp": "04-08-25 / 11:16 AM",
+		"zone": "200 Level",
+		"section": "215",
+		"row": "1",
+		"quantity": 2,
+		"price": 144
+	},
+	{
+		"timestamp": "04-06-25 / 03:29 AM",
+		"zone": "Floor",
+		"section": "2F",
+		"row": "X",
+		"quantity": 0,
+		"price": 1220
+	},
+	{
+		"timestamp": "04-06-25 / 03:29 AM",
+		"zone": "Floor",
+		"section": "2F",
+		"row": "X",
+		"quantity": 0,
+		"price": 1220
+	},
+	{
+		"timestamp": "04-05-25 / 03:29 AM",
+		"zone": "Chase Bridges",
+		"section": "313",
+		"row": "2",
+		"quantity": 0,
+		"price": 524
+	}
+]

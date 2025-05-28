@@ -1,0 +1,4922 @@
+[
+	{
+		"timestamp": "12-17-21 / 09:35 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 08:43 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 319
+	},
+	{
+		"timestamp": "12-17-21 / 08:43 PM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "2",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 296
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "10",
+		"quantity": 2,
+		"price": 91
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "9",
+		"quantity": 1,
+		"price": 75
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "5",
+		"quantity": 1,
+		"price": 104
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "12",
+		"quantity": 2,
+		"price": 37.2
+	},
+	{
+		"timestamp": "12-17-21 / 08:25 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "13",
+		"quantity": 2,
+		"price": 36.4
+	},
+	{
+		"timestamp": "12-17-21 / 08:02 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 296.64
+	},
+	{
+		"timestamp": "12-17-21 / 08:02 PM",
+		"zone": "Middle",
+		"section": "124",
+		"row": "8",
+		"quantity": 1,
+		"price": 60
+	},
+	{
+		"timestamp": "12-17-21 / 08:02 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "13",
+		"quantity": 2,
+		"price": 58
+	},
+	{
+		"timestamp": "12-17-21 / 07:46 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 324
+	},
+	{
+		"timestamp": "12-17-21 / 07:46 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "5",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "12-17-21 / 07:33 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "5",
+		"quantity": 1,
+		"price": 104
+	},
+	{
+		"timestamp": "12-17-21 / 07:13 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "5",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "12-17-21 / 07:13 PM",
+		"zone": "Middle",
+		"section": "124",
+		"row": "8",
+		"quantity": 1,
+		"price": 60
+	},
+	{
+		"timestamp": "12-17-21 / 06:54 PM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "7",
+		"quantity": 1,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 06:38 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "4",
+		"quantity": 2,
+		"price": 190.55
+	},
+	{
+		"timestamp": "12-17-21 / 06:38 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 1,
+		"price": 95
+	},
+	{
+		"timestamp": "12-17-21 / 06:38 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "9",
+		"quantity": 4,
+		"price": 75
+	},
+	{
+		"timestamp": "12-17-21 / 06:38 PM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "7",
+		"quantity": 4,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 06:38 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 1,
+		"price": 79.2
+	},
+	{
+		"timestamp": "12-17-21 / 06:19 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "18",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "12-17-21 / 06:19 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 5,
+		"price": 95
+	},
+	{
+		"timestamp": "12-17-21 / 06:19 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "1",
+		"quantity": 2,
+		"price": 53
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 2,
+		"price": 350.2
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "9",
+		"quantity": 1,
+		"price": 96
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "2",
+		"quantity": 3,
+		"price": 54
+	},
+	{
+		"timestamp": "12-17-21 / 05:59 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "6",
+		"quantity": 3,
+		"price": 57.99
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "2",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "1",
+		"quantity": 2,
+		"price": 106
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "11",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "17",
+		"quantity": 1,
+		"price": 119
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "7",
+		"quantity": 3,
+		"price": 96
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "18",
+		"quantity": 1,
+		"price": 88
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 4,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 3,
+		"price": 49
+	},
+	{
+		"timestamp": "12-17-21 / 05:43 PM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "2",
+		"quantity": 5,
+		"price": 54
+	},
+	{
+		"timestamp": "12-17-21 / 05:22 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 3,
+		"price": 78
+	},
+	{
+		"timestamp": "12-17-21 / 05:00 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 3,
+		"price": 54
+	},
+	{
+		"timestamp": "12-17-21 / 05:00 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 1,
+		"price": 53
+	},
+	{
+		"timestamp": "12-17-21 / 05:00 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 53
+	},
+	{
+		"timestamp": "12-17-21 / 04:46 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "1",
+		"quantity": 2,
+		"price": 106
+	},
+	{
+		"timestamp": "12-17-21 / 04:46 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 1,
+		"price": 78
+	},
+	{
+		"timestamp": "12-17-21 / 04:46 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 2,
+		"price": 53
+	},
+	{
+		"timestamp": "12-17-21 / 04:29 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "11",
+		"quantity": 1,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 04:29 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 1,
+		"price": 53
+	},
+	{
+		"timestamp": "12-17-21 / 04:05 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 1,
+		"price": 102
+	},
+	{
+		"timestamp": "12-17-21 / 04:05 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "1",
+		"quantity": 4,
+		"price": 106
+	},
+	{
+		"timestamp": "12-17-21 / 03:47 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 275
+	},
+	{
+		"timestamp": "12-17-21 / 03:47 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "8",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "12-17-21 / 03:47 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "1",
+		"quantity": 4,
+		"price": 106
+	},
+	{
+		"timestamp": "12-17-21 / 03:47 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 4,
+		"price": 87.72
+	},
+	{
+		"timestamp": "12-17-21 / 03:47 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "1",
+		"quantity": 4,
+		"price": 55.44
+	},
+	{
+		"timestamp": "12-17-21 / 03:32 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "2",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "12-17-21 / 03:32 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 2,
+		"price": 56
+	},
+	{
+		"timestamp": "12-17-21 / 02:53 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "11",
+		"quantity": 2,
+		"price": 111
+	},
+	{
+		"timestamp": "12-17-21 / 02:53 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 2,
+		"price": 62.37
+	},
+	{
+		"timestamp": "12-17-21 / 02:36 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "4",
+		"quantity": 1,
+		"price": 127
+	},
+	{
+		"timestamp": "12-17-21 / 02:36 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "10",
+		"quantity": 2,
+		"price": 62.72
+	},
+	{
+		"timestamp": "12-17-21 / 02:15 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 242
+	},
+	{
+		"timestamp": "12-17-21 / 02:15 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "11",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "12-17-21 / 01:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 340
+	},
+	{
+		"timestamp": "12-17-21 / 01:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 330
+	},
+	{
+		"timestamp": "12-17-21 / 01:56 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "2",
+		"quantity": 4,
+		"price": 56
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 242
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "8",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 2,
+		"price": 53.46
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "2",
+		"quantity": 1,
+		"price": 56
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "4",
+		"quantity": 1,
+		"price": 55.06
+	},
+	{
+		"timestamp": "12-17-21 / 01:40 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "10",
+		"quantity": 2,
+		"price": 62.72
+	},
+	{
+		"timestamp": "12-17-21 / 12:56 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "4",
+		"quantity": 3,
+		"price": 55.06
+	},
+	{
+		"timestamp": "12-17-21 / 12:43 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "3",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "12-17-21 / 12:43 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "7",
+		"quantity": 1,
+		"price": 113.22
+	},
+	{
+		"timestamp": "12-17-21 / 12:43 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 2,
+		"price": 60.39
+	},
+	{
+		"timestamp": "12-17-21 / 12:43 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 1,
+		"price": 54
+	},
+	{
+		"timestamp": "12-17-21 / 12:28 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 304
+	},
+	{
+		"timestamp": "12-17-21 / 12:28 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "3",
+		"quantity": 4,
+		"price": 141
+	},
+	{
+		"timestamp": "12-17-21 / 12:28 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 1,
+		"price": 70.68
+	},
+	{
+		"timestamp": "12-17-21 / 12:03 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 309.99
+	},
+	{
+		"timestamp": "12-17-21 / 12:03 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5 GA8 GA",
+		"quantity": 3,
+		"price": 305
+	},
+	{
+		"timestamp": "12-17-21 / 12:03 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "8",
+		"quantity": 1,
+		"price": 110
+	},
+	{
+		"timestamp": "12-17-21 / 12:03 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 2,
+		"price": 70.68
+	},
+	{
+		"timestamp": "12-17-21 / 12:03 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "8",
+		"quantity": 2,
+		"price": 72.12
+	},
+	{
+		"timestamp": "12-17-21 / 11:44 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "3",
+		"quantity": 1,
+		"price": 141
+	},
+	{
+		"timestamp": "12-17-21 / 11:44 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "5",
+		"quantity": 2,
+		"price": 165
+	},
+	{
+		"timestamp": "12-17-21 / 10:35 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "3",
+		"quantity": 1,
+		"price": 141
+	},
+	{
+		"timestamp": "12-17-21 / 10:35 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "11",
+		"quantity": 2,
+		"price": 125.44
+	},
+	{
+		"timestamp": "12-17-21 / 10:16 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 304
+	},
+	{
+		"timestamp": "12-17-21 / 09:06 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 300
+	},
+	{
+		"timestamp": "12-17-21 / 09:06 AM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "1",
+		"quantity": 2,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-17-21 / 08:36 AM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "2",
+		"quantity": 2,
+		"price": 56
+	},
+	{
+		"timestamp": "12-17-21 / 08:36 AM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 1,
+		"price": 54
+	},
+	{
+		"timestamp": "12-17-21 / 07:57 AM",
+		"zone": "Middle",
+		"section": "109",
+		"row": "6",
+		"quantity": 2,
+		"price": 96
+	},
+	{
+		"timestamp": "12-17-21 / 02:42 AM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "14",
+		"quantity": 2,
+		"price": 118
+	},
+	{
+		"timestamp": "12-17-21 / 02:31 AM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "9",
+		"quantity": 1,
+		"price": 83.99
+	},
+	{
+		"timestamp": "12-17-21 / 01:31 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 300
+	},
+	{
+		"timestamp": "12-17-21 / 01:19 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "9",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "12-16-21 / 11:45 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 299
+	},
+	{
+		"timestamp": "12-16-21 / 11:11 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "11",
+		"quantity": 1,
+		"price": 141
+	},
+	{
+		"timestamp": "12-16-21 / 10:53 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 279
+	},
+	{
+		"timestamp": "12-16-21 / 10:53 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 2,
+		"price": 54
+	},
+	{
+		"timestamp": "12-16-21 / 10:40 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "11",
+		"quantity": 3,
+		"price": 126
+	},
+	{
+		"timestamp": "12-16-21 / 10:27 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 260
+	},
+	{
+		"timestamp": "12-16-21 / 10:27 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "6",
+		"quantity": 1,
+		"price": 111
+	},
+	{
+		"timestamp": "12-16-21 / 10:27 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "17",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "12-16-21 / 10:27 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "14",
+		"quantity": 2,
+		"price": 136.64
+	},
+	{
+		"timestamp": "12-16-21 / 10:27 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 68.31
+	},
+	{
+		"timestamp": "12-16-21 / 09:36 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 3,
+		"price": 52
+	},
+	{
+		"timestamp": "12-16-21 / 09:21 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "12-16-21 / 08:50 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "3",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "12-16-21 / 08:50 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "17",
+		"quantity": 1,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-16-21 / 08:34 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "16",
+		"quantity": 2,
+		"price": 128
+	},
+	{
+		"timestamp": "12-16-21 / 08:12 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "11",
+		"quantity": 2,
+		"price": 40.99
+	},
+	{
+		"timestamp": "12-16-21 / 07:53 PM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "16",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "12-16-21 / 07:53 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "11",
+		"quantity": 2,
+		"price": 42.22
+	},
+	{
+		"timestamp": "12-16-21 / 07:01 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "11",
+		"quantity": 2,
+		"price": 40.99
+	},
+	{
+		"timestamp": "12-16-21 / 06:44 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "17",
+		"quantity": 3,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-16-21 / 06:44 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 74
+	},
+	{
+		"timestamp": "12-16-21 / 05:55 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "12-16-21 / 04:50 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "17",
+		"quantity": 3,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-16-21 / 03:40 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 2,
+		"price": 69
+	},
+	{
+		"timestamp": "12-16-21 / 03:27 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "17",
+		"quantity": 3,
+		"price": 117
+	},
+	{
+		"timestamp": "12-16-21 / 03:27 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "12-16-21 / 02:49 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 359
+	},
+	{
+		"timestamp": "12-16-21 / 02:49 PM",
+		"zone": "Middle",
+		"section": "123",
+		"row": "9",
+		"quantity": 3,
+		"price": 89
+	},
+	{
+		"timestamp": "12-16-21 / 02:33 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "16",
+		"quantity": 4,
+		"price": 120
+	},
+	{
+		"timestamp": "12-16-21 / 02:13 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "10",
+		"quantity": 3,
+		"price": 100.8
+	},
+	{
+		"timestamp": "12-16-21 / 01:54 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "8",
+		"quantity": 2,
+		"price": 155
+	},
+	{
+		"timestamp": "12-16-21 / 01:54 PM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "11",
+		"quantity": 1,
+		"price": 125.44
+	},
+	{
+		"timestamp": "12-16-21 / 01:38 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 1,
+		"price": 66
+	},
+	{
+		"timestamp": "12-16-21 / 01:20 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "1",
+		"quantity": 2,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-16-21 / 12:45 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 320
+	},
+	{
+		"timestamp": "12-16-21 / 11:45 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "11",
+		"quantity": 2,
+		"price": 125.44
+	},
+	{
+		"timestamp": "12-16-21 / 11:45 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "14",
+		"quantity": 2,
+		"price": 136.64
+	},
+	{
+		"timestamp": "12-16-21 / 11:31 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 100
+	},
+	{
+		"timestamp": "12-16-21 / 09:29 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "8",
+		"quantity": 1,
+		"price": 155
+	},
+	{
+		"timestamp": "12-16-21 / 08:41 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "14",
+		"quantity": 2,
+		"price": 179
+	},
+	{
+		"timestamp": "12-16-21 / 02:30 AM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "3",
+		"quantity": 2,
+		"price": 210
+	},
+	{
+		"timestamp": "12-16-21 / 01:15 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "17",
+		"quantity": 1,
+		"price": 131.04
+	},
+	{
+		"timestamp": "12-15-21 / 11:42 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "1",
+		"quantity": 2,
+		"price": 85.32
+	},
+	{
+		"timestamp": "12-15-21 / 11:28 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "16",
+		"quantity": 1,
+		"price": 140
+	},
+	{
+		"timestamp": "12-15-21 / 11:28 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "1",
+		"quantity": 1,
+		"price": 124.9
+	},
+	{
+		"timestamp": "12-15-21 / 10:39 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 299.49
+	},
+	{
+		"timestamp": "12-15-21 / 10:39 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "16",
+		"quantity": 2,
+		"price": 122
+	},
+	{
+		"timestamp": "12-15-21 / 10:39 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 1,
+		"price": 111
+	},
+	{
+		"timestamp": "12-15-21 / 10:26 PM",
+		"zone": "Upper",
+		"section": "213",
+		"row": "4",
+		"quantity": 2,
+		"price": 68
+	},
+	{
+		"timestamp": "12-15-21 / 09:33 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "11",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "12-15-21 / 09:33 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "4",
+		"quantity": 2,
+		"price": 66
+	},
+	{
+		"timestamp": "12-15-21 / 09:16 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "9",
+		"quantity": 2,
+		"price": 134.4
+	},
+	{
+		"timestamp": "12-15-21 / 08:44 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "9",
+		"quantity": 3,
+		"price": 134.4
+	},
+	{
+		"timestamp": "12-15-21 / 08:04 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "12-15-21 / 07:36 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "17",
+		"quantity": 1,
+		"price": 117
+	},
+	{
+		"timestamp": "12-15-21 / 07:36 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "14",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "12-15-21 / 06:55 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "11",
+		"quantity": 1,
+		"price": 130.2
+	},
+	{
+		"timestamp": "12-15-21 / 06:02 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 3,
+		"price": 62
+	},
+	{
+		"timestamp": "12-15-21 / 05:47 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "6",
+		"quantity": 2,
+		"price": 62
+	},
+	{
+		"timestamp": "12-15-21 / 05:08 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "16",
+		"quantity": 1,
+		"price": 160
+	},
+	{
+		"timestamp": "12-15-21 / 04:38 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 340
+	},
+	{
+		"timestamp": "12-15-21 / 03:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 350
+	},
+	{
+		"timestamp": "12-15-21 / 03:07 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 82.16
+	},
+	{
+		"timestamp": "12-15-21 / 11:02 AM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "2",
+		"quantity": 8,
+		"price": 70
+	},
+	{
+		"timestamp": "12-15-21 / 07:42 AM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 2,
+		"price": 62
+	},
+	{
+		"timestamp": "12-15-21 / 02:50 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA8",
+		"quantity": 1,
+		"price": 360
+	},
+	{
+		"timestamp": "12-15-21 / 02:22 AM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "12-15-21 / 01:36 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 275
+	},
+	{
+		"timestamp": "12-15-21 / 01:03 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "4",
+		"quantity": 1,
+		"price": 67.84
+	},
+	{
+		"timestamp": "12-15-21 / 12:48 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 200
+	},
+	{
+		"timestamp": "12-14-21 / 11:47 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-14-21 / 10:42 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 215
+	},
+	{
+		"timestamp": "12-14-21 / 10:03 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "4",
+		"quantity": 1,
+		"price": 67.84
+	},
+	{
+		"timestamp": "12-14-21 / 09:32 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "11",
+		"quantity": 2,
+		"price": 134.4
+	},
+	{
+		"timestamp": "12-14-21 / 09:13 PM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "2",
+		"quantity": 3,
+		"price": 66
+	},
+	{
+		"timestamp": "12-14-21 / 08:18 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 4,
+		"price": 66.91
+	},
+	{
+		"timestamp": "12-14-21 / 08:18 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "1",
+		"quantity": 2,
+		"price": 74.63
+	},
+	{
+		"timestamp": "12-14-21 / 07:58 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 1,
+		"price": 207
+	},
+	{
+		"timestamp": "12-14-21 / 07:42 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "12-14-21 / 07:42 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 2,
+		"price": 65.92
+	},
+	{
+		"timestamp": "12-14-21 / 06:56 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "11",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "12-14-21 / 06:56 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 69.49
+	},
+	{
+		"timestamp": "12-14-21 / 05:56 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "14",
+		"quantity": 1,
+		"price": 124.15
+	},
+	{
+		"timestamp": "12-14-21 / 05:56 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 1,
+		"price": 66.91
+	},
+	{
+		"timestamp": "12-14-21 / 05:04 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "11",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "12-14-21 / 04:34 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-14-21 / 04:34 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 2,
+		"price": 67.95
+	},
+	{
+		"timestamp": "12-14-21 / 04:34 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "1",
+		"quantity": 3,
+		"price": 65.34
+	},
+	{
+		"timestamp": "12-14-21 / 03:48 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "16",
+		"quantity": 5,
+		"price": 110.63
+	},
+	{
+		"timestamp": "12-14-21 / 02:35 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 320
+	},
+	{
+		"timestamp": "12-14-21 / 01:41 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "7",
+		"quantity": 2,
+		"price": 68
+	},
+	{
+		"timestamp": "12-14-21 / 12:41 PM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "4",
+		"quantity": 2,
+		"price": 110.63
+	},
+	{
+		"timestamp": "12-14-21 / 12:41 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 1,
+		"price": 62
+	},
+	{
+		"timestamp": "12-14-21 / 12:00 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 295
+	},
+	{
+		"timestamp": "12-14-21 / 11:26 AM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "2",
+		"quantity": 1,
+		"price": 70
+	},
+	{
+		"timestamp": "12-14-21 / 10:53 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 290
+	},
+	{
+		"timestamp": "12-14-21 / 10:53 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 275
+	},
+	{
+		"timestamp": "12-14-21 / 08:49 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 278.49
+	},
+	{
+		"timestamp": "12-14-21 / 08:19 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 278.49
+	},
+	{
+		"timestamp": "12-14-21 / 07:42 AM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 3,
+		"price": 88
+	},
+	{
+		"timestamp": "12-14-21 / 05:02 AM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "2",
+		"quantity": 3,
+		"price": 70
+	},
+	{
+		"timestamp": "12-13-21 / 11:38 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "10",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "12-13-21 / 11:21 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 1,
+		"price": 71.37
+	},
+	{
+		"timestamp": "12-13-21 / 10:07 PM",
+		"zone": "Middle",
+		"section": "125",
+		"row": "7",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "12-13-21 / 09:15 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 2,
+		"price": 65.99
+	},
+	{
+		"timestamp": "12-13-21 / 09:15 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "4",
+		"quantity": 1,
+		"price": 68
+	},
+	{
+		"timestamp": "12-13-21 / 08:19 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 349
+	},
+	{
+		"timestamp": "12-13-21 / 08:19 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "4",
+		"quantity": 2,
+		"price": 68
+	},
+	{
+		"timestamp": "12-13-21 / 08:00 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "4",
+		"quantity": 5,
+		"price": 68
+	},
+	{
+		"timestamp": "12-13-21 / 07:00 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 300
+	},
+	{
+		"timestamp": "12-13-21 / 05:46 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 2,
+		"price": 65
+	},
+	{
+		"timestamp": "12-13-21 / 05:11 PM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "8",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-13-21 / 04:53 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "5",
+		"quantity": 1,
+		"price": 157.08
+	},
+	{
+		"timestamp": "12-13-21 / 02:29 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "8",
+		"quantity": 3,
+		"price": 97.65
+	},
+	{
+		"timestamp": "12-13-21 / 05:39 AM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "1",
+		"quantity": 1,
+		"price": 66.08
+	},
+	{
+		"timestamp": "12-13-21 / 01:48 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "10",
+		"quantity": 1,
+		"price": 274.56
+	},
+	{
+		"timestamp": "12-13-21 / 01:02 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "9",
+		"quantity": 2,
+		"price": 67.43
+	},
+	{
+		"timestamp": "12-12-21 / 09:38 PM",
+		"zone": "Upper",
+		"section": "221",
+		"row": "7",
+		"quantity": 1,
+		"price": 67.43
+	},
+	{
+		"timestamp": "12-12-21 / 09:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 252.66
+	},
+	{
+		"timestamp": "12-12-21 / 09:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 250
+	},
+	{
+		"timestamp": "12-12-21 / 08:14 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 2,
+		"price": 148.92
+	},
+	{
+		"timestamp": "12-12-21 / 07:57 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 2,
+		"price": 133.1
+	},
+	{
+		"timestamp": "12-12-21 / 07:57 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "3",
+		"quantity": 1,
+		"price": 72
+	},
+	{
+		"timestamp": "12-12-21 / 05:53 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 2,
+		"price": 66.33
+	},
+	{
+		"timestamp": "12-12-21 / 05:38 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "3",
+		"quantity": 3,
+		"price": 72
+	},
+	{
+		"timestamp": "12-12-21 / 03:52 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "1",
+		"quantity": 1,
+		"price": 81.42
+	},
+	{
+		"timestamp": "12-12-21 / 02:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 360
+	},
+	{
+		"timestamp": "12-12-21 / 02:56 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 70.91
+	},
+	{
+		"timestamp": "12-12-21 / 01:42 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 68.29
+	},
+	{
+		"timestamp": "12-12-21 / 12:47 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "5",
+		"quantity": 3,
+		"price": 157.08
+	},
+	{
+		"timestamp": "12-12-21 / 02:53 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 2,
+		"price": 133.1
+	},
+	{
+		"timestamp": "12-11-21 / 09:56 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "7",
+		"quantity": 2,
+		"price": 143.82
+	},
+	{
+		"timestamp": "12-11-21 / 06:48 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 1,
+		"price": 98.79
+	},
+	{
+		"timestamp": "12-11-21 / 06:02 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 3,
+		"price": 68.72
+	},
+	{
+		"timestamp": "12-11-21 / 05:27 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "10",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "12-11-21 / 12:51 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-11-21 / 12:51 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 2,
+		"price": 71.37
+	},
+	{
+		"timestamp": "12-11-21 / 11:11 AM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 71.37
+	},
+	{
+		"timestamp": "12-11-21 / 10:06 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 394
+	},
+	{
+		"timestamp": "12-11-21 / 01:26 AM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "9",
+		"quantity": 1,
+		"price": 94.99
+	},
+	{
+		"timestamp": "12-11-21 / 01:26 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 2,
+		"price": 66.57
+	},
+	{
+		"timestamp": "12-10-21 / 11:38 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "1",
+		"quantity": 1,
+		"price": 74.01
+	},
+	{
+		"timestamp": "12-10-21 / 10:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 527.1
+	},
+	{
+		"timestamp": "12-10-21 / 10:35 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 2,
+		"price": 102.59
+	},
+	{
+		"timestamp": "12-10-21 / 10:35 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 2,
+		"price": 68.57
+	},
+	{
+		"timestamp": "12-10-21 / 07:08 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "5",
+		"quantity": 2,
+		"price": 157.08
+	},
+	{
+		"timestamp": "12-10-21 / 05:02 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 3,
+		"price": 102.59
+	},
+	{
+		"timestamp": "12-10-21 / 02:46 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 1,
+		"price": 98.79
+	},
+	{
+		"timestamp": "12-10-21 / 02:22 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "7",
+		"quantity": 2,
+		"price": 143.82
+	},
+	{
+		"timestamp": "12-10-21 / 01:39 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "12-10-21 / 11:29 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 3,
+		"price": 98.79
+	},
+	{
+		"timestamp": "12-10-21 / 08:06 AM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "1",
+		"quantity": 2,
+		"price": 76.65
+	},
+	{
+		"timestamp": "12-10-21 / 12:25 AM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "9",
+		"quantity": 2,
+		"price": 94.99
+	},
+	{
+		"timestamp": "12-10-21 / 12:04 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-09-21 / 11:14 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 4,
+		"price": 81.94
+	},
+	{
+		"timestamp": "12-09-21 / 11:14 PM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 88
+	},
+	{
+		"timestamp": "12-09-21 / 10:01 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 71.37
+	},
+	{
+		"timestamp": "12-09-21 / 08:50 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 71.37
+	},
+	{
+		"timestamp": "12-09-21 / 08:07 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "1",
+		"quantity": 2,
+		"price": 68.72
+	},
+	{
+		"timestamp": "12-09-21 / 04:34 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "12-09-21 / 04:34 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "3",
+		"quantity": 2,
+		"price": 65.99
+	},
+	{
+		"timestamp": "12-09-21 / 02:26 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 4,
+		"price": 104.49
+	},
+	{
+		"timestamp": "12-09-21 / 02:26 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "12-09-21 / 11:50 AM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "1",
+		"quantity": 2,
+		"price": 435.69
+	},
+	{
+		"timestamp": "12-09-21 / 10:52 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "12-09-21 / 09:35 AM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 2,
+		"price": 70
+	},
+	{
+		"timestamp": "12-09-21 / 08:18 AM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "6",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "12-08-21 / 11:00 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 1,
+		"price": 69.95
+	},
+	{
+		"timestamp": "12-08-21 / 10:23 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "3",
+		"quantity": 1,
+		"price": 69.95
+	},
+	{
+		"timestamp": "12-08-21 / 09:25 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "16",
+		"quantity": 1,
+		"price": 200
+	},
+	{
+		"timestamp": "12-08-21 / 08:36 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 66.08
+	},
+	{
+		"timestamp": "12-08-21 / 07:53 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 2,
+		"price": 66.08
+	},
+	{
+		"timestamp": "12-08-21 / 07:35 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 3,
+		"price": 145.86
+	},
+	{
+		"timestamp": "12-08-21 / 07:35 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 1,
+		"price": 66.08
+	},
+	{
+		"timestamp": "12-08-21 / 07:35 PM",
+		"zone": "Upper",
+		"section": "225",
+		"row": "1",
+		"quantity": 1,
+		"price": 92.51
+	},
+	{
+		"timestamp": "12-08-21 / 03:56 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "1",
+		"quantity": 2,
+		"price": 68.25
+	},
+	{
+		"timestamp": "12-08-21 / 01:44 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "3",
+		"quantity": 2,
+		"price": 72
+	},
+	{
+		"timestamp": "12-08-21 / 12:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 420
+	},
+	{
+		"timestamp": "12-08-21 / 12:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 355
+	},
+	{
+		"timestamp": "12-08-21 / 11:16 AM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 5,
+		"price": 145.86
+	},
+	{
+		"timestamp": "12-08-21 / 08:24 AM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "1",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "12-08-21 / 01:38 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "8",
+		"quantity": 1,
+		"price": 105
+	},
+	{
+		"timestamp": "12-07-21 / 11:45 PM",
+		"zone": "Upper",
+		"section": "210",
+		"row": "1",
+		"quantity": 2,
+		"price": 48.53
+	},
+	{
+		"timestamp": "12-07-21 / 11:29 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "8",
+		"quantity": 3,
+		"price": 113
+	},
+	{
+		"timestamp": "12-07-21 / 11:04 PM",
+		"zone": "Upper",
+		"section": "207",
+		"row": "6",
+		"quantity": 2,
+		"price": 48.53
+	},
+	{
+		"timestamp": "12-07-21 / 10:04 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "1",
+		"quantity": 2,
+		"price": 349
+	},
+	{
+		"timestamp": "12-07-21 / 09:27 PM",
+		"zone": "Upper",
+		"section": "209",
+		"row": "1",
+		"quantity": 2,
+		"price": 59.99
+	},
+	{
+		"timestamp": "12-07-21 / 07:41 PM",
+		"zone": "Upper",
+		"section": "222",
+		"row": "2",
+		"quantity": 2,
+		"price": 48.53
+	},
+	{
+		"timestamp": "12-07-21 / 05:53 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "8",
+		"quantity": 3,
+		"price": 113
+	},
+	{
+		"timestamp": "12-07-21 / 05:35 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "6",
+		"quantity": 3,
+		"price": 126
+	},
+	{
+		"timestamp": "12-07-21 / 12:52 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "10",
+		"quantity": 4,
+		"price": 219
+	},
+	{
+		"timestamp": "12-07-21 / 01:22 AM",
+		"zone": "Upper",
+		"section": "223",
+		"row": "1",
+		"quantity": 2,
+		"price": 91
+	},
+	{
+		"timestamp": "12-06-21 / 09:02 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 1,
+		"price": 70
+	},
+	{
+		"timestamp": "12-06-21 / 08:15 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 1,
+		"price": 212
+	},
+	{
+		"timestamp": "12-06-21 / 07:04 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 380
+	},
+	{
+		"timestamp": "12-06-21 / 05:36 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "4",
+		"quantity": 1,
+		"price": 70
+	},
+	{
+		"timestamp": "12-06-21 / 03:36 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 395
+	},
+	{
+		"timestamp": "12-05-21 / 11:20 PM",
+		"zone": "Middle",
+		"section": "126",
+		"row": "9",
+		"quantity": 1,
+		"price": 81.14
+	},
+	{
+		"timestamp": "12-05-21 / 08:58 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "12",
+		"quantity": 6,
+		"price": 74.99
+	},
+	{
+		"timestamp": "12-05-21 / 07:40 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "12",
+		"quantity": 2,
+		"price": 193.75
+	},
+	{
+		"timestamp": "12-05-21 / 06:59 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 70.99
+	},
+	{
+		"timestamp": "12-05-21 / 04:08 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 3,
+		"price": 70.99
+	},
+	{
+		"timestamp": "12-05-21 / 08:43 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "6",
+		"quantity": 1,
+		"price": 138.6
+	},
+	{
+		"timestamp": "12-05-21 / 01:47 AM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "5",
+		"quantity": 2,
+		"price": 124
+	},
+	{
+		"timestamp": "12-05-21 / 01:12 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "9",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "12-05-21 / 01:12 AM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "12-04-21 / 11:44 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "12-04-21 / 08:02 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 70.99
+	},
+	{
+		"timestamp": "12-04-21 / 06:29 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 1,
+		"price": 73.12
+	},
+	{
+		"timestamp": "12-04-21 / 03:53 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "6",
+		"quantity": 5,
+		"price": 137.5
+	},
+	{
+		"timestamp": "12-04-21 / 02:53 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 2,
+		"price": 132
+	},
+	{
+		"timestamp": "12-04-21 / 02:10 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 1,
+		"price": 121
+	},
+	{
+		"timestamp": "12-04-21 / 01:51 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 1,
+		"price": 121
+	},
+	{
+		"timestamp": "12-04-21 / 01:31 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 2,
+		"price": 121
+	},
+	{
+		"timestamp": "12-04-21 / 09:56 AM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "1",
+		"quantity": 2,
+		"price": 87.55
+	},
+	{
+		"timestamp": "12-04-21 / 03:26 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "12",
+		"quantity": 1,
+		"price": 145
+	},
+	{
+		"timestamp": "12-04-21 / 02:00 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "12",
+		"quantity": 2,
+		"price": 185.75
+	},
+	{
+		"timestamp": "12-03-21 / 11:53 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 3,
+		"price": 70.99
+	},
+	{
+		"timestamp": "12-03-21 / 09:40 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 1,
+		"price": 128.7
+	},
+	{
+		"timestamp": "12-03-21 / 08:48 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 1,
+		"price": 115
+	},
+	{
+		"timestamp": "12-03-21 / 05:50 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "20",
+		"quantity": 2,
+		"price": 140.99
+	},
+	{
+		"timestamp": "12-03-21 / 05:01 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 1,
+		"price": 117.7
+	},
+	{
+		"timestamp": "12-03-21 / 01:57 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "8",
+		"quantity": 2,
+		"price": 109
+	},
+	{
+		"timestamp": "12-03-21 / 01:57 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "1",
+		"quantity": 6,
+		"price": 94.5
+	},
+	{
+		"timestamp": "12-03-21 / 12:36 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 2,
+		"price": 119
+	},
+	{
+		"timestamp": "12-03-21 / 05:04 AM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 1,
+		"price": 70.99
+	},
+	{
+		"timestamp": "12-02-21 / 11:57 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "16",
+		"quantity": 2,
+		"price": 189
+	},
+	{
+		"timestamp": "12-02-21 / 11:17 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 380
+	},
+	{
+		"timestamp": "12-02-21 / 07:36 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 2,
+		"price": 119
+	},
+	{
+		"timestamp": "12-02-21 / 12:57 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "19",
+		"quantity": 2,
+		"price": 150.99
+	},
+	{
+		"timestamp": "12-02-21 / 12:57 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "11",
+		"quantity": 1,
+		"price": 225
+	},
+	{
+		"timestamp": "12-02-21 / 11:34 AM",
+		"zone": "Lower",
+		"section": "13",
+		"row": "18",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "12-01-21 / 11:56 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 4,
+		"price": 117.7
+	},
+	{
+		"timestamp": "12-01-21 / 11:18 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "3",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "12-01-21 / 10:36 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 2,
+		"price": 265.99
+	},
+	{
+		"timestamp": "12-01-21 / 09:46 PM",
+		"zone": "Middle",
+		"section": "111",
+		"row": "7",
+		"quantity": 3,
+		"price": 115
+	},
+	{
+		"timestamp": "12-01-21 / 05:12 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "10",
+		"quantity": 3,
+		"price": 106.4
+	},
+	{
+		"timestamp": "11-30-21 / 11:24 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 70.99
+	},
+	{
+		"timestamp": "11-30-21 / 09:58 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 1,
+		"price": 359.49
+	},
+	{
+		"timestamp": "11-30-21 / 09:20 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "20",
+		"quantity": 1,
+		"price": 149.59
+	},
+	{
+		"timestamp": "11-30-21 / 05:57 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 354.99
+	},
+	{
+		"timestamp": "11-30-21 / 05:22 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 390.49
+	},
+	{
+		"timestamp": "11-30-21 / 02:43 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 1,
+		"price": 580
+	},
+	{
+		"timestamp": "11-30-21 / 09:33 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 3,
+		"price": 123.2
+	},
+	{
+		"timestamp": "11-30-21 / 02:20 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 580
+	},
+	{
+		"timestamp": "11-30-21 / 01:09 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "7",
+		"quantity": 1,
+		"price": 117.7
+	},
+	{
+		"timestamp": "11-29-21 / 09:57 PM",
+		"zone": "Upper",
+		"section": "214",
+		"row": "2",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "11-29-21 / 05:39 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 1,
+		"price": 102.45
+	},
+	{
+		"timestamp": "11-29-21 / 04:44 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 2,
+		"price": 93.99
+	},
+	{
+		"timestamp": "11-29-21 / 04:44 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 74.54
+	},
+	{
+		"timestamp": "11-29-21 / 02:51 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "11-29-21 / 01:53 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 2,
+		"price": 102.45
+	},
+	{
+		"timestamp": "11-29-21 / 10:38 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 3,
+		"price": 134.2
+	},
+	{
+		"timestamp": "11-29-21 / 01:33 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "7",
+		"quantity": 3,
+		"price": 112.2
+	},
+	{
+		"timestamp": "11-29-21 / 12:52 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "11-28-21 / 09:59 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "13",
+		"quantity": 5,
+		"price": 84.45
+	},
+	{
+		"timestamp": "11-28-21 / 09:18 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 70.99
+	},
+	{
+		"timestamp": "11-28-21 / 07:52 PM",
+		"zone": "Middle",
+		"section": "114",
+		"row": "9",
+		"quantity": 4,
+		"price": 96.81
+	},
+	{
+		"timestamp": "11-28-21 / 06:52 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 1,
+		"price": 123.2
+	},
+	{
+		"timestamp": "11-28-21 / 11:12 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "2",
+		"quantity": 2,
+		"price": 330
+	},
+	{
+		"timestamp": "11-28-21 / 01:28 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "7",
+		"quantity": 1,
+		"price": 112.2
+	},
+	{
+		"timestamp": "11-28-21 / 01:28 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "8",
+		"quantity": 2,
+		"price": 104.16
+	},
+	{
+		"timestamp": "11-28-21 / 12:39 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 400
+	},
+	{
+		"timestamp": "11-27-21 / 05:36 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 450
+	},
+	{
+		"timestamp": "11-27-21 / 04:47 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 445
+	},
+	{
+		"timestamp": "11-27-21 / 04:47 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "9",
+		"quantity": 1,
+		"price": 102.45
+	},
+	{
+		"timestamp": "11-27-21 / 04:47 PM",
+		"zone": "Upper",
+		"section": "217",
+		"row": "1",
+		"quantity": 2,
+		"price": 87.55
+	},
+	{
+		"timestamp": "11-27-21 / 03:02 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "9",
+		"quantity": 2,
+		"price": 93.99
+	},
+	{
+		"timestamp": "11-26-21 / 07:48 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "6",
+		"quantity": 2,
+		"price": 154
+	},
+	{
+		"timestamp": "11-26-21 / 04:46 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "6",
+		"quantity": 2,
+		"price": 129
+	},
+	{
+		"timestamp": "11-26-21 / 04:46 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 2,
+		"price": 71.99
+	},
+	{
+		"timestamp": "11-26-21 / 01:56 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "9",
+		"quantity": 2,
+		"price": 99.68
+	},
+	{
+		"timestamp": "11-26-21 / 05:35 AM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "9",
+		"quantity": 1,
+		"price": 99.68
+	},
+	{
+		"timestamp": "11-25-21 / 12:27 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 400
+	},
+	{
+		"timestamp": "11-25-21 / 12:02 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "20",
+		"quantity": 1,
+		"price": 179.9
+	},
+	{
+		"timestamp": "11-24-21 / 11:36 PM",
+		"zone": "Upper",
+		"section": "215",
+		"row": "2",
+		"quantity": 2,
+		"price": 72.99
+	},
+	{
+		"timestamp": "11-24-21 / 09:12 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "8",
+		"quantity": 1,
+		"price": 104.16
+	},
+	{
+		"timestamp": "11-24-21 / 04:18 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 4,
+		"price": 274.99
+	},
+	{
+		"timestamp": "11-24-21 / 04:18 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "7",
+		"quantity": 4,
+		"price": 129
+	},
+	{
+		"timestamp": "11-24-21 / 02:38 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "8",
+		"quantity": 5,
+		"price": 99
+	},
+	{
+		"timestamp": "11-24-21 / 02:00 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 1,
+		"price": 71.99
+	},
+	{
+		"timestamp": "11-24-21 / 01:35 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "17",
+		"quantity": 2,
+		"price": 180
+	},
+	{
+		"timestamp": "11-24-21 / 10:12 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "18",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "11-23-21 / 08:03 PM",
+		"zone": "Middle",
+		"section": "121",
+		"row": "8",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "11-23-21 / 05:07 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 400
+	},
+	{
+		"timestamp": "11-23-21 / 05:07 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "17",
+		"quantity": 2,
+		"price": 152.46
+	},
+	{
+		"timestamp": "11-23-21 / 04:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 4,
+		"price": 799
+	},
+	{
+		"timestamp": "11-22-21 / 08:27 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "7",
+		"quantity": 4,
+		"price": 199
+	},
+	{
+		"timestamp": "11-20-21 / 10:31 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 3,
+		"price": 74.99
+	},
+	{
+		"timestamp": "11-19-21 / 06:56 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 2,
+		"price": 74.99
+	},
+	{
+		"timestamp": "11-18-21 / 04:45 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "4",
+		"quantity": 2,
+		"price": 258.81
+	},
+	{
+		"timestamp": "11-18-21 / 09:49 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 525
+	},
+	{
+		"timestamp": "11-17-21 / 05:44 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 2,
+		"price": 82
+	},
+	{
+		"timestamp": "11-16-21 / 11:48 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 530
+	},
+	{
+		"timestamp": "11-16-21 / 11:48 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "4",
+		"quantity": 2,
+		"price": 125
+	},
+	{
+		"timestamp": "11-15-21 / 10:49 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "1",
+		"quantity": 1,
+		"price": 250
+	},
+	{
+		"timestamp": "11-15-21 / 05:37 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 450
+	},
+	{
+		"timestamp": "11-15-21 / 05:37 PM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "9",
+		"quantity": 1,
+		"price": 99
+	},
+	{
+		"timestamp": "11-15-21 / 02:19 PM",
+		"zone": "Upper",
+		"section": "212",
+		"row": "13",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "11-14-21 / 11:12 PM",
+		"zone": "Middle",
+		"section": "107",
+		"row": "8",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "11-14-21 / 09:58 PM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "13",
+		"quantity": 2,
+		"price": 190
+	},
+	{
+		"timestamp": "11-14-21 / 07:40 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "11-14-21 / 05:50 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 1,
+		"price": 126.5
+	},
+	{
+		"timestamp": "11-14-21 / 01:15 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "4",
+		"quantity": 2,
+		"price": 179.03
+	},
+	{
+		"timestamp": "11-14-21 / 12:40 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "16",
+		"quantity": 3,
+		"price": 180
+	},
+	{
+		"timestamp": "11-14-21 / 12:40 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "17",
+		"quantity": 2,
+		"price": 120
+	},
+	{
+		"timestamp": "11-14-21 / 08:51 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "8",
+		"quantity": 2,
+		"price": 91.75
+	},
+	{
+		"timestamp": "11-13-21 / 11:45 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "11-13-21 / 09:32 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA0",
+		"quantity": 1,
+		"price": 437.75
+	},
+	{
+		"timestamp": "11-13-21 / 04:49 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 425
+	},
+	{
+		"timestamp": "11-13-21 / 04:49 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "8",
+		"quantity": 2,
+		"price": 176
+	},
+	{
+		"timestamp": "11-13-21 / 03:44 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 4,
+		"price": 205
+	},
+	{
+		"timestamp": "11-13-21 / 03:10 PM",
+		"zone": "Lower",
+		"section": "10",
+		"row": "4",
+		"quantity": 2,
+		"price": 118.55
+	},
+	{
+		"timestamp": "11-13-21 / 12:51 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "11-13-21 / 12:16 PM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "8",
+		"quantity": 2,
+		"price": 91.75
+	},
+	{
+		"timestamp": "11-13-21 / 11:01 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 600
+	},
+	{
+		"timestamp": "11-12-21 / 08:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 354
+	},
+	{
+		"timestamp": "11-12-21 / 07:17 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "10",
+		"quantity": 1,
+		"price": 180
+	},
+	{
+		"timestamp": "11-12-21 / 03:38 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 5,
+		"price": 175
+	},
+	{
+		"timestamp": "11-12-21 / 02:55 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 500
+	},
+	{
+		"timestamp": "11-12-21 / 01:38 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "8",
+		"quantity": 3,
+		"price": 182
+	},
+	{
+		"timestamp": "11-12-21 / 11:07 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 450
+	},
+	{
+		"timestamp": "11-12-21 / 10:28 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "6",
+		"quantity": 2,
+		"price": 167
+	},
+	{
+		"timestamp": "11-12-21 / 12:12 AM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "12",
+		"quantity": 1,
+		"price": 173
+	},
+	{
+		"timestamp": "11-11-21 / 11:39 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "6",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "11-11-21 / 09:35 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 370
+	},
+	{
+		"timestamp": "11-11-21 / 08:13 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 370
+	},
+	{
+		"timestamp": "11-11-21 / 07:40 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "11-11-21 / 07:40 PM",
+		"zone": "Middle",
+		"section": "118",
+		"row": "7",
+		"quantity": 2,
+		"price": 115.5
+	},
+	{
+		"timestamp": "11-11-21 / 03:52 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 1,
+		"price": 175
+	},
+	{
+		"timestamp": "11-11-21 / 02:48 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 400
+	},
+	{
+		"timestamp": "11-11-21 / 01:36 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 370
+	},
+	{
+		"timestamp": "11-11-21 / 12:20 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 374
+	},
+	{
+		"timestamp": "11-11-21 / 12:20 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "11-11-21 / 09:57 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 4,
+		"price": 115.5
+	},
+	{
+		"timestamp": "11-11-21 / 09:26 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 450
+	},
+	{
+		"timestamp": "11-10-21 / 10:36 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "12",
+		"quantity": 2,
+		"price": 148.41
+	},
+	{
+		"timestamp": "11-10-21 / 08:52 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 4,
+		"price": 157
+	},
+	{
+		"timestamp": "11-10-21 / 06:44 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 1,
+		"price": 205
+	},
+	{
+		"timestamp": "11-10-21 / 04:23 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "6",
+		"quantity": 3,
+		"price": 126.5
+	},
+	{
+		"timestamp": "11-10-21 / 02:15 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "1",
+		"quantity": 2,
+		"price": 140
+	},
+	{
+		"timestamp": "11-10-21 / 10:16 AM",
+		"zone": "Middle",
+		"section": "112",
+		"row": "7",
+		"quantity": 2,
+		"price": 115.5
+	},
+	{
+		"timestamp": "11-09-21 / 11:43 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "6",
+		"quantity": 1,
+		"price": 150
+	},
+	{
+		"timestamp": "11-09-21 / 09:28 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 2,
+		"price": 205
+	},
+	{
+		"timestamp": "11-09-21 / 08:21 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "4",
+		"quantity": 2,
+		"price": 185
+	},
+	{
+		"timestamp": "11-09-21 / 06:28 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "12",
+		"quantity": 5,
+		"price": 205
+	},
+	{
+		"timestamp": "11-09-21 / 05:46 PM",
+		"zone": "Lower",
+		"section": "9",
+		"row": "17",
+		"quantity": 2,
+		"price": 113
+	},
+	{
+		"timestamp": "11-09-21 / 12:52 AM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 3,
+		"price": 175
+	},
+	{
+		"timestamp": "11-08-21 / 01:48 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "7",
+		"quantity": 2,
+		"price": 187
+	},
+	{
+		"timestamp": "11-08-21 / 11:48 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 450
+	},
+	{
+		"timestamp": "11-08-21 / 10:17 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 450
+	},
+	{
+		"timestamp": "11-08-21 / 10:17 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "8",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "11-07-21 / 03:45 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 1,
+		"price": 175
+	},
+	{
+		"timestamp": "11-07-21 / 12:44 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "11-07-21 / 11:06 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 400
+	},
+	{
+		"timestamp": "11-06-21 / 05:47 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "2",
+		"quantity": 2,
+		"price": 98
+	},
+	{
+		"timestamp": "11-06-21 / 04:40 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "11-06-21 / 12:07 PM",
+		"zone": "Upper",
+		"section": "220",
+		"row": "2",
+		"quantity": 2,
+		"price": 98
+	},
+	{
+		"timestamp": "11-04-21 / 07:49 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "12",
+		"quantity": 2,
+		"price": 175
+	},
+	{
+		"timestamp": "11-04-21 / 04:05 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "13",
+		"quantity": 2,
+		"price": 139.7
+	},
+	{
+		"timestamp": "11-03-21 / 06:16 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "8",
+		"quantity": 1,
+		"price": 186
+	},
+	{
+		"timestamp": "11-01-21 / 08:58 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 340
+	},
+	{
+		"timestamp": "11-01-21 / 07:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 5,
+		"price": 460
+	},
+	{
+		"timestamp": "11-01-21 / 05:59 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 2,
+		"price": 148
+	},
+	{
+		"timestamp": "11-01-21 / 05:33 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "15",
+		"quantity": 2,
+		"price": 160
+	},
+	{
+		"timestamp": "11-01-21 / 01:02 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "1",
+		"quantity": 1,
+		"price": 384.99
+	},
+	{
+		"timestamp": "11-01-21 / 12:01 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 4,
+		"price": 156
+	},
+	{
+		"timestamp": "11-01-21 / 12:01 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "14",
+		"quantity": 4,
+		"price": 165
+	},
+	{
+		"timestamp": "11-01-21 / 12:01 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 4,
+		"price": 175
+	},
+	{
+		"timestamp": "11-01-21 / 12:01 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "15",
+		"quantity": 8,
+		"price": 160
+	},
+	{
+		"timestamp": "11-01-21 / 01:07 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 340
+	},
+	{
+		"timestamp": "10-31-21 / 01:04 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 345
+	},
+	{
+		"timestamp": "10-30-21 / 08:59 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "5",
+		"quantity": 2,
+		"price": 189.41
+	},
+	{
+		"timestamp": "10-30-21 / 06:27 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 345
+	},
+	{
+		"timestamp": "10-30-21 / 05:29 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 1,
+		"price": 147
+	},
+	{
+		"timestamp": "10-30-21 / 02:22 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 310
+	},
+	{
+		"timestamp": "10-30-21 / 10:48 AM",
+		"zone": "Middle",
+		"section": "117",
+		"row": "6",
+		"quantity": 3,
+		"price": 112
+	},
+	{
+		"timestamp": "10-29-21 / 11:55 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 346
+	},
+	{
+		"timestamp": "10-29-21 / 08:47 PM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "13",
+		"quantity": 3,
+		"price": 138.6
+	},
+	{
+		"timestamp": "10-28-21 / 07:33 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "19",
+		"quantity": 2,
+		"price": 120.3
+	},
+	{
+		"timestamp": "10-28-21 / 01:01 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "19",
+		"quantity": 2,
+		"price": 120.3
+	},
+	{
+		"timestamp": "10-27-21 / 04:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 300
+	},
+	{
+		"timestamp": "10-27-21 / 11:57 AM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "12",
+		"quantity": 1,
+		"price": 81
+	},
+	{
+		"timestamp": "10-27-21 / 12:57 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 299.99
+	},
+	{
+		"timestamp": "10-26-21 / 11:32 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 296
+	},
+	{
+		"timestamp": "10-26-21 / 10:07 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 3,
+		"price": 147
+	},
+	{
+		"timestamp": "10-26-21 / 08:46 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "4",
+		"quantity": 2,
+		"price": 110
+	},
+	{
+		"timestamp": "10-26-21 / 06:54 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "4",
+		"quantity": 2,
+		"price": 185
+	},
+	{
+		"timestamp": "10-26-21 / 06:29 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 196
+	},
+	{
+		"timestamp": "10-25-21 / 09:40 AM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "12",
+		"quantity": 1,
+		"price": 81
+	},
+	{
+		"timestamp": "10-24-21 / 08:25 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 299.99
+	},
+	{
+		"timestamp": "10-24-21 / 02:58 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "18",
+		"quantity": 1,
+		"price": 175
+	},
+	{
+		"timestamp": "10-24-21 / 12:25 AM",
+		"zone": "Lower",
+		"section": "20",
+		"row": "13",
+		"quantity": 1,
+		"price": 138.6
+	},
+	{
+		"timestamp": "10-23-21 / 01:44 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "1",
+		"quantity": 1,
+		"price": 302.99
+	},
+	{
+		"timestamp": "10-22-21 / 07:54 PM",
+		"zone": "Middle",
+		"section": "108",
+		"row": "8",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "10-21-21 / 11:26 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 296
+	},
+	{
+		"timestamp": "10-21-21 / 10:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 270
+	},
+	{
+		"timestamp": "10-21-21 / 08:19 PM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "13",
+		"quantity": 2,
+		"price": 132
+	},
+	{
+		"timestamp": "10-21-21 / 04:37 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "9",
+		"quantity": 5,
+		"price": 189
+	},
+	{
+		"timestamp": "10-20-21 / 09:48 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "13",
+		"quantity": 2,
+		"price": 132
+	},
+	{
+		"timestamp": "10-19-21 / 12:25 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "17",
+		"quantity": 2,
+		"price": 147
+	},
+	{
+		"timestamp": "10-18-21 / 09:40 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 250
+	},
+	{
+		"timestamp": "10-18-21 / 05:30 PM",
+		"zone": "Lower",
+		"section": "8",
+		"row": "9",
+		"quantity": 3,
+		"price": 189
+	},
+	{
+		"timestamp": "10-17-21 / 01:56 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 289.99
+	},
+	{
+		"timestamp": "10-16-21 / 06:57 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "18",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "10-16-21 / 03:20 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "18",
+		"quantity": 1,
+		"price": 150
+	},
+	{
+		"timestamp": "10-16-21 / 01:30 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 266
+	},
+	{
+		"timestamp": "10-16-21 / 12:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 266
+	},
+	{
+		"timestamp": "10-16-21 / 03:28 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 295
+	},
+	{
+		"timestamp": "10-15-21 / 03:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 295
+	},
+	{
+		"timestamp": "10-15-21 / 12:49 PM",
+		"zone": "Upper",
+		"section": "219",
+		"row": "12",
+		"quantity": 2,
+		"price": 81
+	},
+	{
+		"timestamp": "10-15-21 / 08:35 AM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "18",
+		"quantity": 3,
+		"price": 150
+	},
+	{
+		"timestamp": "10-14-21 / 01:20 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 295
+	},
+	{
+		"timestamp": "10-13-21 / 01:49 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "13",
+		"quantity": 2,
+		"price": 117.3
+	},
+	{
+		"timestamp": "10-13-21 / 11:22 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 299.99
+	},
+	{
+		"timestamp": "10-10-21 / 09:16 PM",
+		"zone": "Middle",
+		"section": "115",
+		"row": "4",
+		"quantity": 4,
+		"price": 115.5
+	},
+	{
+		"timestamp": "10-07-21 / 05:37 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 279
+	},
+	{
+		"timestamp": "10-06-21 / 10:35 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 257.33
+	},
+	{
+		"timestamp": "10-05-21 / 11:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 253
+	},
+	{
+		"timestamp": "10-05-21 / 09:55 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 253
+	},
+	{
+		"timestamp": "10-02-21 / 11:37 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 252
+	},
+	{
+		"timestamp": "10-02-21 / 07:31 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-30-21 / 09:39 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "4",
+		"quantity": 1,
+		"price": 217
+	},
+	{
+		"timestamp": "09-30-21 / 06:56 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "12",
+		"quantity": 1,
+		"price": 117
+	},
+	{
+		"timestamp": "09-30-21 / 12:01 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "09-29-21 / 11:56 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "4",
+		"quantity": 2,
+		"price": 157
+	},
+	{
+		"timestamp": "09-27-21 / 07:09 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 222.5
+	},
+	{
+		"timestamp": "09-27-21 / 12:24 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 222.5
+	},
+	{
+		"timestamp": "09-27-21 / 12:24 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "14",
+		"quantity": 1,
+		"price": 113
+	},
+	{
+		"timestamp": "09-25-21 / 12:16 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 248
+	},
+	{
+		"timestamp": "09-24-21 / 12:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 222.5
+	},
+	{
+		"timestamp": "09-22-21 / 09:51 PM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "2",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "09-21-21 / 12:03 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 289.99
+	},
+	{
+		"timestamp": "09-21-21 / 02:08 AM",
+		"zone": "Lower",
+		"section": "12",
+		"row": "17",
+		"quantity": 1,
+		"price": 116.31
+	},
+	{
+		"timestamp": "09-20-21 / 10:41 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 289.99
+	},
+	{
+		"timestamp": "09-17-21 / 12:35 PM",
+		"zone": "Lower",
+		"section": "25",
+		"row": "9",
+		"quantity": 2,
+		"price": 161
+	},
+	{
+		"timestamp": "09-16-21 / 07:25 PM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "4",
+		"quantity": 1,
+		"price": 157
+	},
+	{
+		"timestamp": "09-15-21 / 10:08 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 255
+	},
+	{
+		"timestamp": "09-15-21 / 03:35 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 250
+	},
+	{
+		"timestamp": "09-12-21 / 11:36 PM",
+		"zone": "Lower",
+		"section": "26",
+		"row": "5",
+		"quantity": 1,
+		"price": 250
+	},
+	{
+		"timestamp": "09-12-21 / 03:21 AM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "12",
+		"quantity": 1,
+		"price": 81.4
+	},
+	{
+		"timestamp": "09-11-21 / 07:22 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 1,
+		"price": 350
+	},
+	{
+		"timestamp": "09-11-21 / 04:12 AM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "15",
+		"quantity": 1,
+		"price": 114
+	},
+	{
+		"timestamp": "09-10-21 / 01:28 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 260
+	},
+	{
+		"timestamp": "09-09-21 / 06:53 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "12",
+		"quantity": 1,
+		"price": 81.4
+	},
+	{
+		"timestamp": "09-08-21 / 10:26 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 250
+	},
+	{
+		"timestamp": "09-08-21 / 04:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 285
+	},
+	{
+		"timestamp": "09-08-21 / 04:35 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 285
+	},
+	{
+		"timestamp": "09-08-21 / 03:41 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "17",
+		"quantity": 1,
+		"price": 118
+	},
+	{
+		"timestamp": "09-08-21 / 01:34 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "12",
+		"quantity": 1,
+		"price": 81.4
+	},
+	{
+		"timestamp": "09-07-21 / 11:01 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 2,
+		"price": 275
+	},
+	{
+		"timestamp": "09-07-21 / 08:25 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 285
+	},
+	{
+		"timestamp": "09-06-21 / 09:21 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 2,
+		"price": 245
+	},
+	{
+		"timestamp": "09-06-21 / 07:11 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 240
+	},
+	{
+		"timestamp": "09-05-21 / 11:41 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "14",
+		"quantity": 1,
+		"price": 113
+	},
+	{
+		"timestamp": "09-05-21 / 07:15 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "17",
+		"quantity": 3,
+		"price": 109
+	},
+	{
+		"timestamp": "09-05-21 / 06:25 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "15",
+		"quantity": 1,
+		"price": 114
+	},
+	{
+		"timestamp": "09-05-21 / 04:38 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 1,
+		"price": 225
+	},
+	{
+		"timestamp": "09-05-21 / 04:15 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 227.25
+	},
+	{
+		"timestamp": "09-05-21 / 03:47 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 2,
+		"price": 225
+	},
+	{
+		"timestamp": "09-05-21 / 03:47 PM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "12",
+		"quantity": 1,
+		"price": 82.5
+	},
+	{
+		"timestamp": "09-05-21 / 08:44 AM",
+		"zone": "Upper",
+		"section": "218",
+		"row": "12",
+		"quantity": 2,
+		"price": 82.5
+	},
+	{
+		"timestamp": "09-05-21 / 12:49 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 225
+	},
+	{
+		"timestamp": "09-05-21 / 12:49 AM",
+		"zone": "Lower",
+		"section": "22",
+		"row": "13",
+		"quantity": 2,
+		"price": 137.5
+	},
+	{
+		"timestamp": "09-04-21 / 07:14 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-04-21 / 07:14 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "17",
+		"quantity": 1,
+		"price": 118
+	},
+	{
+		"timestamp": "09-04-21 / 05:49 PM",
+		"zone": "Lower",
+		"section": "6",
+		"row": "19",
+		"quantity": 2,
+		"price": 145.45
+	},
+	{
+		"timestamp": "09-03-21 / 11:40 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-03-21 / 10:17 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-03-21 / 10:17 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 219
+	},
+	{
+		"timestamp": "09-03-21 / 07:28 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "10",
+		"quantity": 1,
+		"price": 189
+	},
+	{
+		"timestamp": "09-03-21 / 06:01 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 190.03
+	},
+	{
+		"timestamp": "09-03-21 / 06:01 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 2,
+		"price": 219
+	},
+	{
+		"timestamp": "09-03-21 / 03:15 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA8",
+		"quantity": 2,
+		"price": 210
+	},
+	{
+		"timestamp": "09-03-21 / 03:15 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "14",
+		"quantity": 2,
+		"price": 95
+	},
+	{
+		"timestamp": "09-03-21 / 02:47 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA8",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-03-21 / 09:37 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA8",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-03-21 / 02:49 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA8",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-02-21 / 10:35 PM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "1",
+		"quantity": 4,
+		"price": 115.5
+	},
+	{
+		"timestamp": "09-02-21 / 09:34 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 220
+	},
+	{
+		"timestamp": "09-02-21 / 09:00 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 200
+	},
+	{
+		"timestamp": "09-02-21 / 08:30 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "12",
+		"quantity": 1,
+		"price": 118
+	},
+	{
+		"timestamp": "09-02-21 / 07:59 PM",
+		"zone": "Lower",
+		"section": "16",
+		"row": "12",
+		"quantity": 2,
+		"price": 118
+	},
+	{
+		"timestamp": "09-02-21 / 06:33 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA7",
+		"quantity": 4,
+		"price": 215
+	},
+	{
+		"timestamp": "09-02-21 / 04:58 PM",
+		"zone": "Lower",
+		"section": "24",
+		"row": "10",
+		"quantity": 1,
+		"price": 165
+	},
+	{
+		"timestamp": "09-02-21 / 04:30 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 1,
+		"price": 210
+	},
+	{
+		"timestamp": "09-02-21 / 04:30 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 212
+	},
+	{
+		"timestamp": "09-02-21 / 03:32 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 210
+	},
+	{
+		"timestamp": "09-02-21 / 02:34 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA4",
+		"quantity": 1,
+		"price": 220
+	},
+	{
+		"timestamp": "09-02-21 / 01:59 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 214
+	},
+	{
+		"timestamp": "09-02-21 / 01:33 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 2,
+		"price": 224
+	},
+	{
+		"timestamp": "09-02-21 / 01:33 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 2,
+		"price": 360
+	},
+	{
+		"timestamp": "09-02-21 / 01:33 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA5",
+		"quantity": 1,
+		"price": 215
+	},
+	{
+		"timestamp": "09-02-21 / 12:59 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "17",
+		"quantity": 1,
+		"price": 109
+	},
+	{
+		"timestamp": "09-02-21 / 12:30 PM",
+		"zone": "Lower",
+		"section": "17",
+		"row": "10",
+		"quantity": 1,
+		"price": 124
+	},
+	{
+		"timestamp": "09-02-21 / 11:33 AM",
+		"zone": "Lower",
+		"section": "23",
+		"row": "18",
+		"quantity": 3,
+		"price": 132
+	},
+	{
+		"timestamp": "09-02-21 / 11:02 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 1,
+		"price": 244
+	},
+	{
+		"timestamp": "09-02-21 / 11:02 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 244
+	},
+	{
+		"timestamp": "09-02-21 / 11:02 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 355
+	},
+	{
+		"timestamp": "09-02-21 / 11:02 AM",
+		"zone": "Middle",
+		"section": "120",
+		"row": "1",
+		"quantity": 2,
+		"price": 115.5
+	},
+	{
+		"timestamp": "09-02-21 / 10:37 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 300
+	},
+	{
+		"timestamp": "09-02-21 / 08:24 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 4,
+		"price": 223.4
+	},
+	{
+		"timestamp": "09-02-21 / 12:57 AM",
+		"zone": "Lower",
+		"section": "7",
+		"row": "4",
+		"quantity": 3,
+		"price": 199
+	},
+	{
+		"timestamp": "09-02-21 / 12:32 AM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 224
+	},
+	{
+		"timestamp": "09-01-21 / 11:02 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "12",
+		"quantity": 1,
+		"price": 125
+	},
+	{
+		"timestamp": "09-01-21 / 09:00 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA9",
+		"quantity": 2,
+		"price": 222
+	},
+	{
+		"timestamp": "09-01-21 / 09:00 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "12",
+		"quantity": 3,
+		"price": 114
+	},
+	{
+		"timestamp": "09-01-21 / 07:02 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA1",
+		"quantity": 1,
+		"price": 240
+	},
+	{
+		"timestamp": "09-01-21 / 06:05 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA",
+		"quantity": 5,
+		"price": 185
+	},
+	{
+		"timestamp": "09-01-21 / 05:06 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 209
+	},
+	{
+		"timestamp": "09-01-21 / 02:49 PM",
+		"zone": "Lower",
+		"section": "15",
+		"row": "5",
+		"quantity": 2,
+		"price": 127.5
+	},
+	{
+		"timestamp": "09-01-21 / 01:53 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "GA6",
+		"quantity": 1,
+		"price": 285
+	},
+	{
+		"timestamp": "09-01-21 / 01:53 PM",
+		"zone": "Floor GA",
+		"section": "Floor General Admission",
+		"row": "N/A",
+		"quantity": 3,
+		"price": 184
+	}
+]

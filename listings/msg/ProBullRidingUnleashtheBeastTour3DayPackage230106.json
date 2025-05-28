@@ -1,0 +1,66 @@
+[
+	{
+		"timestamp": "01-05-23 / 02:31 AM",
+		"zone": "100 Level",
+		"section": "101",
+		"row": "19",
+		"quantity": 3,
+		"price": 55.29
+	},
+	{
+		"timestamp": "01-05-23 / 12:59 AM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "21",
+		"quantity": 5,
+		"price": 52.38
+	},
+	{
+		"timestamp": "01-02-23 / 12:33 PM",
+		"zone": "100 Level",
+		"section": "103",
+		"row": "15",
+		"quantity": 2,
+		"price": 46.96
+	},
+	{
+		"timestamp": "12-24-22 / 12:06 AM",
+		"zone": "100 Level",
+		"section": "107",
+		"row": "10",
+		"quantity": 4,
+		"price": 123.19
+	},
+	{
+		"timestamp": "12-20-22 / 06:04 PM",
+		"zone": "100 Level",
+		"section": "108",
+		"row": "7",
+		"quantity": 2,
+		"price": 142.59
+	},
+	{
+		"timestamp": "12-16-22 / 03:25 AM",
+		"zone": "100 Level",
+		"section": "108",
+		"row": "14",
+		"quantity": 3,
+		"price": 119.31
+	},
+	{
+		"timestamp": "12-15-22 / 01:05 PM",
+		"zone": "100 Level",
+		"section": "107",
+		"row": "7",
+		"quantity": 3,
+		"price": 132.89
+	},
+	{
+		"timestamp": "09-09-22 / 07:12 AM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "18",
+		"quantity": 4,
+		"price": 175.76
+	}
+]

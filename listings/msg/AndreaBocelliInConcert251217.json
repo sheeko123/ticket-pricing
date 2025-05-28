@@ -1,0 +1,866 @@
+[
+	{
+		"timestamp": "04-23-25 / 10:18 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "20",
+		"quantity": 1,
+		"price": 703
+	},
+	{
+		"timestamp": "04-23-25 / 07:56 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "22",
+		"quantity": 4,
+		"price": 137
+	},
+	{
+		"timestamp": "04-23-25 / 01:45 PM",
+		"zone": "200 Level",
+		"section": "225",
+		"row": "11",
+		"quantity": 2,
+		"price": 141
+	},
+	{
+		"timestamp": "04-23-25 / 06:05 AM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "22",
+		"quantity": 2,
+		"price": 128
+	},
+	{
+		"timestamp": "04-22-25 / 06:51 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 1,
+		"price": 590
+	},
+	{
+		"timestamp": "04-22-25 / 05:23 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 1,
+		"price": 555
+	},
+	{
+		"timestamp": "04-22-25 / 02:49 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "24",
+		"quantity": 2,
+		"price": 546
+	},
+	{
+		"timestamp": "04-22-25 / 01:59 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "9",
+		"quantity": 2,
+		"price": 298
+	},
+	{
+		"timestamp": "04-22-25 / 11:51 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 2,
+		"price": 481
+	},
+	{
+		"timestamp": "04-22-25 / 11:46 AM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "23",
+		"quantity": 1,
+		"price": 147
+	},
+	{
+		"timestamp": "04-22-25 / 11:45 AM",
+		"zone": "Risers",
+		"section": "1",
+		"row": "6",
+		"quantity": 0,
+		"price": 360
+	},
+	{
+		"timestamp": "04-22-25 / 09:19 AM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "21",
+		"quantity": 2,
+		"price": 124
+	},
+	{
+		"timestamp": "04-22-25 / 08:19 AM",
+		"zone": "Lounge",
+		"section": "301",
+		"row": "2",
+		"quantity": 1,
+		"price": 148
+	},
+	{
+		"timestamp": "04-21-25 / 10:22 PM",
+		"zone": "100 Level",
+		"section": "118",
+		"row": "17",
+		"quantity": 0,
+		"price": 369
+	},
+	{
+		"timestamp": "04-21-25 / 10:04 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 2,
+		"price": 476
+	},
+	{
+		"timestamp": "04-21-25 / 07:25 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "",
+		"quantity": 0,
+		"price": 221
+	},
+	{
+		"timestamp": "04-21-25 / 02:32 PM",
+		"zone": "200 Level",
+		"section": "224",
+		"row": "4",
+		"quantity": 0,
+		"price": 304
+	},
+	{
+		"timestamp": "04-21-25 / 11:51 AM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "",
+		"quantity": 0,
+		"price": 260
+	},
+	{
+		"timestamp": "04-21-25 / 11:22 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "24",
+		"quantity": 4,
+		"price": 540
+	},
+	{
+		"timestamp": "04-20-25 / 09:59 PM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "11",
+		"quantity": 4,
+		"price": 130
+	},
+	{
+		"timestamp": "04-20-25 / 08:31 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "3",
+		"quantity": 2,
+		"price": 361
+	},
+	{
+		"timestamp": "04-20-25 / 07:25 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "21",
+		"quantity": 4,
+		"price": 452
+	},
+	{
+		"timestamp": "04-20-25 / 09:23 AM",
+		"zone": "Floor",
+		"section": "E",
+		"row": "6",
+		"quantity": 2,
+		"price": 375
+	},
+	{
+		"timestamp": "04-20-25 / 07:15 AM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "13",
+		"quantity": 1,
+		"price": 240
+	},
+	{
+		"timestamp": "04-19-25 / 09:33 PM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "11",
+		"quantity": 6,
+		"price": 130
+	},
+	{
+		"timestamp": "04-19-25 / 09:05 PM",
+		"zone": "200 Level",
+		"section": "223",
+		"row": "16",
+		"quantity": 2,
+		"price": 123
+	},
+	{
+		"timestamp": "04-19-25 / 08:53 PM",
+		"zone": "Floor",
+		"section": "C",
+		"row": "21",
+		"quantity": 6,
+		"price": 425
+	},
+	{
+		"timestamp": "04-19-25 / 08:20 PM",
+		"zone": "Floor",
+		"section": "F",
+		"row": "5",
+		"quantity": 0,
+		"price": 377
+	},
+	{
+		"timestamp": "04-19-25 / 03:38 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "13",
+		"quantity": 0,
+		"price": 251
+	},
+	{
+		"timestamp": "04-18-25 / 08:49 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "20",
+		"quantity": 0,
+		"price": 237
+	},
+	{
+		"timestamp": "04-18-25 / 08:11 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "10",
+		"quantity": 4,
+		"price": 138
+	},
+	{
+		"timestamp": "04-18-25 / 12:12 PM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "11",
+		"quantity": 2,
+		"price": 132
+	},
+	{
+		"timestamp": "04-18-25 / 10:29 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "22",
+		"quantity": 0,
+		"price": 278
+	},
+	{
+		"timestamp": "04-18-25 / 09:37 AM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "10",
+		"quantity": 3,
+		"price": 137
+	},
+	{
+		"timestamp": "04-17-25 / 10:03 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "10",
+		"quantity": 4,
+		"price": 142
+	},
+	{
+		"timestamp": "04-17-25 / 10:02 PM",
+		"zone": "Chase Bridges",
+		"section": "328",
+		"row": "1",
+		"quantity": 2,
+		"price": 192
+	},
+	{
+		"timestamp": "04-17-25 / 07:53 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "21",
+		"quantity": 1,
+		"price": 126
+	},
+	{
+		"timestamp": "04-17-25 / 07:28 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "23",
+		"quantity": 1,
+		"price": 515
+	},
+	{
+		"timestamp": "04-16-25 / 10:30 PM",
+		"zone": "100 Level",
+		"section": "119",
+		"row": "",
+		"quantity": 0,
+		"price": 265
+	},
+	{
+		"timestamp": "04-16-25 / 11:47 AM",
+		"zone": "100 Level",
+		"section": "119",
+		"row": "6",
+		"quantity": 2,
+		"price": 292
+	},
+	{
+		"timestamp": "04-15-25 / 09:42 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "20",
+		"quantity": 1,
+		"price": 131
+	},
+	{
+		"timestamp": "04-14-25 / 09:17 PM",
+		"zone": "200 Level",
+		"section": "202",
+		"row": "5",
+		"quantity": 0,
+		"price": 220
+	},
+	{
+		"timestamp": "04-14-25 / 06:40 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "19",
+		"quantity": 3,
+		"price": 135
+	},
+	{
+		"timestamp": "04-14-25 / 01:57 AM",
+		"zone": "100 Level",
+		"section": "101",
+		"row": "18",
+		"quantity": 0,
+		"price": 281
+	},
+	{
+		"timestamp": "04-13-25 / 10:35 PM",
+		"zone": "200 Level",
+		"section": "203",
+		"row": "1",
+		"quantity": 2,
+		"price": 430
+	},
+	{
+		"timestamp": "04-13-25 / 09:32 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "18",
+		"quantity": 1,
+		"price": 136
+	},
+	{
+		"timestamp": "04-13-25 / 07:56 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "17",
+		"quantity": 1,
+		"price": 268
+	},
+	{
+		"timestamp": "04-13-25 / 05:59 PM",
+		"zone": "100 Level",
+		"section": "105",
+		"row": "12",
+		"quantity": 0,
+		"price": 254
+	},
+	{
+		"timestamp": "04-13-25 / 05:19 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "23",
+		"quantity": 2,
+		"price": 514
+	},
+	{
+		"timestamp": "04-13-25 / 05:03 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "21",
+		"quantity": 2,
+		"price": 244
+	},
+	{
+		"timestamp": "04-13-25 / 03:22 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "13",
+		"quantity": 0,
+		"price": 254
+	},
+	{
+		"timestamp": "04-13-25 / 12:07 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "18",
+		"quantity": 2,
+		"price": 136
+	},
+	{
+		"timestamp": "04-12-25 / 07:33 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "16",
+		"quantity": 1,
+		"price": 143
+	},
+	{
+		"timestamp": "04-12-25 / 04:37 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "",
+		"quantity": 0,
+		"price": 227
+	},
+	{
+		"timestamp": "04-11-25 / 10:09 AM",
+		"zone": "200 Level",
+		"section": "225",
+		"row": "21",
+		"quantity": 1,
+		"price": 126
+	},
+	{
+		"timestamp": "04-10-25 / 10:44 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "18",
+		"quantity": 2,
+		"price": 124
+	},
+	{
+		"timestamp": "04-10-25 / 05:51 AM",
+		"zone": "Lounge Barstools",
+		"section": "301",
+		"row": "BS3",
+		"quantity": 1,
+		"price": 122
+	},
+	{
+		"timestamp": "04-10-25 / 03:51 AM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "",
+		"quantity": 0,
+		"price": 124
+	},
+	{
+		"timestamp": "04-09-25 / 11:18 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "21",
+		"quantity": 2,
+		"price": 151
+	},
+	{
+		"timestamp": "04-09-25 / 10:26 PM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "21",
+		"quantity": 2,
+		"price": 256
+	},
+	{
+		"timestamp": "04-09-25 / 11:17 AM",
+		"zone": "100 Level",
+		"section": "104",
+		"row": "",
+		"quantity": 0,
+		"price": 229
+	},
+	{
+		"timestamp": "04-08-25 / 02:47 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "17",
+		"quantity": 3,
+		"price": 264
+	},
+	{
+		"timestamp": "04-08-25 / 01:14 PM",
+		"zone": "100 Level",
+		"section": "103",
+		"row": "16",
+		"quantity": 2,
+		"price": 259
+	},
+	{
+		"timestamp": "04-08-25 / 09:47 AM",
+		"zone": "Lounge",
+		"section": "304",
+		"row": "2",
+		"quantity": 2,
+		"price": 128
+	},
+	{
+		"timestamp": "04-07-25 / 11:48 PM",
+		"zone": "Lounge",
+		"section": "304",
+		"row": "2",
+		"quantity": 5,
+		"price": 136
+	},
+	{
+		"timestamp": "04-07-25 / 10:47 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "23",
+		"quantity": 1,
+		"price": 509
+	},
+	{
+		"timestamp": "04-07-25 / 09:18 PM",
+		"zone": "Floor",
+		"section": "A",
+		"row": "22",
+		"quantity": 0,
+		"price": 492
+	},
+	{
+		"timestamp": "04-07-25 / 03:23 PM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "13",
+		"quantity": 0,
+		"price": 181
+	},
+	{
+		"timestamp": "04-07-25 / 12:06 PM",
+		"zone": "Floor",
+		"section": "E",
+		"row": "6",
+		"quantity": 2,
+		"price": 375
+	},
+	{
+		"timestamp": "04-07-25 / 11:37 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "7",
+		"quantity": 0,
+		"price": 1220
+	},
+	{
+		"timestamp": "04-07-25 / 11:23 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 1,
+		"price": 533
+	},
+	{
+		"timestamp": "04-07-25 / 11:10 AM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "21",
+		"quantity": 4,
+		"price": 272
+	},
+	{
+		"timestamp": "04-06-25 / 10:12 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "26",
+		"quantity": 2,
+		"price": 541
+	},
+	{
+		"timestamp": "04-06-25 / 07:41 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "17",
+		"quantity": 5,
+		"price": 282
+	},
+	{
+		"timestamp": "04-06-25 / 12:47 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "16",
+		"quantity": 2,
+		"price": 146
+	},
+	{
+		"timestamp": "04-06-25 / 12:23 PM",
+		"zone": "Lounge",
+		"section": "301",
+		"row": "1",
+		"quantity": 0,
+		"price": 206
+	},
+	{
+		"timestamp": "04-05-25 / 10:15 PM",
+		"zone": "200 Level",
+		"section": "211",
+		"row": "22",
+		"quantity": 4,
+		"price": 130
+	},
+	{
+		"timestamp": "04-05-25 / 09:04 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "23",
+		"quantity": 4,
+		"price": 537
+	},
+	{
+		"timestamp": "04-05-25 / 07:38 PM",
+		"zone": "200 Level",
+		"section": "210",
+		"row": "20",
+		"quantity": 6,
+		"price": 132
+	},
+	{
+		"timestamp": "04-05-25 / 06:07 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "22",
+		"quantity": 2,
+		"price": 546
+	},
+	{
+		"timestamp": "04-05-25 / 05:24 PM",
+		"zone": "200 Level",
+		"section": "209",
+		"row": "21",
+		"quantity": 0,
+		"price": 133
+	},
+	{
+		"timestamp": "04-05-25 / 04:13 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "16",
+		"quantity": 0,
+		"price": 357
+	},
+	{
+		"timestamp": "04-05-25 / 03:52 PM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "15",
+		"quantity": 0,
+		"price": 768
+	},
+	{
+		"timestamp": "04-05-25 / 03:50 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "14",
+		"quantity": 1,
+		"price": 260
+	},
+	{
+		"timestamp": "04-05-25 / 01:34 PM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "16",
+		"quantity": 2,
+		"price": 143
+	},
+	{
+		"timestamp": "04-05-25 / 11:38 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "3",
+		"quantity": 0,
+		"price": 1946
+	},
+	{
+		"timestamp": "04-05-25 / 11:38 AM",
+		"zone": "Lounge",
+		"section": "304",
+		"row": "2",
+		"quantity": 7,
+		"price": 130
+	},
+	{
+		"timestamp": "04-05-25 / 11:19 AM",
+		"zone": "100 Level",
+		"section": "103",
+		"row": "16",
+		"quantity": 4,
+		"price": 265
+	},
+	{
+		"timestamp": "04-04-25 / 03:04 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "17",
+		"quantity": 5,
+		"price": 131
+	},
+	{
+		"timestamp": "04-04-25 / 08:59 AM",
+		"zone": "100 Level",
+		"section": "119",
+		"row": "6",
+		"quantity": 2,
+		"price": 284
+	},
+	{
+		"timestamp": "04-04-25 / 08:50 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "21",
+		"quantity": 0,
+		"price": 160
+	},
+	{
+		"timestamp": "04-03-25 / 07:43 PM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "20",
+		"quantity": 0,
+		"price": 157
+	},
+	{
+		"timestamp": "04-03-25 / 12:02 PM",
+		"zone": "Lounge",
+		"section": "306",
+		"row": "1",
+		"quantity": 0,
+		"price": 224
+	},
+	{
+		"timestamp": "04-02-25 / 06:10 PM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "22",
+		"quantity": 0,
+		"price": 162
+	},
+	{
+		"timestamp": "04-02-25 / 03:25 PM",
+		"zone": "200 Level",
+		"section": "226",
+		"row": "22",
+		"quantity": 6,
+		"price": 140
+	},
+	{
+		"timestamp": "04-02-25 / 10:41 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "23",
+		"quantity": 6,
+		"price": 540
+	},
+	{
+		"timestamp": "04-01-25 / 09:48 PM",
+		"zone": "100 Level",
+		"section": "120",
+		"row": "11",
+		"quantity": 0,
+		"price": 266
+	},
+	{
+		"timestamp": "04-01-25 / 09:05 PM",
+		"zone": "100 Level",
+		"section": "102",
+		"row": "",
+		"quantity": 0,
+		"price": 527
+	},
+	{
+		"timestamp": "04-01-25 / 08:54 PM",
+		"zone": "100 Level",
+		"section": "119",
+		"row": "6",
+		"quantity": 0,
+		"price": 269
+	},
+	{
+		"timestamp": "04-01-25 / 06:45 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "7",
+		"quantity": 0,
+		"price": 191
+	},
+	{
+		"timestamp": "04-01-25 / 08:53 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "",
+		"quantity": 0,
+		"price": 209
+	},
+	{
+		"timestamp": "04-01-25 / 08:42 AM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "18",
+		"quantity": 0,
+		"price": 214
+	},
+	{
+		"timestamp": "03-31-25 / 12:30 PM",
+		"zone": "200 Level",
+		"section": "208",
+		"row": "",
+		"quantity": 0,
+		"price": 219
+	},
+	{
+		"timestamp": "03-31-25 / 02:26 AM",
+		"zone": "Floor",
+		"section": "B",
+		"row": "10",
+		"quantity": 0,
+		"price": 1447
+	},
+	{
+		"timestamp": "03-30-25 / 05:37 PM",
+		"zone": "200 Level",
+		"section": "224",
+		"row": "22",
+		"quantity": 0,
+		"price": 418
+	},
+	{
+		"timestamp": "03-29-25 / 02:30 PM",
+		"zone": "100 Level",
+		"section": "106",
+		"row": "22",
+		"quantity": 0,
+		"price": 599
+	},
+	{
+		"timestamp": "03-28-25 / 03:59 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "",
+		"quantity": 0,
+		"price": 206
+	},
+	{
+		"timestamp": "03-28-25 / 03:49 PM",
+		"zone": "200 Level",
+		"section": "227",
+		"row": "",
+		"quantity": 0,
+		"price": 203
+	}
+]

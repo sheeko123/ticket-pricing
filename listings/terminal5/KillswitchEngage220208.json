@@ -1,0 +1,746 @@
+[
+	{
+		"timestamp": "02-08-22 / 09:00 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 25
+	},
+	{
+		"timestamp": "02-08-22 / 07:29 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 57.82
+	},
+	{
+		"timestamp": "02-08-22 / 07:09 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 57.82
+	},
+	{
+		"timestamp": "02-08-22 / 02:59 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 49.99
+	},
+	{
+		"timestamp": "02-08-22 / 02:39 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 45
+	},
+	{
+		"timestamp": "02-08-22 / 09:02 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 45.5
+	},
+	{
+		"timestamp": "02-08-22 / 02:39 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 42.75
+	},
+	{
+		"timestamp": "02-08-22 / 12:32 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 47.5
+	},
+	{
+		"timestamp": "02-07-22 / 09:37 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 23
+	},
+	{
+		"timestamp": "02-07-22 / 08:32 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA1",
+		"quantity": 1,
+		"price": 55.62
+	},
+	{
+		"timestamp": "02-07-22 / 08:04 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 53.5
+	},
+	{
+		"timestamp": "02-07-22 / 06:57 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 53.5
+	},
+	{
+		"timestamp": "02-07-22 / 04:43 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 53.5
+	},
+	{
+		"timestamp": "02-07-22 / 03:35 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 53.5
+	},
+	{
+		"timestamp": "02-07-22 / 01:40 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 54.01
+	},
+	{
+		"timestamp": "02-07-22 / 01:14 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "02-07-22 / 12:31 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "02-07-22 / 12:31 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.99
+	},
+	{
+		"timestamp": "02-07-22 / 12:05 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 57.71
+	},
+	{
+		"timestamp": "02-07-22 / 11:45 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 57.71
+	},
+	{
+		"timestamp": "02-07-22 / 10:41 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.29
+	},
+	{
+		"timestamp": "02-07-22 / 09:55 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "02-07-22 / 08:56 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.29
+	},
+	{
+		"timestamp": "02-07-22 / 12:29 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 48
+	},
+	{
+		"timestamp": "02-06-22 / 03:43 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "02-06-22 / 01:42 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "02-05-22 / 04:27 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "02-05-22 / 03:05 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "02-05-22 / 12:38 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 48
+	},
+	{
+		"timestamp": "02-05-22 / 10:34 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 58
+	},
+	{
+		"timestamp": "02-05-22 / 12:45 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "02-04-22 / 10:53 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "02-04-22 / 08:06 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 60
+	},
+	{
+		"timestamp": "02-04-22 / 07:22 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 30
+	},
+	{
+		"timestamp": "02-04-22 / 04:31 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 55
+	},
+	{
+		"timestamp": "02-04-22 / 09:56 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 55
+	},
+	{
+		"timestamp": "02-03-22 / 11:57 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 45
+	},
+	{
+		"timestamp": "02-03-22 / 09:44 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 60
+	},
+	{
+		"timestamp": "02-03-22 / 12:06 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49
+	},
+	{
+		"timestamp": "02-03-22 / 10:48 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 63
+	},
+	{
+		"timestamp": "02-03-22 / 01:47 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 63
+	},
+	{
+		"timestamp": "02-03-22 / 12:07 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49
+	},
+	{
+		"timestamp": "02-02-22 / 07:06 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49
+	},
+	{
+		"timestamp": "02-02-22 / 06:45 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "02-02-22 / 04:24 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.9
+	},
+	{
+		"timestamp": "02-01-22 / 11:05 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.9
+	},
+	{
+		"timestamp": "02-01-22 / 03:52 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 64
+	},
+	{
+		"timestamp": "02-01-22 / 01:07 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 48
+	},
+	{
+		"timestamp": "01-31-22 / 07:32 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.99
+	},
+	{
+		"timestamp": "01-30-22 / 08:58 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54
+	},
+	{
+		"timestamp": "01-30-22 / 11:40 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 45
+	},
+	{
+		"timestamp": "01-29-22 / 03:36 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 53.99
+	},
+	{
+		"timestamp": "01-28-22 / 09:58 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 54
+	},
+	{
+		"timestamp": "01-26-22 / 09:44 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 40
+	},
+	{
+		"timestamp": "01-26-22 / 02:15 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 39.8
+	},
+	{
+		"timestamp": "01-24-22 / 10:24 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 36.22
+	},
+	{
+		"timestamp": "01-24-22 / 05:14 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 36.22
+	},
+	{
+		"timestamp": "01-22-22 / 12:35 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 30
+	},
+	{
+		"timestamp": "01-21-22 / 07:03 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "01-21-22 / 05:11 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 33
+	},
+	{
+		"timestamp": "01-19-22 / 01:06 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 38
+	},
+	{
+		"timestamp": "01-19-22 / 01:37 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 38
+	},
+	{
+		"timestamp": "01-18-22 / 10:25 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 37.8
+	},
+	{
+		"timestamp": "01-16-22 / 02:49 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 38
+	},
+	{
+		"timestamp": "01-15-22 / 05:32 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 38.75
+	},
+	{
+		"timestamp": "01-10-22 / 09:23 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 49
+	},
+	{
+		"timestamp": "01-10-22 / 07:47 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 115.79
+	},
+	{
+		"timestamp": "01-07-22 / 06:57 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 56.96
+	},
+	{
+		"timestamp": "01-06-22 / 11:33 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 50
+	},
+	{
+		"timestamp": "01-06-22 / 03:13 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 61
+	},
+	{
+		"timestamp": "01-03-22 / 01:34 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "01-01-22 / 09:46 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 49.98
+	},
+	{
+		"timestamp": "12-31-21 / 11:48 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 49.98
+	},
+	{
+		"timestamp": "12-30-21 / 10:04 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "12-29-21 / 10:22 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 50
+	},
+	{
+		"timestamp": "12-27-21 / 11:29 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 50
+	},
+	{
+		"timestamp": "12-25-21 / 08:22 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 51.23
+	},
+	{
+		"timestamp": "12-18-21 / 04:34 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 57
+	},
+	{
+		"timestamp": "12-17-21 / 09:52 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-17-21 / 06:20 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-17-21 / 12:02 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 57
+	},
+	{
+		"timestamp": "12-16-21 / 12:09 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 3,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-13-21 / 11:50 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-05-21 / 06:21 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 4,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-05-21 / 05:40 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 5,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-05-21 / 09:15 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.98
+	},
+	{
+		"timestamp": "12-05-21 / 02:02 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.98
+	},
+	{
+		"timestamp": "12-03-21 / 07:19 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.98
+	},
+	{
+		"timestamp": "12-02-21 / 02:00 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 54.99
+	},
+	{
+		"timestamp": "12-01-21 / 03:15 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 54.98
+	},
+	{
+		"timestamp": "11-25-21 / 01:59 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 56.98
+	},
+	{
+		"timestamp": "11-18-21 / 03:07 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 56.98
+	},
+	{
+		"timestamp": "11-09-21 / 06:28 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "GA99",
+		"quantity": 2,
+		"price": 64
+	}
+]

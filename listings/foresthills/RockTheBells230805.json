@@ -1,0 +1,1314 @@
+[
+	{
+		"timestamp": "08-04-23 / 10:28 PM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 6,
+		"price": 457.4
+	},
+	{
+		"timestamp": "08-04-23 / 10:28 PM",
+		"zone": "Lower Bowl",
+		"section": "701",
+		"row": "TT",
+		"quantity": 1,
+		"price": 135
+	},
+	{
+		"timestamp": "08-04-23 / 10:28 PM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "F",
+		"quantity": 2,
+		"price": 207
+	},
+	{
+		"timestamp": "08-04-23 / 12:24 PM",
+		"zone": "Upper Bowl",
+		"section": "802",
+		"row": "XX",
+		"quantity": 1,
+		"price": 233.23
+	},
+	{
+		"timestamp": "08-04-23 / 12:24 PM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "MM",
+		"quantity": 1,
+		"price": 298.95
+	},
+	{
+		"timestamp": "08-04-23 / 08:44 AM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "GG",
+		"quantity": 2,
+		"price": 117
+	},
+	{
+		"timestamp": "08-04-23 / 08:44 AM",
+		"zone": "Lower Bowl",
+		"section": "601",
+		"row": "H",
+		"quantity": 6,
+		"price": 218.25
+	},
+	{
+		"timestamp": "08-03-23 / 10:39 PM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "LL",
+		"quantity": 2,
+		"price": 126.02
+	},
+	{
+		"timestamp": "08-03-23 / 10:39 PM",
+		"zone": "Lower Bowl",
+		"section": "701",
+		"row": "H",
+		"quantity": 3,
+		"price": 184
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Upper Bowl",
+		"section": "302",
+		"row": "SS",
+		"quantity": 2,
+		"price": 97.62
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "EE",
+		"quantity": 2,
+		"price": 117.9
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Upper Bowl",
+		"section": "502",
+		"row": "MM",
+		"quantity": 1,
+		"price": 108
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Lower Bowl",
+		"section": "601",
+		"row": "G",
+		"quantity": 6,
+		"price": 247.35
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Lower Bowl",
+		"section": "701",
+		"row": "J",
+		"quantity": 2,
+		"price": 218.06
+	},
+	{
+		"timestamp": "08-03-23 / 06:30 PM",
+		"zone": "Upper Bowl",
+		"section": "702",
+		"row": "EE",
+		"quantity": 2,
+		"price": 121.5
+	},
+	{
+		"timestamp": "08-02-23 / 04:20 PM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "Q",
+		"quantity": 2,
+		"price": 235.51
+	},
+	{
+		"timestamp": "08-02-23 / 04:20 PM",
+		"zone": "Upper Bowl",
+		"section": "1002",
+		"row": "XX",
+		"quantity": 2,
+		"price": 121.27
+	},
+	{
+		"timestamp": "08-01-23 / 11:24 AM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "H",
+		"quantity": 4,
+		"price": 207.9
+	},
+	{
+		"timestamp": "08-01-23 / 03:08 AM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "XX",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "08-01-23 / 03:08 AM",
+		"zone": "Upper Bowl",
+		"section": "202",
+		"row": "LL",
+		"quantity": 4,
+		"price": 127.28
+	},
+	{
+		"timestamp": "08-01-23 / 03:08 AM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "",
+		"quantity": 7,
+		"price": 145
+	},
+	{
+		"timestamp": "07-31-23 / 09:27 PM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "E",
+		"quantity": 2,
+		"price": 216.2
+	},
+	{
+		"timestamp": "07-31-23 / 09:27 PM",
+		"zone": "Upper Bowl",
+		"section": "702",
+		"row": "RR",
+		"quantity": 1,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-31-23 / 04:58 PM",
+		"zone": "Upper Bowl",
+		"section": "402",
+		"row": "RR",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-31-23 / 04:58 PM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "N",
+		"quantity": 2,
+		"price": 237.45
+	},
+	{
+		"timestamp": "07-31-23 / 06:17 AM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "L",
+		"quantity": 2,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "Lower Bowl",
+		"section": "501",
+		"row": "J",
+		"quantity": 4,
+		"price": 180
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "Lower Bowl",
+		"section": "701",
+		"row": "A",
+		"quantity": 2,
+		"price": 252.2
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 1,
+		"price": 190.8
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "G",
+		"quantity": 2,
+		"price": 214.84
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "L",
+		"quantity": 5,
+		"price": 318.15
+	},
+	{
+		"timestamp": "07-31-23 / 02:47 AM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "L",
+		"quantity": 2,
+		"price": 198
+	},
+	{
+		"timestamp": "07-30-23 / 10:36 PM",
+		"zone": "Upper Bowl",
+		"section": "202",
+		"row": "TT",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-30-23 / 06:09 PM",
+		"zone": "Upper Bowl",
+		"section": "402",
+		"row": "RR",
+		"quantity": 2,
+		"price": 121.27
+	},
+	{
+		"timestamp": "07-30-23 / 06:09 PM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "M",
+		"quantity": 2,
+		"price": 236.47
+	},
+	{
+		"timestamp": "07-30-23 / 06:35 AM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "G",
+		"quantity": 2,
+		"price": 193.5
+	},
+	{
+		"timestamp": "07-29-23 / 08:23 PM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "L",
+		"quantity": 2,
+		"price": 318.15
+	},
+	{
+		"timestamp": "07-29-23 / 11:18 AM",
+		"zone": "Upper Bowl",
+		"section": "702",
+		"row": "HH",
+		"quantity": 3,
+		"price": 127.28
+	},
+	{
+		"timestamp": "07-29-23 / 08:21 AM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "OO",
+		"quantity": 2,
+		"price": 99
+	},
+	{
+		"timestamp": "07-28-23 / 08:45 PM",
+		"zone": "Upper Bowl",
+		"section": "402",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-28-23 / 08:45 PM",
+		"zone": "Upper Bowl",
+		"section": "202",
+		"row": "SS",
+		"quantity": 4,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-27-23 / 12:31 PM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 3,
+		"price": 240.55
+	},
+	{
+		"timestamp": "07-27-23 / 08:36 AM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "F",
+		"quantity": 6,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-26-23 / 12:14 PM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "Q",
+		"quantity": 2,
+		"price": 272.75
+	},
+	{
+		"timestamp": "07-26-23 / 12:14 PM",
+		"zone": "Upper Bowl",
+		"section": "1002",
+		"row": "QQ",
+		"quantity": 5,
+		"price": 123.19
+	},
+	{
+		"timestamp": "07-26-23 / 12:14 PM",
+		"zone": "Upper Bowl",
+		"section": "502",
+		"row": "JJ",
+		"quantity": 2,
+		"price": 157.9
+	},
+	{
+		"timestamp": "07-26-23 / 12:14 PM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 2,
+		"price": 253.13
+	},
+	{
+		"timestamp": "07-26-23 / 08:09 AM",
+		"zone": "Floor",
+		"section": "1",
+		"row": "O",
+		"quantity": 3,
+		"price": 341.55
+	},
+	{
+		"timestamp": "07-26-23 / 08:09 AM",
+		"zone": "Lower Bowl",
+		"section": "801",
+		"row": "D",
+		"quantity": 5,
+		"price": 307.8
+	},
+	{
+		"timestamp": "07-25-23 / 10:33 PM",
+		"zone": "Lower Bowl",
+		"section": "201",
+		"row": "J",
+		"quantity": 2,
+		"price": 202.79
+	},
+	{
+		"timestamp": "07-25-23 / 10:33 PM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "",
+		"quantity": 5,
+		"price": 160
+	},
+	{
+		"timestamp": "07-25-23 / 05:33 PM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "TT",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-25-23 / 01:21 PM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "A",
+		"quantity": 1,
+		"price": 321.03
+	},
+	{
+		"timestamp": "07-24-23 / 09:23 PM",
+		"zone": "Upper Bowl",
+		"section": "402",
+		"row": "HH",
+		"quantity": 2,
+		"price": 127.28
+	},
+	{
+		"timestamp": "07-24-23 / 04:33 PM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "SS",
+		"quantity": 2,
+		"price": 121.27
+	},
+	{
+		"timestamp": "07-24-23 / 11:38 AM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 3,
+		"price": 240.55
+	},
+	{
+		"timestamp": "07-24-23 / 11:38 AM",
+		"zone": "Upper Bowl",
+		"section": "1002",
+		"row": "RR",
+		"quantity": 4,
+		"price": 123.19
+	},
+	{
+		"timestamp": "07-24-23 / 07:48 AM",
+		"zone": "Upper Bowl",
+		"section": "802",
+		"row": "GG",
+		"quantity": 2,
+		"price": 127.28
+	},
+	{
+		"timestamp": "07-24-23 / 03:59 AM",
+		"zone": "Upper Bowl",
+		"section": "502",
+		"row": "JJ",
+		"quantity": 1,
+		"price": 157.9
+	},
+	{
+		"timestamp": "07-23-23 / 03:13 AM",
+		"zone": "Lower Bowl",
+		"section": "901",
+		"row": "H",
+		"quantity": 1,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-23-23 / 03:13 AM",
+		"zone": "Upper Bowl",
+		"section": "302",
+		"row": "XX",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-22-23 / 08:04 PM",
+		"zone": "Floor",
+		"section": "2",
+		"row": "L",
+		"quantity": 1,
+		"price": 372.92
+	},
+	{
+		"timestamp": "07-22-23 / 07:47 AM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 1,
+		"price": 237.65
+	},
+	{
+		"timestamp": "07-22-23 / 07:47 AM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "C",
+		"quantity": 1,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-22-23 / 07:47 AM",
+		"zone": "Upper Bowl",
+		"section": "802",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-22-23 / 07:47 AM",
+		"zone": "Lower Bowl",
+		"section": "901",
+		"row": "B",
+		"quantity": 2,
+		"price": 329.13
+	},
+	{
+		"timestamp": "07-21-23 / 07:02 PM",
+		"zone": "Lower Bowl",
+		"section": "201",
+		"row": "G",
+		"quantity": 3,
+		"price": 272.75
+	},
+	{
+		"timestamp": "07-21-23 / 09:39 AM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "MM",
+		"quantity": 2,
+		"price": 157.9
+	},
+	{
+		"timestamp": "07-20-23 / 05:13 PM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "P",
+		"quantity": 2,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-19-23 / 03:07 AM",
+		"zone": "Upper Bowl",
+		"section": "902",
+		"row": "RR",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-18-23 / 02:15 PM",
+		"zone": "Lower Bowl",
+		"section": "201",
+		"row": "J",
+		"quantity": 2,
+		"price": 202.79
+	},
+	{
+		"timestamp": "07-18-23 / 01:36 AM",
+		"zone": "Lower Bowl",
+		"section": "501",
+		"row": "M",
+		"quantity": 1,
+		"price": 242.29
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Lower Bowl",
+		"section": "901",
+		"row": "D",
+		"quantity": 2,
+		"price": 272.75
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Floor",
+		"section": "3",
+		"row": "O",
+		"quantity": 2,
+		"price": 240.55
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Lower Bowl",
+		"section": "301",
+		"row": "D",
+		"quantity": 3,
+		"price": 312.93
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Upper Bowl",
+		"section": "402",
+		"row": "FF",
+		"quantity": 4,
+		"price": 157.9
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "O",
+		"quantity": 2,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-17-23 / 07:37 PM",
+		"zone": "Upper Bowl",
+		"section": "702",
+		"row": "FF",
+		"quantity": 5,
+		"price": 127.28
+	},
+	{
+		"timestamp": "07-17-23 / 08:54 AM",
+		"zone": "Upper Bowl",
+		"section": "102",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-16-23 / 10:16 PM",
+		"zone": "Upper Bowl",
+		"section": "202",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 123.19
+	},
+	{
+		"timestamp": "07-15-23 / 02:43 AM",
+		"zone": "Upper Bowl",
+		"section": "102",
+		"row": "QQ",
+		"quantity": 1,
+		"price": 123.19
+	},
+	{
+		"timestamp": "07-15-23 / 02:43 AM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "MM",
+		"quantity": 2,
+		"price": 149.92
+	},
+	{
+		"timestamp": "07-14-23 / 03:24 PM",
+		"zone": "Upper Bowl",
+		"section": "602",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 98.6
+	},
+	{
+		"timestamp": "07-13-23 / 09:00 AM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "",
+		"quantity": 3,
+		"price": 255.74
+	},
+	{
+		"timestamp": "07-13-23 / 09:00 AM",
+		"zone": "Lower Bowl",
+		"section": "601",
+		"row": "F",
+		"quantity": 2,
+		"price": 301.23
+	},
+	{
+		"timestamp": "07-13-23 / 09:00 AM",
+		"zone": "Upper Bowl",
+		"section": "102",
+		"row": "XX",
+		"quantity": 2,
+		"price": 110.55
+	},
+	{
+		"timestamp": "07-13-23 / 09:00 AM",
+		"zone": "General Admission",
+		"section": "Floor",
+		"row": "F",
+		"quantity": 6,
+		"price": 600.3
+	},
+	{
+		"timestamp": "07-13-23 / 09:00 AM",
+		"zone": "Lower Bowl",
+		"section": "401",
+		"row": "I",
+		"quantity": 3,
+		"price": 304.83
+	},
+	{
+		"timestamp": "07-12-23 / 09:22 PM",
+		"zone": "Lower Bowl",
+		"section": "501",
+		"row": "F",
+		"quantity": 5,
+		"price": 329.58
+	},
+	{
+		"timestamp": "07-12-23 / 09:22 PM",
+		"zone": "Lower Bowl",
+		"section": "101",
+		"row": "Q",
+		"quantity": 4,
+		"price": 239.68
+	},
+	{
+		"timestamp": "07-12-23 / 09:22 PM",
+		"zone": "Lower Bowl",
+		"section": "201",
+		"row": "P",
+		"quantity": 1,
+		"price": 246.72
+	},
+	{
+		"timestamp": "07-12-23 / 09:22 PM",
+		"zone": "Upper Bowl",
+		"section": "802",
+		"row": "FF",
+		"quantity": 4,
+		"price": 159.41
+	},
+	{
+		"timestamp": "07-12-23 / 09:22 PM",
+		"zone": "Upper Bowl",
+		"section": "1002",
+		"row": "HH",
+		"quantity": 7,
+		"price": 127.28
+	},
+	{
+		"timestamp": "07-11-23 / 07:35 PM",
+		"zone": "Club",
+		"section": "401",
+		"row": "A",
+		"quantity": 2,
+		"price": 402.71
+	},
+	{
+		"timestamp": "07-11-23 / 08:21 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "G",
+		"quantity": 2,
+		"price": 621
+	},
+	{
+		"timestamp": "07-10-23 / 01:24 PM",
+		"zone": "Club",
+		"section": "701",
+		"row": "H",
+		"quantity": 1,
+		"price": 390.47
+	},
+	{
+		"timestamp": "07-08-23 / 02:01 AM",
+		"zone": "VIP",
+		"section": "General Admission",
+		"row": "C",
+		"quantity": 2,
+		"price": 547.4
+	},
+	{
+		"timestamp": "07-08-23 / 02:01 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 470.25
+	},
+	{
+		"timestamp": "07-07-23 / 01:09 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "I",
+		"quantity": 2,
+		"price": 333.18
+	},
+	{
+		"timestamp": "07-06-23 / 01:11 PM",
+		"zone": "Club",
+		"section": "401",
+		"row": "L",
+		"quantity": 4,
+		"price": 301.1
+	},
+	{
+		"timestamp": "07-05-23 / 03:02 PM",
+		"zone": "Club",
+		"section": "601",
+		"row": "F",
+		"quantity": 2,
+		"price": 329.57
+	},
+	{
+		"timestamp": "07-05-23 / 05:08 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 242.5
+	},
+	{
+		"timestamp": "07-04-23 / 05:52 PM",
+		"zone": "Club",
+		"section": "701",
+		"row": "K",
+		"quantity": 4,
+		"price": 216.8
+	},
+	{
+		"timestamp": "07-04-23 / 05:52 PM",
+		"zone": "Club",
+		"section": "401",
+		"row": "M",
+		"quantity": 4,
+		"price": 232.82
+	},
+	{
+		"timestamp": "07-03-23 / 07:44 PM",
+		"zone": "Club",
+		"section": "701",
+		"row": "F",
+		"quantity": 2,
+		"price": 329.57
+	},
+	{
+		"timestamp": "07-01-23 / 09:21 PM",
+		"zone": "Club",
+		"section": "701",
+		"row": "1",
+		"quantity": 2,
+		"price": 198
+	},
+	{
+		"timestamp": "07-01-23 / 02:35 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "M",
+		"quantity": 4,
+		"price": 301.1
+	},
+	{
+		"timestamp": "06-27-23 / 09:13 PM",
+		"zone": "Club",
+		"section": "401",
+		"row": "I",
+		"quantity": 2,
+		"price": 332.11
+	},
+	{
+		"timestamp": "06-27-23 / 09:13 PM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 247.5
+	},
+	{
+		"timestamp": "06-27-23 / 03:09 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 283.5
+	},
+	{
+		"timestamp": "06-25-23 / 02:33 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "K",
+		"quantity": 4,
+		"price": 216.8
+	},
+	{
+		"timestamp": "06-24-23 / 03:27 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 81
+	},
+	{
+		"timestamp": "06-22-23 / 11:00 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "G",
+		"quantity": 2,
+		"price": 394.52
+	},
+	{
+		"timestamp": "06-22-23 / 11:00 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "H",
+		"quantity": 2,
+		"price": 390.47
+	},
+	{
+		"timestamp": "06-22-23 / 11:00 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "I",
+		"quantity": 2,
+		"price": 333.18
+	},
+	{
+		"timestamp": "06-22-23 / 11:00 AM",
+		"zone": "Club",
+		"section": "501",
+		"row": "I",
+		"quantity": 2,
+		"price": 337.23
+	},
+	{
+		"timestamp": "06-22-23 / 11:00 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 329.58
+	},
+	{
+		"timestamp": "06-22-23 / 12:17 AM",
+		"zone": "Club",
+		"section": "601",
+		"row": "M",
+		"quantity": 2,
+		"price": 301.1
+	},
+	{
+		"timestamp": "06-19-23 / 09:39 PM",
+		"zone": "General Admission Seating Area",
+		"section": "301",
+		"row": "H",
+		"quantity": 2,
+		"price": 206.01
+	},
+	{
+		"timestamp": "06-19-23 / 09:39 PM",
+		"zone": "VIP",
+		"section": "201",
+		"row": "G",
+		"quantity": 2,
+		"price": 245.25
+	},
+	{
+		"timestamp": "06-18-23 / 10:17 PM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 6,
+		"price": 253.13
+	},
+	{
+		"timestamp": "06-17-23 / 11:00 PM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 259.2
+	},
+	{
+		"timestamp": "06-17-23 / 12:24 PM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 317.25
+	},
+	{
+		"timestamp": "06-16-23 / 08:03 AM",
+		"zone": "VIP",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 315
+	},
+	{
+		"timestamp": "06-16-23 / 05:08 AM",
+		"zone": "Club",
+		"section": "601",
+		"row": "G",
+		"quantity": 2,
+		"price": 430.74
+	},
+	{
+		"timestamp": "06-16-23 / 05:08 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 234.22
+	},
+	{
+		"timestamp": "06-15-23 / 05:32 AM",
+		"zone": "Club",
+		"section": "601",
+		"row": "H",
+		"quantity": 2,
+		"price": 422.35
+	},
+	{
+		"timestamp": "06-13-23 / 01:03 AM",
+		"zone": "Floor",
+		"section": "Accessible",
+		"row": "L",
+		"quantity": 2,
+		"price": 162
+	},
+	{
+		"timestamp": "06-13-23 / 01:03 AM",
+		"zone": "Club",
+		"section": "501",
+		"row": "L",
+		"quantity": 3,
+		"price": 216.8
+	},
+	{
+		"timestamp": "06-12-23 / 01:33 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 238.15
+	},
+	{
+		"timestamp": "06-09-23 / 09:02 AM",
+		"zone": "Club",
+		"section": "501",
+		"row": "A",
+		"quantity": 2,
+		"price": 377.65
+	},
+	{
+		"timestamp": "06-09-23 / 09:02 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "A",
+		"quantity": 2,
+		"price": 451.07
+	},
+	{
+		"timestamp": "06-08-23 / 03:34 PM",
+		"zone": "General Admission Seating Area",
+		"section": "402",
+		"row": "EE",
+		"quantity": 2,
+		"price": 115
+	},
+	{
+		"timestamp": "06-06-23 / 09:36 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "L",
+		"quantity": 4,
+		"price": 263.15
+	},
+	{
+		"timestamp": "06-06-23 / 09:36 AM",
+		"zone": "VIP",
+		"section": "201",
+		"row": "H",
+		"quantity": 6,
+		"price": 274.51
+	},
+	{
+		"timestamp": "06-01-23 / 09:22 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "N",
+		"quantity": 4,
+		"price": 271.87
+	},
+	{
+		"timestamp": "06-01-23 / 09:22 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 7,
+		"price": 274.12
+	},
+	{
+		"timestamp": "05-24-23 / 07:06 AM",
+		"zone": "Club",
+		"section": "501",
+		"row": "H",
+		"quantity": 2,
+		"price": 266.8
+	},
+	{
+		"timestamp": "05-20-23 / 07:27 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 273.42
+	},
+	{
+		"timestamp": "05-20-23 / 07:27 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 241.53
+	},
+	{
+		"timestamp": "05-14-23 / 08:57 AM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 241.53
+	},
+	{
+		"timestamp": "05-09-23 / 10:54 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 148.5
+	},
+	{
+		"timestamp": "05-04-23 / 11:31 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "QQ",
+		"quantity": 2,
+		"price": 90
+	},
+	{
+		"timestamp": "05-01-23 / 04:18 PM",
+		"zone": "Club",
+		"section": "501",
+		"row": "M",
+		"quantity": 2,
+		"price": 259.24
+	},
+	{
+		"timestamp": "04-30-23 / 07:40 AM",
+		"zone": "General Admission Seating Area",
+		"section": "502",
+		"row": "PP",
+		"quantity": 4,
+		"price": 116.62
+	},
+	{
+		"timestamp": "04-28-23 / 10:48 PM",
+		"zone": "Floor",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 251.6
+	},
+	{
+		"timestamp": "04-28-23 / 08:00 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "NN",
+		"quantity": 4,
+		"price": 141.85
+	},
+	{
+		"timestamp": "04-28-23 / 08:00 AM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 139.5
+	},
+	{
+		"timestamp": "04-27-23 / 10:36 AM",
+		"zone": "Club",
+		"section": "501",
+		"row": "L",
+		"quantity": 3,
+		"price": 216.8
+	},
+	{
+		"timestamp": "04-26-23 / 12:35 PM",
+		"zone": "General Admission Seating Area",
+		"section": "802",
+		"row": "NN",
+		"quantity": 4,
+		"price": 139.5
+	},
+	{
+		"timestamp": "04-25-23 / 07:06 PM",
+		"zone": "General Admission Seating Area",
+		"section": "502",
+		"row": "PP",
+		"quantity": 4,
+		"price": 116.62
+	},
+	{
+		"timestamp": "04-25-23 / 05:17 PM",
+		"zone": "Floor",
+		"section": "GENERAL ADMISSION",
+		"row": "",
+		"quantity": 2,
+		"price": 276
+	},
+	{
+		"timestamp": "04-23-23 / 11:21 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "A",
+		"quantity": 2,
+		"price": 475.89
+	},
+	{
+		"timestamp": "04-22-23 / 07:20 AM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "301",
+		"quantity": 2,
+		"price": 202.5
+	},
+	{
+		"timestamp": "04-21-23 / 11:37 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 148.5
+	},
+	{
+		"timestamp": "04-21-23 / 01:57 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 148.5
+	},
+	{
+		"timestamp": "04-20-23 / 11:38 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 130.5
+	},
+	{
+		"timestamp": "04-20-23 / 04:53 AM",
+		"zone": "Club",
+		"section": "701",
+		"row": "G",
+		"quantity": 2,
+		"price": 590.32
+	},
+	{
+		"timestamp": "04-19-23 / 03:30 AM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 130.5
+	},
+	{
+		"timestamp": "04-16-23 / 09:40 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 126
+	},
+	{
+		"timestamp": "04-15-23 / 12:36 AM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 117
+	},
+	{
+		"timestamp": "04-14-23 / 02:49 PM",
+		"zone": "Club",
+		"section": "501",
+		"row": "A",
+		"quantity": 2,
+		"price": 803.25
+	},
+	{
+		"timestamp": "04-12-23 / 09:04 AM",
+		"zone": "Club",
+		"section": "401",
+		"row": "G",
+		"quantity": 2,
+		"price": 345
+	},
+	{
+		"timestamp": "04-11-23 / 03:04 PM",
+		"zone": "General Admission Seating Area",
+		"section": "Bowl General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 332.1
+	}
+]

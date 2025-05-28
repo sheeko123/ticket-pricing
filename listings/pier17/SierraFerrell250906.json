@@ -1,0 +1,826 @@
+[
+	{
+		"timestamp": "04-21-25 / 02:03 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 86
+	},
+	{
+		"timestamp": "04-06-25 / 01:13 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 82
+	},
+	{
+		"timestamp": "04-05-25 / 05:23 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 82
+	},
+	{
+		"timestamp": "04-05-25 / 12:08 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 85
+	},
+	{
+		"timestamp": "04-05-25 / 12:08 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 84
+	},
+	{
+		"timestamp": "04-04-25 / 10:02 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "1",
+		"quantity": 0,
+		"price": 86
+	},
+	{
+		"timestamp": "04-03-25 / 07:01 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 82
+	},
+	{
+		"timestamp": "04-02-25 / 08:53 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 83
+	},
+	{
+		"timestamp": "03-31-25 / 09:04 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 79
+	},
+	{
+		"timestamp": "03-31-25 / 11:07 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "03-30-25 / 08:37 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 82
+	},
+	{
+		"timestamp": "03-30-25 / 04:33 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 82
+	},
+	{
+		"timestamp": "03-27-25 / 12:04 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "03-22-25 / 03:13 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 77
+	},
+	{
+		"timestamp": "03-21-25 / 08:33 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 77
+	},
+	{
+		"timestamp": "03-20-25 / 08:49 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "03-20-25 / 08:33 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "03-20-25 / 11:01 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 83
+	},
+	{
+		"timestamp": "03-18-25 / 09:04 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 83
+	},
+	{
+		"timestamp": "03-18-25 / 09:01 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 78
+	},
+	{
+		"timestamp": "03-18-25 / 03:03 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 4,
+		"price": 242.1
+	},
+	{
+		"timestamp": "03-14-25 / 10:53 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 76.92
+	},
+	{
+		"timestamp": "03-14-25 / 05:35 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 76.52
+	},
+	{
+		"timestamp": "03-14-25 / 04:33 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 76.52
+	},
+	{
+		"timestamp": "03-13-25 / 01:45 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 77.37
+	},
+	{
+		"timestamp": "03-11-25 / 06:41 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 73.08
+	},
+	{
+		"timestamp": "03-11-25 / 07:58 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 75.99
+	},
+	{
+		"timestamp": "03-10-25 / 01:18 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 79.39
+	},
+	{
+		"timestamp": "03-09-25 / 06:33 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 90.49
+	},
+	{
+		"timestamp": "03-07-25 / 04:59 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 82.98
+	},
+	{
+		"timestamp": "03-05-25 / 10:13 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 90.45
+	},
+	{
+		"timestamp": "03-04-25 / 05:08 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 89.28
+	},
+	{
+		"timestamp": "03-03-25 / 11:22 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 87.28
+	},
+	{
+		"timestamp": "03-03-25 / 09:08 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 210.1
+	},
+	{
+		"timestamp": "03-02-25 / 07:51 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 93
+	},
+	{
+		"timestamp": "03-02-25 / 06:23 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 84.15
+	},
+	{
+		"timestamp": "03-02-25 / 04:49 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 2,
+		"price": 224.1
+	},
+	{
+		"timestamp": "03-02-25 / 09:22 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 143.58
+	},
+	{
+		"timestamp": "03-02-25 / 01:39 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 84.15
+	},
+	{
+		"timestamp": "02-27-25 / 10:32 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 89.28
+	},
+	{
+		"timestamp": "02-26-25 / 09:32 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 2,
+		"price": 223.78
+	},
+	{
+		"timestamp": "02-26-25 / 08:31 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 2,
+		"price": 233.1
+	},
+	{
+		"timestamp": "02-24-25 / 11:27 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 85.48
+	},
+	{
+		"timestamp": "02-24-25 / 02:15 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 84.59
+	},
+	{
+		"timestamp": "02-23-25 / 10:43 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 89.98
+	},
+	{
+		"timestamp": "02-21-25 / 07:48 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 4,
+		"price": 233.1
+	},
+	{
+		"timestamp": "02-21-25 / 06:46 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 4,
+		"price": 230.77
+	},
+	{
+		"timestamp": "02-17-25 / 11:01 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 79.54
+	},
+	{
+		"timestamp": "02-15-25 / 08:02 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 84
+	},
+	{
+		"timestamp": "02-15-25 / 08:01 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 84
+	},
+	{
+		"timestamp": "02-13-25 / 09:11 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 77.9
+	},
+	{
+		"timestamp": "02-13-25 / 04:23 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 227.5
+	},
+	{
+		"timestamp": "02-13-25 / 02:10 AM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 220.72
+	},
+	{
+		"timestamp": "02-12-25 / 12:28 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 87.7
+	},
+	{
+		"timestamp": "02-12-25 / 10:37 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 81.01
+	},
+	{
+		"timestamp": "02-12-25 / 10:37 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 80.82
+	},
+	{
+		"timestamp": "02-12-25 / 12:29 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 75.15
+	},
+	{
+		"timestamp": "02-11-25 / 01:28 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 3,
+		"price": 76.92
+	},
+	{
+		"timestamp": "02-11-25 / 01:17 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 76.92
+	},
+	{
+		"timestamp": "02-11-25 / 01:10 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 76.82
+	},
+	{
+		"timestamp": "02-11-25 / 02:59 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 75.48
+	},
+	{
+		"timestamp": "02-10-25 / 03:08 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 165.53
+	},
+	{
+		"timestamp": "02-10-25 / 03:08 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 194.74
+	},
+	{
+		"timestamp": "02-10-25 / 01:59 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 75.24
+	},
+	{
+		"timestamp": "02-09-25 / 04:37 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 75.41
+	},
+	{
+		"timestamp": "02-09-25 / 02:29 AM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 201.11
+	},
+	{
+		"timestamp": "02-05-25 / 12:15 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 60.48
+	},
+	{
+		"timestamp": "02-05-25 / 11:40 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 60.48
+	},
+	{
+		"timestamp": "02-04-25 / 10:54 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 63.09
+	},
+	{
+		"timestamp": "02-04-25 / 04:14 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 60.74
+	},
+	{
+		"timestamp": "02-04-25 / 01:21 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 58.76
+	},
+	{
+		"timestamp": "02-04-25 / 12:19 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 63.39
+	},
+	{
+		"timestamp": "02-04-25 / 08:12 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 61.75
+	},
+	{
+		"timestamp": "02-03-25 / 11:45 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 63.39
+	},
+	{
+		"timestamp": "02-03-25 / 10:14 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 61.75
+	},
+	{
+		"timestamp": "02-03-25 / 10:13 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 63.42
+	},
+	{
+		"timestamp": "02-03-25 / 09:19 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 62.64
+	},
+	{
+		"timestamp": "02-03-25 / 09:18 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 64.33
+	},
+	{
+		"timestamp": "02-03-25 / 07:21 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 63.42
+	},
+	{
+		"timestamp": "02-03-25 / 04:05 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 60.74
+	},
+	{
+		"timestamp": "02-03-25 / 01:47 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 100.65
+	},
+	{
+		"timestamp": "02-03-25 / 12:38 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 63.52
+	},
+	{
+		"timestamp": "02-03-25 / 12:38 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 63.52
+	},
+	{
+		"timestamp": "02-03-25 / 11:59 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 61.43
+	},
+	{
+		"timestamp": "02-03-25 / 10:34 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "1",
+		"quantity": 2,
+		"price": 60.81
+	},
+	{
+		"timestamp": "02-03-25 / 03:59 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 61.43
+	},
+	{
+		"timestamp": "02-02-25 / 10:52 PM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 185.66
+	},
+	{
+		"timestamp": "02-02-25 / 10:45 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 59.9
+	},
+	{
+		"timestamp": "02-02-25 / 10:32 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 76.5
+	},
+	{
+		"timestamp": "02-01-25 / 11:30 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 70.2
+	},
+	{
+		"timestamp": "02-01-25 / 10:54 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 57.21
+	},
+	{
+		"timestamp": "02-01-25 / 02:26 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 55.64
+	},
+	{
+		"timestamp": "02-01-25 / 04:14 AM",
+		"zone": "VIP",
+		"section": "Heineken Silver Zone",
+		"row": "",
+		"quantity": 0,
+		"price": 164.22
+	},
+	{
+		"timestamp": "01-31-25 / 08:26 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 1,
+		"price": 57.21
+	},
+	{
+		"timestamp": "01-31-25 / 12:42 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 4,
+		"price": 52.16
+	},
+	{
+		"timestamp": "01-31-25 / 08:48 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 55.29
+	},
+	{
+		"timestamp": "01-30-25 / 05:21 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 2,
+		"price": 54.77
+	},
+	{
+		"timestamp": "01-28-25 / 12:22 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 164.62
+	},
+	{
+		"timestamp": "01-27-25 / 03:20 PM",
+		"zone": "VIP",
+		"section": "Green Zone General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 164.22
+	},
+	{
+		"timestamp": "01-27-25 / 01:36 PM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 53.4
+	},
+	{
+		"timestamp": "01-25-25 / 03:20 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 99.54
+	},
+	{
+		"timestamp": "01-25-25 / 03:20 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 100.71
+	},
+	{
+		"timestamp": "01-25-25 / 03:20 AM",
+		"zone": "General Admission",
+		"section": "General Admission",
+		"row": "",
+		"quantity": 0,
+		"price": 102.23
+	}
+]

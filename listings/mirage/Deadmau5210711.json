@@ -1,0 +1,90 @@
+[
+	{
+		"timestamp": "06-23-21 / 02:51 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 2,
+		"price": 107.91
+	},
+	{
+		"timestamp": "06-20-21 / 12:34 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 163.4
+	},
+	{
+		"timestamp": "06-18-21 / 06:26 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "GA",
+		"quantity": 1,
+		"price": 165
+	},
+	{
+		"timestamp": "06-18-21 / 10:13 AM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 1,
+		"price": 80
+	},
+	{
+		"timestamp": "06-18-21 / 10:13 AM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 150
+	},
+	{
+		"timestamp": "06-13-21 / 11:56 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "General Ad",
+		"quantity": 1,
+		"price": 150
+	},
+	{
+		"timestamp": "06-13-21 / 04:57 PM",
+		"zone": "VIP",
+		"section": "VIP",
+		"row": "VIP",
+		"quantity": 1,
+		"price": 200
+	},
+	{
+		"timestamp": "06-12-21 / 04:38 AM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 80
+	},
+	{
+		"timestamp": "06-11-21 / 11:27 AM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "General Ad",
+		"quantity": 2,
+		"price": 130
+	},
+	{
+		"timestamp": "06-10-21 / 09:59 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "General Ad",
+		"quantity": 1,
+		"price": 130
+	},
+	{
+		"timestamp": "06-10-21 / 04:17 PM",
+		"zone": "GA",
+		"section": "General Admission",
+		"row": "N/A",
+		"quantity": 2,
+		"price": 80
+	}
+]
