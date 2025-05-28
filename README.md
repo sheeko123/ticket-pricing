@@ -95,16 +95,7 @@ streamlit run app.py
 
 ## Development
 
-### Adding New Features
-1. Create a new branch
-2. Implement your changes
-3. Add tests if applicable
-4. Submit a pull request
 
-### Running Tests
-```bash
-pytest tests/
-```
 
 ## Contributing
 
@@ -114,18 +105,10 @@ pytest tests/
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- XGBoost team for the powerful gradient boosting library
-- Streamlit team for the excellent dashboard framework
-- All contributors who have helped improve this project
 
 ## Contact
 
-Dara Sheehan - [Your Email]
+Dara Sheehan - 
 
-Project Link: [https://github.com/yourusername/ticket-pricing](https://github.com/yourusername/ticket-pricing) 
+
