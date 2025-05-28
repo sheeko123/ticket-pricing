@@ -17,7 +17,7 @@ A machine learning-powered dashboard for predicting and analyzing ticket prices 
 - R-squared: 0.8622
 - Uses time series cross-validation
 
-### Non-Floor Tickets Model
+### Entry Price (Lowest 10%) Tickets Model
 - RMSE: $16.12
 - R-squared: 0.9314
 - Uses stratified grouped cross-validation
